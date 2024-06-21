@@ -204,6 +204,8 @@ function getLevels(sp) {
 	return levelsString.substring(0, levelsString.length - 1);
 }
 function addBoxes(dict, element, array, nonempty = false, check = true, sort = true, other = false) {
+	element.innerHTML = "";
+
 	let boxAll = document.createElement("div");
 	boxAll.style = "display: flex; ";
 	let checkboxAll = document.createElement("input");

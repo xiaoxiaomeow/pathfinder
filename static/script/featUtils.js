@@ -192,6 +192,8 @@ function loadUrlFeat() {
     });
 }
 function addBoxes(dict, element, array, nonempty = false, check = true, sort = true, extra = null) {
+	element.innerHTML = "";
+	
     let boxAll = document.createElement("div");
     boxAll.style = "display: flex; ";
     let checkboxAll = document.createElement("input");
