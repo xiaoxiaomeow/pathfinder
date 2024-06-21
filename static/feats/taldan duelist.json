@@ -1,0 +1,25 @@
+{
+    "key": "taldan duelist",
+    "name": "Taldan Duelist",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Taldan%20Duelist",
+    "descriptors": ["Combat"],
+    "source":     [
+        "Inner Sea World Guide pg. 289",
+        "Pathfinder Campaign Setting pg. 137"
+    ],
+    "text": "You trained at one of Taldor’s elite fighting schools and are skilled at rondelero, the art of fighting with the falcata (see the <i>Advanced Player’s Guide<\/i>) and buckler.",
+    "prerequisites": "Dex 13, Exotic Weapon Proficiency (falcata), Shield Proficiency (buckler), Weapon Focus (falcata).",
+    "benefit": "When fighting with the falcata and buckler, your shield bonus to AC increases by +1 and you gain a +2 bonus on Acrobatics checks.",
+    "staminaSource": "Weapon Master's Handbook pg. 25",
+    "staminaText": "When you make an attack with a falcata using two hands while wearing a buckler, you can spend 3 stamina points to ignore the –1 penalty on attack rolls for using your shield arm to wield a weapon while wearing a buckler and to retain the buckler’s shield bonus for 1 round.",
+    "prerequisiteKeys":     [
+        "exotic weapon proficiency",
+        "shield proficiency",
+        "weapon focus"
+    ],
+    "name_zh": "塔尔多决斗家",
+    "text_zh": "你曾经受过塔尔多的精英战斗学院的训练，并且精通龙德勒罗（rondelero）——使用反曲剑（见进阶玩者手册）与小圆盾的武艺。",
+    "prerequisites_zh": "敏捷13，擅长异种武器（反曲剑），盾牌熟悉（小圆盾），武器专攻（反曲剑）。",
+    "benefit_zh": "当你使用反曲剑与小圆盾进行战斗时，你的盾牌提供的AC提高1点，并且你的特技动作检定获得+2加值。",
+    "staminaText_zh": "当在装备小圆盾持用钩形砍刀用双手做出攻击时，你可以在装备小圆盾时消耗3点耐力来忽略掉因为使用持盾手持用武器而在所有攻击上获得的-1减值，并保留小圆盾的盾牌加值，持续1轮。"
+}

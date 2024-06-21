@@ -1,0 +1,20 @@
+{
+    "key": "spear dancing spiral",
+    "name": "Spear Dancing Spiral",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spear%20Dancing%20Spiral",
+    "descriptors": ["Combat"],
+    "source": ["Weapon Master's Handbook pg. 17"],
+    "text": "You wield spears with poise and grace.",
+    "prerequisites": "Dex 15, Spear Dancing Style, Two-Weapon Fighting, Weapon Finesse, Weapon Focus with the chosen weapon.",
+    "benefit": "While using Spear Dancing Style, you gain the benefit of Weapon Finesse with the chosen weapon if it is appropriately sized for a creature of your size category. In addition, you can use any feat or ability that functions with a quarterstaff with your chosen weapon.",
+    "prerequisiteKeys":     [
+        "spear dancing style",
+        "two-weapon fighting",
+        "weapon finesse",
+        "weapon focus"
+    ],
+    "name_zh": "枪舞疾",
+    "text_zh": "你运用优雅与灵巧的身姿来操作你的长枪。",
+    "prerequisites_zh": "敏捷15，双武器格斗（Two-Weapon Fighting），武器娴熟（Weapon Finesse），枪舞式，对所选武器拥有武器专攻专长。",
+    "benefit_zh": "当开启枪舞流架势时，如果你所持的武器符合你的体型，那么你就可以获得武器娴熟专长的好处。除此之外，任何你所拥有的，可以应用到木棍（Quarterstaff）上的专长均可以运用到你在枪舞式所选的武器上。"
+}

@@ -1,0 +1,27 @@
+{
+    "key": "hide from undead, greater",
+    "name": "Hide from Undead, Greater",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hide%20from%20Undead,%20Greater",
+    "source": ["People of the Wastes pg. 29"],
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 3,
+        "inquisitor": 3,
+        "oracle": 3,
+        "warpriest": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "duration": "10 minutes/level (D)",
+    "savingThrow": "Will negates (harmles)",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>hide from undead<\/i>, except the spell does not immediately end if a warded creature attempts to turn or command undead, channels positive energy, touches an undead creature, or attacks any creature. Instead, when the warded creature takes one of these actions, an intelligent undead creature can attempt another Will saving throw to negate the effects of the spell.",
+    "name_zh": "高等亡灵无视术",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "10分钟/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术功能如同“亡灵无视术（HIDE FROM UNDEAD）”一般，但该法术在受术者尝试引导正能量、触碰、驱散或命令不死生物，或攻击任意生物时不会马上结束。但是，若受术者采取上述任一举动，则智能不死生物能额外进行一次意志豁免以忽略该法术的效果。<\/p>"
+}

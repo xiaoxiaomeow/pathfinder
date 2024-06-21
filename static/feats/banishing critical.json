@@ -1,0 +1,21 @@
+{
+    "key": "banishing critical",
+    "name": "Banishing Critical",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Banishing%20Critical",
+    "descriptors": ["Critical"],
+    "source":     [
+        "Monster Summoner's Handbook pg. 8",
+        "Blood of Angels pg. 24"
+    ],
+    "text": "Your familiarity with summoning creatures has taught you how to send them away with a well-timed strike.",
+    "prerequisites": "Arcane Strike or Disruptive; Spellcraft 8 ranks; arcane pool class feature.",
+    "benefit": "When you confirm a critical hit against a target while using Arcane Strike or with a weapon enhanced by your arcane pool, if the target was summoned by a spell you identified using a Spellcraft check, it must succeed at a Will save (DC = 10 + 1/2 your character level + your Intelligence modifier) or be sent back to its home plane as per the <i>dismissal<\/i> spell.",
+    "prerequisiteKeys":     [
+        "arcane strike",
+        "disruptive"
+    ],
+    "name_zh": "放逐重击",
+    "text_zh": "依靠你纯属的作战技术和法术知识，你将异界怪物送回他们的老家。",
+    "prerequisites_zh": "重击专攻，施放驱逐术（dismissal）或放逐术（banishment）的能力，施法者等级9。",
+    "benefit_zh": "当你用一把挥砍或钝击武器造成攻击，你可以用一次直觉动作施放驱逐术或放逐术，并且目标在对抗这次法术的意志检定中有-4罚值。你必须准备有或能够自发施放驱逐术或放逐术才能使用该能力。"
+}

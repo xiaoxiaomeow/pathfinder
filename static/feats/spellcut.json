@@ -1,0 +1,18 @@
+{
+    "key": "spellcut",
+    "name": "Spellcut",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spellcut",
+    "descriptors": ["Weapon Mastery"],
+    "source": ["Weapon Master's Handbook pg. 22"],
+    "text": "You can weaken waves of harmful magic energy with weapon blows.",
+    "prerequisites": "Str 13, Cut from the Air, Power Attack, base attack bonus +9, Spellcraft 1 rank, weapon training class feature with a melee weapon.",
+    "benefit": "Once per round, you can use your base attack bonus in place of your total saving throw bonus for a spell, spell-like ability, or supernatural ability that either allows a Reflex save or is not a melee attack and targets only you.",
+    "prerequisiteKeys":     [
+        "cut from the air",
+        "power attack"
+    ],
+    "name_zh": "法切",
+    "text_zh": "你可以以武器一击阻碍法术的流动。",
+    "prerequisites_zh": "力量13，猛力攻击，矢切，BAB+9，对所选近战武器拥有战士武器训练（Weapon Training）职业能力。",
+    "benefit_zh": "每轮一次，若仅有你一人受到非近战攻击或是需要反射豁免的法术、类法术能力、超自然能力影响时，使用你的基础攻击加值来取代全部豁免加值进行这次豁免检定。"
+}

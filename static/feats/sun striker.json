@@ -1,0 +1,23 @@
+{
+    "key": "sun striker",
+    "name": "Sun Striker",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sun%20Striker",
+    "descriptors":     [
+        "Combat",
+        "Critical"
+    ],
+    "source": ["Inner Sea Gods pg. 217"],
+    "text": "Called by the Dawnflower to strike down the undead, your scimitar becomes an agent of her burning will.",
+    "prerequisites": "Critical Focus, Weapon Focus (scimitar), character level 7th, worshiper of Sarenrae.",
+    "benefit": "Whenever you confirm a critical hit against an undead creature, your attack bypasses all DR, deals full damage to incorporeal creatures, and acts as though it has the flaming burst weapon special ability.",
+    "staminaSource": "Weapon Master's Handbook pg. 25",
+    "staminaText": "Whenever you threaten a critical hit against an undead creature, you can spend up to 4 stamina points to gain a +1 bonus per stamina point spent to confirm the critical hit.",
+    "prerequisiteKeys":     [
+        "critical focus",
+        "weapon focus"
+    ],
+    "name_zh": "烈日刀",
+    "prerequisites_zh": "重击专攻，武器专攻（弯刀），角色等级7，信仰沙莱伦。",
+    "benefit_zh": "当你对一个不死生物确认重击时，你忽略它的所有伤害减免，因为虚体特性而获得的特殊防御，并且你的武器视为拥有焰爆附魔品质。",
+    "staminaText_zh": "当你对一个不死生物威胁了一次重击时，你可以消耗至多4点耐力来在确认重击时获得加值，每消耗1点耐力获得1点加值。"
+}

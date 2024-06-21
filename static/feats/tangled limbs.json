@@ -1,0 +1,23 @@
+{
+    "key": "tangled limbs",
+    "name": "Tangled Limbs",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tangled%20Limbs",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 25"],
+    "text": "You twist your long weapon among your target’s legs, knocking your foe off-balance.",
+    "prerequisites": "Int 13, Combat Expertise, Improved Trip, Weapon Focus with the chosen weapon.",
+    "benefit": "Choose one weapon with the reach special quality. When you attempt a trip combat maneuver check with the chosen weapon, your target doesn’t receive a bonus to its CMD against your trip attempt for having more than two legs.",
+    "normal": "A creature with more than two legs receives a +2 bonus to its CMD against trip attempts for each additional leg it has.",
+    "special": "In addition to the chosen weapon, a character with the weapon training class feature can use Tangled Limbs with any melee weapon from any fighter weapon group that he has selected with weapon training and that has the reach special quality.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved trip",
+        "weapon focus"
+    ],
+    "name_zh": "绊腿",
+    "text_zh": "你把自己的长武器别在目标腿间，将其击倒俯卧。",
+    "prerequisites_zh": "智力13，寓守于攻，精通摔绊，对所选武器的武器专攻。",
+    "benefit_zh": "选择一种拥有触及特殊能力的武器。当你使用所选武器进行摔绊时，目标不会因为多余两条腿获得对抗你的CMD加值。",
+    "normal_zh": "多余两条腿的生物在对抗摔绊时每多一条腿会获得+2加值。",
+    "special_zh": "除了所选武器，拥有武器训练职业能力的可以用任何他所选择的战士武器组中拥有触及特性的武器使用绊腿专长。"
+}

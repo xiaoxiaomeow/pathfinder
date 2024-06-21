@@ -1,0 +1,23 @@
+{
+    "key": "bulette charge style",
+    "name": "Bulette Charge Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bulette%20Charge%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Armor Master's Handbook pg. 10"],
+    "text": "You use the weight of your armor to enhance the momentum of your charge.",
+    "prerequisites": "Str 13, Improved Overrun, Power Attack, proficiency with heavy armor.",
+    "benefit": "While using this style, you gain a +4 bonus on combat maneuver checks to overrun an opponent. Any magic ability or material that reduces your armor check penalty also reduces the bonus you gain for this style.",
+    "special": "A character with the armor training class feature can use Bulette Charge Style while wearing any type of armor with which she is proficient. Medium armor grants a +3 bonus, and light armor grants a +2 bonus.",
+    "prerequisiteKeys":     [
+        "improved overrun",
+        "power attack"
+    ],
+    "name_zh": "鲨蜥流",
+    "text_zh": "使用你盔甲的重量使你的冲锋更加凶猛。",
+    "prerequisites_zh": "力量13，精通闯越，猛力攻击，擅长重甲。",
+    "benefit_zh": "开启此流派后，在对对手进行闯越战技时获得+4加值。任何减少你防具检定减值的魔法能力或者材料特性同样会减少你从此流派获得的加值。",
+    "special_zh": "具有盔甲训练职业能力的角色可以穿着任何他擅长的盔甲来使用本流派。中甲的加值为+3，轻甲+2。"
+}

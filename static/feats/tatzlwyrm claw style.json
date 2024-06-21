@@ -1,0 +1,21 @@
+{
+    "key": "tatzlwyrm claw style",
+    "name": "Tatzlwyrm Claw Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tatzlwyrm%20Claw%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Legacy of Dragons pg. 21"],
+    "text": "Your curled fingers can tear into opponents’ flesh and snatch free grappled allies.",
+    "prerequisites": "Dex 13, Improved Grapple, Improved Unarmed Strike, Escape Artist 1 rank.",
+    "benefit": "You can choose for your unarmed attacks to deal slashing damage. If you strike a target that has another creature grappled or pinned, as a swift action you can immediately attempt a grapple combat maneuver check against the target’s CMD. If you succeed at the check, you can force the target to release a grappled creature or switch a pinned creature to being merely grappled.",
+    "prerequisiteKeys":     [
+        "improved grapple",
+        "improved unarmed strike"
+    ],
+    "name_zh": "泰兹瑞亚龙爪击流",
+    "text_zh": "你卷缩的手指可以撕碎对手的皮肤，抓住被擒抱的盟友。",
+    "prerequisites_zh": "敏捷13，精通擒抱，精通徒手打击，逃脱1级。",
+    "benefit_zh": "你可以选择让徒手攻击造成挥砍伤害。如果你击中了一个正在擒抱或压制另一个生物的目标，你可以以一个迅捷动作，立刻对目标进行一次擒抱战技检定对抗目标的CMD。如果你通过检定，你可以强制让目标释放一个被擒抱的生物或是将一个被压制的生物变成仅被擒抱。"
+}

@@ -1,0 +1,21 @@
+{
+    "key": "blood frenzy assault",
+    "name": "Blood Frenzy Assault",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blood%20Frenzy%20Assault",
+    "descriptors": ["Combat"],
+    "source": ["Heroes from the Fringe pg. 31"],
+    "text": "The scent of blood intensifies your fury, and every wound you tear into your foes increases both your drive and ability to wreak havoc.",
+    "prerequisites": "Str 17, Blood Frenzy Strike, Blood Frenzy Style, Bloody Assault, Improved Unarmed Strike, Power Attack, base attack bonus +6, aquatic subtype.",
+    "benefit": "While you are using Blood Frenzy Style, when you make a full attack, you can make an additional unarmed or natural weapon attack for each enemy within your reach that is affected by a bleed effect. Until your next turn, you take a –2 penalty to AC for each additional attack gained in this way. In addition, the bleed damage your unarmed strikes deal from Blood Frenzy Strike increases to 2d6 points of bleed damage.",
+    "prerequisiteKeys":     [
+        "blood frenzy strike",
+        "blood frenzy style",
+        "bloody assault",
+        "improved unarmed strike",
+        "power attack"
+    ],
+    "name_zh": "血怒袭",
+    "text_zh": "血腥气息将助长你的狂怒，敌人被撕裂的每一处伤口都会让你的猛击与肆虐愈加强劲。",
+    "prerequisites_zh": "力量 17，血怒流，血怒击，精通徒手打击，猛力攻击，基础攻击加值+6，水生亚种。",
+    "benefit_zh": "当你使用血怒流，进行一次全回合攻击时，你可以对你触及范围内的每一个受流血效果影响的敌人进行一次额外的徒手打击或天生武器攻击。你每以这种方式进行一次额外攻击都会在AC上受到-2减值，直到你的下个回合开始。此外，血怒流赋予你徒手打击所造成的额外流血伤害增加到2d6点。"
+}

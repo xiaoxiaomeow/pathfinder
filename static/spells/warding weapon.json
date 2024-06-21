@@ -1,0 +1,31 @@
+{
+    "key": "warding weapon",
+    "name": "Warding Weapon",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Warding%20Weapon",
+    "source": ["Ultimate Combat pg. 248"],
+    "school": "abjuration",
+    "levels":     {
+        "arcanist": 2,
+        "bloodrager": 1,
+        "magus": 1,
+        "occultist": 1,
+        "psychic": 2,
+        "sorcerer": 2,
+        "summoner": 2,
+        "summoner (unchained)": 2,
+        "wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (one melee weapon you are proficient in and you are holding)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level",
+    "text": "The focus of this spell flies upward above your head and takes a defensive position within your space. It lunges at opponents, as if guided by a martially trained hand, parrying and turning back melee attacks aimed at you, but does not strike back at any opponent nor does it damage them. The weapon serves only as a defense. While it protects you, you can cast spells without provoking attacks of opportunity, without the need to cast them defensively.<br><br> A creature with the Disruptive feat can easily bypass this spell’s defenses. You provoke attacks of opportunity for casting spells against these creatures even when subject to this spell, though you can still choose to cast defensively.",
+    "name_zh": "戒卫武器",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势，器材 (一把你擅长并持有的近战武器)",
+    "range_zh": "个人",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>作为施法器材的武器将会飞到你的头顶并且在你的方格协助你进行防御。<\/p><p>它会如同一个受过训练的人持有一样面对敌方，并且招架和打偏针对你的近战攻击，不过不会进行任何攻击和造成任何伤害。武器只能以防御的方式工作。<\/p><p>当它保护你时，你可以在不触发藉机攻击的情况下施放法术而无需进行防御式施法。<\/p><p>拥有扰乱施法 (Disruptive) 专长的生物可以轻松的突破该法术的防御。即使你在本法术影响之下，你在它的威胁范围内进行正常施法会如常引发藉机攻击，不过你还是可以选择进行防御式施法以避免藉机攻击。<\/p>"
+}

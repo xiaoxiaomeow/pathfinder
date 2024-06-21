@@ -1,0 +1,20 @@
+{
+    "key": "smash",
+    "name": "Smash",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Smash",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 170"],
+    "text": "You overcome obstacles by breaking them.",
+    "prerequisites": "Power Attack, half-orc.",
+    "benefit": "When you attack an inanimate, unattended object, you ignore the first 5 points of its hardness. You also receive a +5 bonus on Strength checks made to knock down or break open doors.",
+    "special": "The benefits of this feat do not apply to sunder attempts or attacks against constructs, only attacks on inanimate, unattended objects.",
+    "staminaSource": "Pathfinder Unchained pg. 132",
+    "staminaText": "When attempting a sunder combat maneuver or making an attack against a construct that has a hardness, you can spend 5 stamina points to ignore the first 10 points of the target’s hardness.",
+    "prerequisiteKeys": ["power attack"],
+    "name_zh": "粉碎击",
+    "text_zh": "你能够通过破坏来扫清障碍物。",
+    "prerequisites_zh": "猛力攻击，半兽人。",
+    "benefit_zh": "当你攻击一个无生命的无主物体时，你能够忽略它的前5点硬度。你还在撞门或者破门的时候，力量检定获得+5加值。",
+    "special_zh": "该专长的好处并不适用于击破武器的尝试，或者对抗构装体的攻击，只对无生命的无主物体有效。",
+    "staminaText_zh": "当你尝试破武战技检定或者对一个拥有硬度的构装体做出一次攻击时，你可以消耗5点耐力来忽视目标的前10点硬度。"
+}

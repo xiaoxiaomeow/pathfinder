@@ -1,0 +1,20 @@
+{
+    "key": "octopus thrash",
+    "name": "Octopus Thrash",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Octopus%20Thrash",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 15"],
+    "text": "Your arms flail about in a confusing pattern of strikes that trips and batters your foes.",
+    "prerequisites": "Dex 13, Dodge, Improved Trip, Octopus Focus, Octopus Style, Acrobatics 7 ranks, Perception 7 ranks.",
+    "benefit": "While using Octopus Style, when you threaten two enemies who are adjacent to each other, you can attempt a trip combat maneuver check against both targets at once in place of a melee attack. You attempt a single combat maneuver check at a –5 penalty and apply the result to both targets.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "improved trip",
+        "octopus focus",
+        "octopus style"
+    ],
+    "name_zh": "章鱼鞭打",
+    "text_zh": "你的手臂以令人困惑的方式摔绊和鞭笞敌人。",
+    "prerequisites_zh": "敏捷13，闪避，精通摔绊，章鱼专注，章鱼流，特技7级，察觉7级。",
+    "benefit_zh": "当使用章鱼流时，当你威胁两个互相相邻的敌人，你可以尝试一次摔绊战技检定取代你的近战攻击，同时对抗两个目标。你进行一次收到-5减值的战技检定并且将结果应用于这两个目标。"
+}

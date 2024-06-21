@@ -1,0 +1,39 @@
+{
+    "key": "miasmal dread",
+    "name": "Miasmal Dread",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Miasmal%20Dread",
+    "source": ["Inner Sea Races pg. 221"],
+    "school": "enchantment",
+    "subSchools": ["compulsion"],
+    "descriptors":     [
+        "fear",
+        "mind-affecting"
+    ],
+    "descriptorsOperator": ",",
+    "race": "Half-Orc",
+    "levels":     {
+        "antipaladin": 2,
+        "bard": 2,
+        "bloodrager": 2,
+        "inquisitor": 3,
+        "skald": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "30 feet",
+    "area": "cone-shaped burst",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "A cloud of sickly green mist pours from your mouth and coalesces around creatures in the cone. Attempt a single Intimidate check to demoralize as part of casting the spell, comparing the result against the DC to Intimidate each foe within the area. You demoralize all foes whose DC you meet or exceed.",
+    "name_zh": "恐惧喷发",
+    "race_zh": "半兽人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "30尺",
+    "area_zh": "锥形爆发区域",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "否",
+    "text_zh": "<p>一团病态的绿色雾气从你的嘴里喷涌而出，并在锥体中的生物周围凝聚。作为施放该法术的一部分，进行一次威吓检定来挫败士气，将结果与威吓该区域内的每个敌人的DC进行比较。 你会挫败所有你达到或超过DC的敌人的士气。<\/p>"
+}

@@ -1,0 +1,30 @@
+{
+    "key": "surmount affliction",
+    "name": "Surmount Affliction",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Surmount%20Affliction",
+    "source": ["Ultimate Magic pg. 241"],
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 2,
+        "inquisitor": 2,
+        "oracle": 2,
+        "spiritualist": 2,
+        "warpriest": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "you",
+    "target": "personal",
+    "duration": "1 round/level",
+    "text": "You temporarily overcome one harmful condition. This does not end the effect causing the condition; it just suspends that condition’s effect for the duration of the spell. You can surmount any one of the following conditions: blinded, confused, dazed, dazzled, deafened, fatigued, frightened, paralyzed, shaken, or sickened.",
+    "mythicSource": ["Mythic Adventures pg. 110"],
+    "mythicText": "You can cast this spell with no verbal or somatic component, and even if you’re helpless (but not unconscious). You temporarily overcome a number of additional harmful conditions equal to half your tier. <br><br><b>Augmented (7th)<\/b>: If you expend three uses of mythic power, you become immune to all afflictions the spell can normally overcome. In addition, you overcome (but do not become immune to) one of the following conditions: exhausted, nauseated, panicked, petrified, staggered, and stunned.",
+    "name_zh": "克服困境",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自己",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>你可以暂时克服一种有害状态。这并不会结束异常状态，它只是在法术持续时间之内暂缓它们。<\/p><p>你可以克服下列异常状态之一：目盲，困惑，晕眩，目眩，耳聋，疲乏，惊惧，麻痹，战栗，或是恶心。<\/p>",
+    "mythicText_zh": "<p>你能够可以在不带有语言（verbal）或姿势（somatic）成分的前提下施放该法术，即便你处于无助（helpless）状态也可以施放它（但是不能失去意识）。你能够暂时克服额外数量的有害状态，具体数量等同于你的阶层的一半。<\/p><p><b>强化（7阶）<\/b>：若你花费3次神话之力，你就能免疫该法术正常能够克服的所有苦难（afflictions）。此外，你能够克服（但不会免疫）后述状态中的一个：力竭（exhausted）、反胃（nauseated）、恐慌（panicked）、石化（petrified）、恍惚（staggered）以及震慑（stunned）。<\/p>"
+}

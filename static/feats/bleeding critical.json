@@ -1,0 +1,30 @@
+{
+    "key": "bleeding critical",
+    "name": "Bleeding Critical",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bleeding%20Critical",
+    "descriptors":     [
+        "Combat",
+        "Critical"
+    ],
+    "source": ["PRPG Core Rulebook pg. 118"],
+    "text": "Your critical hits cause opponents to bleed profusely.",
+    "prerequisites": "Critical Focus, base attack bonus +11.",
+    "benefit": "Whenever you score a critical hit with a slashing or piercing weapon, your opponent takes 2d6 points of bleed damage (see Conditions) each round on his turn, in addition to the damage dealt by the critical hit. Bleed damage can be stopped by a DC 15 Heal skill check or through any magical healing. The effects of this feat stack.",
+    "special": "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.",
+    "staminaSource": "Pathfinder Unchained pg. 114",
+    "staminaText": "When you deal bleed damage with this feat, you can spend up to 3 stamina points to increase the amount of bleed damage dealt by double the number of stamina points you spent.",
+    "mythicSource": "Mythic Adventures pg. 60",
+    "mythicText": "Your deadliest blows unleash rivers of blood.",
+    "mythicPrerequisites": "Bleeding Critical, Critical Focus (mythic).",
+    "mythicBenefit": "The bleed damage dealt with Bleeding Critical increases by your tier. Stopping this bleed damage requires a Heal check with a DC equal to 15 + 1/2 your tier. Any magical healing ends the bleed damage normally.<br><br> You can expend one use of mythic power to deal 1 Con bleed, in addition to the hit point bleed damage you deal with this feat. This effect increases by 1 for each additional use of mythic power you expend.",
+    "prerequisiteKeys": ["critical focus"],
+    "name_zh": "流血重击",
+    "text_zh": "你的重击能造成敌人流血不止。",
+    "prerequisites_zh": "重击专攻，BAB+11。",
+    "benefit_zh": "当你用挥砍或穿刺类武器造成重击时，你的敌人在受到重击伤害同时每轮承受2d6出血伤害。出血伤害可以通过DC15的医疗技能检定或者任何魔法治疗来制止。本专长效果可以叠加。",
+    "special_zh": "在没有掌握“重击熟稔”专长前，每次重击时你只能选择一种重击专长效果。",
+    "mythicText_zh": "你的致命打击会让人血流成河。",
+    "mythicPrerequisites_zh": "流血重击，重击专攻（神话）",
+    "mythicBenefit_zh": "流血重击造成的出血伤害增加，增加值等同于你的阶层。制止这些流血伤害需要进行医疗检定，DC等同于15 + 1/2你的阶层。任何魔法医疗会如常终止这种伤害。<\/p><p>你能够花费1次神话之力来造成1点体质出血（Con bleed），这是本专长所造成的出血伤害之外的效果。每额外花费1点神话之力，这个效果就会增加1点。",
+    "staminaText_zh": "通过花费最多不超过3点耐力，你提升出血伤害，等同于两倍你消耗的耐力点。"
+}

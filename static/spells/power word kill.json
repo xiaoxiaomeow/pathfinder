@@ -1,0 +1,40 @@
+{
+    "key": "power word kill",
+    "name": "Power Word Kill",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Power%20Word%20Kill",
+    "source": ["PRPG Core Rulebook pg. 324"],
+    "school": "enchantment",
+    "subSchools": ["compulsion"],
+    "descriptors":     [
+        "death",
+        "mind-affecting"
+    ],
+    "descriptorsOperator": ",",
+    "levels":     {
+        "arcanist": 9,
+        "psychic": 9,
+        "sorcerer": 9,
+        "witch": 9,
+        "wizard": 9
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one living creature with 100 hp or less",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "You utter a single word of power that instantly kills one creature of your choice, whether the creature can hear the word or not. Any creature that currently has 101 or more hit points is unaffected by <i>power word kill<\/i>.",
+    "mythicSource": ["Mythic Adventures pg. 103"],
+    "mythicText": "Treat the target’s current hit point total as though it were lowered by 5 times your tier. For example, a 3rd-tier archmage casting <i>mythic power word kill<\/i> would instantly kill a creature with 85 hit points or fewer.<br><br> You can target a creature with more hit points than this spell could normally affect, causing it to become exhausted.<br><br><b>Augmented (6th)<\/b>: If you expend four uses of mythic power, the magic of the word lingers around the target. Until the beginning of your next turn, if the target’s hit point total drops to the point that this spell would have killed it upon casting, it’s instantly slain.",
+    "name_zh": "真言术：死",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一个HP为100或更低的活物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你仅说出一个威力无比的词就能立即杀死你选定的一个生物，不管它是否能听见那个词。任何当前具有101或者更多HP的生物都不受真言术：死影响。<\/p>",
+    "mythicText_zh": "<p>将目标的总生命值视为比正常更低，数值为当前生命值减去你的阶层的五倍。例如：3阶大法师在会生命值为115点或更低的生物施放神话真言术：死的话，会立刻杀死该名生物。<\/p><p>即使对于生命值超出法术通常能够影响的范围的生物，你也能够将其作为目标，这会使它力竭（exhausted）。<\/p><p><b>强化（6阶）<\/b>：若你花费4次神话之力，真言的魔力就会萦绕着目标。直至你的下一回合开始为止，的总生命值降低至原本施法时会直接将其杀死的界线之内，则会立即杀死目标。<\/p><p>译注：原文中的举例并非115点，而是85点，疑似是体育老师教的数学……所以直接改了。但是力竭确实没有标注持续时间。<\/p>"
+}

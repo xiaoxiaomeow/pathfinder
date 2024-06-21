@@ -1,0 +1,20 @@
+{
+    "key": "improved channel",
+    "name": "Improved Channel",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Channel",
+    "source": ["PRPG Core Rulebook pg. 126"],
+    "text": "Your channeled energy is harder to resist.",
+    "prerequisites": "Channel energy class feature.",
+    "benefit": "Add 2 to the DC of saving throws made to resist the effects of your channel energy ability.",
+    "mythicSource": "Mythic Adventures pg. 66",
+    "mythicText": "As a divine conduit for energy, you’re unmatched.",
+    "mythicPrerequisites": "Improved Channel.",
+    "mythicBenefit": "Non-mythic creatures that take damage from your channel energy must roll their saving throws twice and take the lower result.",
+    "name_zh": "精通导能",
+    "text_zh": "你引导的能量难以被抵抗。",
+    "prerequisites_zh": "【引导能量】职业特性。",
+    "benefit_zh": "你引导能量的豁免DC+2。",
+    "mythicText_zh": "凡人无法抵御你所引导的神圣之力。",
+    "mythicPrerequisites_zh": "精通导能",
+    "mythicBenefit_zh": "非神话生物在受到你的引导能量造成的伤害时，必须投掷两次豁免并取较低的结果。"
+}

@@ -1,0 +1,18 @@
+{
+    "key": "bear hug",
+    "name": "Bear Hug",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bear%20Hug",
+    "descriptors": ["Combat"],
+    "source": ["Blood of the Moon pg. 11"],
+    "text": "You can crush your foes with your powerful arms.",
+    "prerequisites": "Str 17, Beartrap Bite, Weapon Focus (bite), base attack bonus +8.",
+    "benefit": "You can attempt to initiate a grapple against a foe trapped by your Beartrap Bite feat without provoking attacks of opportunity. You gain a +2 bonus on damage rolls against foes you are grappling.",
+    "prerequisiteKeys":     [
+        "beartrap bite",
+        "weapon focus"
+    ],
+    "name_zh": "熊抱",
+    "text_zh": "你能用有力的上肢粉碎敌人。",
+    "prerequisites_zh": "力量17，陷阱熊咬，武器专攻（啮咬），BAB+8。",
+    "benefit_zh": "你能对一个被你熊咬住的目标尝试擒抱而不引发借机攻击。你对你擒抱的目标的伤害骰得到+2加值。"
+}

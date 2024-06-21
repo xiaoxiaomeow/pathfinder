@@ -1,0 +1,18 @@
+{
+    "key": "garen's discipline",
+    "name": "Garen's Discipline",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Garen's%20Discipline",
+    "descriptors": ["Combat"],
+    "source": ["Adventurer's Guide pg. 26"],
+    "text": "You’ve learned to defend yourself against spell and storm with dazzling flourishes of your weapon.",
+    "prerequisites": "Alertness, Exotic Weapon Proficiency (Aldori dueling sword), Weapon Focus (Aldori dueling sword), base attack bonus +4.",
+    "benefit": "Whenever you use Combat Expertise, fight defensively, or take the total defense action, choose a type of saving throw. (You can choose a different type each time you take such an action.) Once per round before attempting a saving throw using the selected save, you gain a +2 bonus on that save. If you have a base attack bonus of +11 or higher, this bonus increases to +3. If you have a base attack bonus of +16 or higher, the bonus instead increases to +4.",
+    "prerequisiteKeys":     [
+        "alertness",
+        "exotic weapon proficiency",
+        "weapon focus"
+    ],
+    "name_zh": "加仑之戒",
+    "prerequisites_zh": "警觉，异种武器擅长（奥多里决斗剑），武器专攻（奥多里决斗剑），BAB+4。",
+    "benefit_zh": "当你使用防御式战斗，寓守于攻专长，全回合防御时，选择一种豁免（每次进行这些动作时，你都可以选择不同的豁免类型）检定。在尝试选择的豁免检定前，每轮一次，你在该豁免上获得+2加值。如果你的BAB达到了+11或更高，这个加值将增加到+3。如果你达到了BAB+16或更高，这个加值增加到+4."
+}

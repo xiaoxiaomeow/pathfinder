@@ -1,0 +1,25 @@
+{
+    "key": "sundering strike",
+    "name": "Sundering Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sundering%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 171"],
+    "text": "Your critical hits can sunder your foes’ weapons.",
+    "prerequisites": "Str 13, Improved Sunder, Power Attack, base attack bonus +9.",
+    "benefit": "Whenever you score a critical hit with a melee attack, you can sunder your opponent’s weapon, in addition to the normal damage dealt by the attack. If your confirmation roll exceeds your opponent’s CMD, you may deal damage to your opponent’s weapon as if from the sunder combat maneuver (roll normal damage to the weapon separately). This does not provoke an attack of opportunity.",
+    "normal": "You must perform a sunder combat maneuver to sunder an opponent’s weapon.",
+    "special": "You can only apply the effects of one of the following feats to a given critical hit: Bull Rush Strike, Disarming Strike, Repositioning Strike, Sundering Strike, or Tripping Strike. You may choose to use this feat after you make your confirmation roll.",
+    "staminaSource": "Pathfinder Unchained pg. 133",
+    "staminaText": "When you fail to confirm a critical hit with a melee attack, you can spend 2 stamina points to attempt to sunder the target’s weapon anyway. When you do, reroll the confirmation roll and use it to determine if the sunder attempt exceeds the opponent’s CMD. This reroll is used only for the sunder combat maneuver; it can’t cause the critical hit to be confirmed. You still can’t make the attempt if the target is immune to critical hits.",
+    "prerequisiteKeys":     [
+        "improved sunder",
+        "power attack"
+    ],
+    "name_zh": "破武重击",
+    "text_zh": "你的重击能够击破敌人的武器。",
+    "prerequisites_zh": "力量13，精通破武，猛力攻击，BAB+9。",
+    "benefit_zh": "当你的近战攻击成功重击时，除了攻击正常造成的伤害之外还能够击破敌人的武器。如果你的重击确认检定超过了敌人的CMD，那么你能够击破敌人的武器，就如同进行了破武战技检定一般（单独对武器进行正常的伤害检定）。这不会引起借机攻击。",
+    "normal_zh": "你必须进行破武战技检定才能击破敌人的武器。",
+    "special_zh": "你只能将后述专长中的一个应用在一次确认的重击上：冲撞重击，移位重击，破武重击，卸武重击或者绊摔重击。你可以在重击确认检定之后选择使用该专长。",
+    "staminaText_zh": "当你在近战攻击的重击确认中失败时，你仍可以消耗2点耐力来尝试击破目标的武器。当你这样做时，重投确认骰，并使用它来决定破武尝试是否达到了目标的CMD。该重投只能被用来进行破武战技，它不能让重击确认。你仍不能对免疫重击的目标做出该尝试。"
+}

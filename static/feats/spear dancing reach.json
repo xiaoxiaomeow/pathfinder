@@ -1,0 +1,21 @@
+{
+    "key": "spear dancing reach",
+    "name": "Spear Dancing Reach",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spear%20Dancing%20Reach",
+    "descriptors": ["Combat"],
+    "source": ["Weapon Master's Handbook pg. 17"],
+    "text": "You can strike from afar with double weapons.",
+    "prerequisites": "Dex 17, Spear Dancing Spiral, Spear Dancing Style, Two-Weapon Fighting, Weapon Finesse, Weapon Focus with the chosen weapon.",
+    "benefit": "While using Spear Dancing Style and making a full attack using the chosen weapon as a double weapon, you can grant the reach special weapon feature to one or both of the weapon’s ends until the end of your turn as a swift action.",
+    "prerequisiteKeys":     [
+        "spear dancing spiral",
+        "spear dancing style",
+        "two-weapon fighting",
+        "weapon finesse",
+        "weapon focus"
+    ],
+    "name_zh": "枪舞觅心",
+    "text_zh": "无论是使用长枪的哪一头，你都可以在敌人刀剑的范围外直指其要害。",
+    "prerequisites_zh": "敏捷17，双武器格斗（Two-Weapon Fighting），武器娴熟（Weapon Finesse），枪舞式，枪舞疾，对所选武器拥有武器专攻专长。",
+    "benefit_zh": "当开启枪舞流架势时，每当你同时以双头武器的形式使用这件武器发动整轮攻击时，你都可以选择以一个迅捷动作赋予这此武器的一头或两头以触及武器特性。直至你的回合结束。"
+}

@@ -1,0 +1,17 @@
+{
+    "key": "align equipment",
+    "name": "Align Equipment",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Align%20Equipment",
+    "source": ["Undead Slayer's Handbook pg. 6"],
+    "text": "You gain the ability to bless equipment with abilities that make them more effective against outsiders.",
+    "prerequisites": "Alignment Channel, Bless Equipment, caster level 3rd, channel energy class feature.",
+    "benefit": "In addition to the blessings provided by Bless Equipment, you can imbue weapons, shields, and suits of armor with the special abilities listed in the following table. If a special ability is followed by an alignment set in parentheses, you must be able to channel energy capable of healing or harming outsiders of that alignment subtype with Alignment Channel. For example, a cleric must have Alignment Channel (good) to bless a weapon with the holy special ability, Alignment Channel (law) to bless a shield with the vigilant special ability, and so on. Aligned equipment blessings otherwise follow all the same rules as the equipment blessings granted by Bless Equipment.",
+    "prerequisiteKeys":     [
+        "alignment channel",
+        "bless equipment"
+    ],
+    "name_zh": "阵营武具",
+    "text_zh": "祝福武具能力在对抗异界生物时更加有效。",
+    "prerequisites_zh": "阵营导能、祝福武具、施法者等级3、引导能力职业特性。",
+    "benefit_zh": "在祝福武具的能力表之外，你可以给武器、盾牌、护甲灌入更多种类的能力，见表。你所附加的额外能力必须符合你的引导能量能力和阵营导能能力。例如，只有阵营导能（善良）的角色才能给武器附加神圣holy特殊能力。阵营导能（秩序）的角色才能给盾牌附加机警vigilant特殊能力。其它规则等同于祝福武具专长。<div class=\"inner\"><table><tr><th>阵营武器祝福<\/th><th>使用引导次数<\/th><th>施法者等级需求<\/th><\/tr><tr><td>混沌（混乱）<\/td><td>3<\/td><td>6<\/td><\/tr><tr><td>秩序（守序）<\/td><td>3<\/td><td>6<\/td><\/tr><tr><td>神圣（善良）<\/td><td>3<\/td><td>6<\/td><\/tr><tr><td>邪恶（邪恶）<\/td><td>3<\/td><td>6<\/td><\/tr><\/table><\/div><div class=\"inner\"><table><tr><th>阵营护甲/盾牌祝福<\/th><th>使用引导次数<\/th><th>施法者等级需求<\/th><\/tr><tr><td>勇士（善良）<\/td><td>2<\/td><td>3<\/td><\/tr><tr><td>卑劣（邪恶）<\/td><td>2<\/td><td>3<\/td><\/tr><tr><td>挑战（限单一阵营异界生物）*<\/td><td>2<\/td><td>3<\/td><\/tr><tr><td>正义（善良）<\/td><td>6<\/td><td>10<\/td><\/tr><tr><td>无拘（混乱）<\/td><td>6<\/td><td>10<\/td><\/tr><tr><td>邪道（邪恶）<\/td><td>6<\/td><td>10<\/td><\/tr><tr><td>机警（守序）<\/td><td>6<\/td><td>10<\/td><\/tr><tr><td colspan=\"3\">* 你所选的类型必须符合你的引导能量能力。<\/td><\/tr><\/table><\/div>"
+}

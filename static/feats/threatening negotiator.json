@@ -1,0 +1,20 @@
+{
+    "key": "threatening negotiator",
+    "name": "Threatening Negotiator",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Threatening%20Negotiator",
+    "source": ["Ultimate Intrigue pg. 94"],
+    "text": "Those who you intimidate know that you’ll go through with your threats.",
+    "prerequisites": "Nerve-Racking Negotiator, Persuasive, Skill Focus (Intimidate).",
+    "benefit": "When you successfully use the Intimidate skill to force an opponent to act friendly toward you, the duration of the attitude change lasts 2d6 hours.",
+    "normal": "Changing an opponent’s attitude with Intimidate normally changes the foe’s attitude to friendly for 1d6×10 minutes.",
+    "prerequisiteKeys":     [
+        "nerve-racking negotiator",
+        "persuasive",
+        "skill focus"
+    ],
+    "name_zh": "凶恶交涉人",
+    "text_zh": "那些被你恐吓的人心里明白，你是个说到做到的人。",
+    "prerequisites_zh": "冷面交涉人，谈判专家，技能专攻（威吓）。",
+    "benefit_zh": "当你成功使用威吓技能迫使1名对手对你表示友善（act friendly toward you），目标态度的改变会持续2d6小时。",
+    "normal_zh": "使用威吓改变对手的态度后，它对你的友好态度只会在1d6 x 10分钟。"
+}

@@ -1,0 +1,22 @@
+{
+    "key": "spring-heeled reaping",
+    "name": "Spring-Heeled Reaping",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spring-Heeled%20Reaping",
+    "descriptors": ["Combat"],
+    "source": ["Armor Master's Handbook pg. 11"],
+    "text": "Your armor’s flexibility and your own training allow you to strike multiple times while moving.",
+    "prerequisites": "Dex 17, Dodge, Mobility, Shot on the Run or Spring Attack, Spring-Heeled Sprint, Spring-Heeled Style, base attack bonus +11, proficiency with light armor.",
+    "benefit": "While using Spring-Heeled Style, whenever you use Shot on the Run or Spring Attack, you can attack two different creatures at any point in your movement. Each attack is made at your full attack bonus. Any creature that you attack in melee with this feat cannot make attacks of opportunity against you for that movement, as normal for Spring Attack.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "mobility",
+        "shot on the run",
+        "spring attack",
+        "spring-heeled sprint",
+        "spring-heeled style"
+    ],
+    "name_zh": "鹰啄·疾",
+    "text_zh": "轻便的护甲和出色的训练使你能在移动时做出多次攻击。",
+    "prerequisites_zh": "敏捷17，闪避，灵活移动，移动射击或跳跃攻击，鹰啄·迅，鹰啄流，BAB+11，擅长轻甲。",
+    "benefit_zh": "开启鹰啄流后，在你使用跳跃攻击或移动射击专长时，你能在移动中的任意地点攻击两个不同的目标。每一次攻击都采用你最高的BAB。如同跳跃攻击，被你近战攻击的目标无法因为这次移动对你进行借机攻击。"
+}

@@ -1,0 +1,31 @@
+{
+    "key": "summon kami",
+    "name": "Summon Kami",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Kami",
+    "source": ["Inner Sea Races pg. 223"],
+    "school": "conjuration",
+    "subSchools": ["summoning"],
+    "race": "Tian",
+    "levels":     {
+        "druid": 5,
+        "hunter": 5,
+        "shaman": 5
+    },
+    "castingTime": "1 round",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one or more kami",
+    "duration": "1 round/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions as <i>summon nature’s ally V<\/i>, except you can summon one kodama, 1d3 fukujin, or 1d4+1 shikigami.",
+    "name_zh": "召唤社神",
+    "race_zh": "天夏人",
+    "castingTime_zh": "1轮",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "effect_zh": "一个或更多社神",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "否",
+    "text_zh": "<p>此法术如同召唤自然盟友V（summon nature’s ally V），除了召唤的是1个木灵神（kodama）或1d3个（fukujin）或1d4+1个式神（shikigami）。<\/p>"
+}

@@ -1,0 +1,21 @@
+{
+    "key": "octopus style",
+    "name": "Octopus Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Octopus%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Martial Arts Handbook pg. 15"],
+    "text": "You anticipate the attacks of more than one enemy at once.",
+    "prerequisites": "Dex 13, Dodge, Improved Unarmed Strike, Acrobatics 1 rank, Perception 1 rank.",
+    "benefit": "As a move action when using this style, you can select a number of creatures you are aware of equal to your Dexterity modifier. You can’t be flanked by the selected creatures until the start of your next turn.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "improved unarmed strike"
+    ],
+    "name_zh": "章鱼流",
+    "text_zh": "你擅长与同时攻击一个以上的敌人。",
+    "prerequisites_zh": "敏捷13，闪避，精通徒手打击，特技1级，察觉1级。",
+    "benefit_zh": "使用这一流派时以一个移动动作，你可以选择等同于你敏捷调整值你所察觉的敌人。你在下一回合开始前不会被所选择生物夹击。"
+}

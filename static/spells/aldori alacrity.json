@@ -1,0 +1,27 @@
+{
+    "key": "aldori alacrity",
+    "name": "Aldori Alacrity",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Aldori%20Alacrity",
+    "source": ["Adventurer's Guide pg. 27"],
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 2,
+        "bard": 2,
+        "investigator": 2,
+        "magus": 2,
+        "skald": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (ginger root shavings)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 minute/level",
+    "text": "This spell’s energy quickens your steps, allowing fancy footwork. You gain a +10-foot enhancement bonus to your speed and a +1 dodge bonus to your AC. These bonuses do not stack with those granted by <i>haste<\/i> or similar effects. While under the effects of <i>Aldori alacrity<\/i>, you can take 5-foot steps in difficult terrain.",
+    "name_zh": "奥多里迅捷咒",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（姜根片）",
+    "range_zh": "个人",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>这个法术的能量加快了你的步伐,允许做出花哨的走位。你在速度上获得了10尺的增强加值,并且AC获得了+1闪避加值。这些加值不会与加速术等类似法术叠加。在奥多里迅捷咒的影响下,你可以在困难地形上使用5尺快步。<\/p>"
+}

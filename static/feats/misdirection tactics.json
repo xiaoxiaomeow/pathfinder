@@ -1,0 +1,18 @@
+{
+    "key": "misdirection tactics",
+    "name": "Misdirection Tactics",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Misdirection%20Tactics",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Intrigue pg. 87"],
+    "text": "You have learned to use deception and trickery to misdirect your opponent’s weapon attack.",
+    "prerequisites": "Int 13, Combat Expertise, Deceitful, Bluff 4 ranks.",
+    "benefit": "While you are using the total defense action, if a melee attack would still hit your AC, you can attempt a Bluff check with a DC equal to the foe’s attack roll as an immediate action. If you succeed at the check, you negate the attack (treat it as a miss). If the attack still hits, you cannot use this feat against the same opponent for 24 hours.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "deceitful"
+    ],
+    "name_zh": "误导战法",
+    "text_zh": "你明白如何使用骗术和身法将敌人的武器攻击带歪。",
+    "prerequisites_zh": "智力 13，寓守于攻，诈欺师，唬骗4级。",
+    "benefit_zh": "当你使用全防御动作（total defense action）时，若1次近战攻击仍然会超出你的AC（hit your AC），你能以直觉动作（immediate action）尝试1次唬骗检定，DC等同于敌人的攻击检定。若你的检定成功，则会免受到此次攻击（它被视为失手了）。若该次攻击仍旧命中的话，你在24小时内无法再次对相同的敌人使用该专长。"
+}

@@ -1,0 +1,33 @@
+{
+    "key": "steal years, greater",
+    "name": "Steal Years, Greater",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Steal%20Years,%20Greater",
+    "source": ["Blood of the Night pg. 30"],
+    "school": "transmutation",
+    "levels":     {
+        "arcanist": 5,
+        "cleric": 5,
+        "druid": 5,
+        "hunter": 5,
+        "oracle": 5,
+        "sorcerer": 5,
+        "warpriest": 5,
+        "witch": 5,
+        "wizard": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a handful of ash)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 day/level",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "This spell functions like <i>steal years<\/i>, except you drain 1d6 years per two caster levels (maximum 10d6).",
+    "name_zh": "高等窃取流年",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "1天/等级",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>此法术如同窃取流年(Steal years)般作用，除了你每两个施法者等级吸取1d6年(最大10d6)。<\/p>"
+}

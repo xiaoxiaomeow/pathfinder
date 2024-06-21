@@ -1,0 +1,18 @@
+{
+    "key": "greater tenacious hunter",
+    "name": "Greater Tenacious Hunter",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Tenacious%20Hunter",
+    "source": ["Ultimate Wilderness pg. 218"],
+    "text": "The animal is capable of savaging hidden foes when they least expect it.",
+    "prerequisites": "Combat Reflexes, Tenacious Hunter, Perception 3 ranks, Stealth 3 ranks, animal companion.",
+    "benefit": "The animal companion can attempt a Perception check as a swift action to intentionally search for a stimulus. When using Perception to attempt to pinpoint an invisible foe, the animal companion’s bonus from the Tenacious Hunter feat increases to +20. In addition, whenever the animal companion successfully uses Perception to oppose a Stealth check or to pinpoint an invisible creature’s location, that foe is denied its Dexterity bonus to AC against all attacks that the animal companion makes before the start of the animal companion’s next turn.",
+    "normal": "Using Perception to intentionally search for a stimulus is a move action.",
+    "prerequisiteKeys":     [
+        "combat reflexes",
+        "tenacious hunter"
+    ],
+    "name_zh": "高等追猎不止",
+    "text_zh": "动物伙伴能够对隐藏起来的敌人发动意料之外的攻击。",
+    "prerequisites_zh": "战斗反射，追猎不止，察觉3级，隐匿3级，动物伙伴。",
+    "benefit_zh": "动物伙伴可以用迅捷动作进行察觉检定来特意搜索某物。当动物伙伴用察觉检定试图定位不可见生物的位置时，来自“追猎不止”专长的加值变为+20。此外，当动物伙伴成功使用察觉对抗隐匿检定，或者定位不可见生物的位置时，该敌人在对抗动物伙伴的所有攻击时，都将失去其AC上的敏捷加值，持续至动物伙伴下回合开始前。<\/p><p>正常状况：使用察觉特意搜索某物是一个移动动作。　"
+}

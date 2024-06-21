@@ -1,0 +1,17 @@
+{
+    "key": "fortified armor training",
+    "name": "Fortified Armor Training",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fortified%20Armor%20Training",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 102"],
+    "text": "You have learned to let your armor bear the brunt of the worst attacks. ",
+    "prerequisites": "Proficient with armor or shield.",
+    "benefit": "If an opponent scores a critical hit against you, you can turn the critical hit into a normal hit. If you do, either your armor or your shield gains the broken condition (your choice).",
+    "staminaSource": "Pathfinder Unchained pg. 120",
+    "staminaText": "When you use this feat to negate a critical hit, you can spend 5 stamina points to give your armor or shield a 50% chance to avoid gaining the broken condition.",
+    "name_zh": "丢卒保帅",
+    "text_zh": "你学会了如何让你的防具替你承受最重的攻击。",
+    "prerequisites_zh": "擅长盔甲或盾牌。",
+    "benefit_zh": "如果一个敌人你对造成了重击，你可以选择将其变为普通攻击，不过你的盔甲或盾牌（由你选择）会陷入破损状态。",
+    "staminaText_zh": "当你使用这个专长来让重击无效时，你可以消耗5点耐力来让你的盔甲或盾牌有50%的概率来避免获得破损状态。"
+}

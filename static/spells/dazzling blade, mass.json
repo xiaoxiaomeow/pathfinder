@@ -1,0 +1,29 @@
+{
+    "key": "dazzling blade, mass",
+    "name": "Dazzling Blade, Mass",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dazzling%20Blade,%20Mass",
+    "source": ["Rival Guide pg. 5"],
+    "school": "illusion",
+    "subSchools": ["pattern"],
+    "levels":     {
+        "arcanist": 3,
+        "redmantisassassin": 3,
+        "sorcerer": 3,
+        "wizard": 3
+    },
+    "castingTime": "1 swift action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one metal weapon/level, no two of which can be more than 30 ft. apart",
+    "duration": "1 minute/level",
+    "savingThrow": "Will negates (see text)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "This spell functions like <i>dazzling blade<\/i>, except that it affects multiple weapons. Each wielder of a <i>dazzling blade<\/i> can discharge the weapon’s effect to attempt to blind a foe independently of the others.",
+    "name_zh": "群体闪耀之刃",
+    "castingTime_zh": "迅捷动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效; 见文本",
+    "spellResistance_zh": "可 (无害, 物体)",
+    "text_zh": "<p>此法术的效果类似闪耀之刃，但它可以对多件武器产生影响。每位闪耀之刃的持有者可以释放武器的效果，尝试让一名独立于其他人的敌人目盲。<\/p>"
+}

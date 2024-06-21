@@ -1,0 +1,30 @@
+{
+    "key": "calculated luck",
+    "name": "Calculated Luck",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Calculated%20Luck",
+    "source": ["Occult Mysteries pg. 50"],
+    "school": "divination",
+    "levels":     {
+        "cleric": 3,
+        "oracle": 3,
+        "warpriest": 3,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "You are able to use the Path of Numbers to substantially boost your combat preparedness, but your foresight comes at a price. Roll 3d8 and refer to the Eight Basic Energies table on page 51. After rolling, assign each die to one of the following. <ul><li><i>Energy Type<\/i>: You gain vulnerability to the energy type that matches the die’s result for the duration of the spell. You take half again as much damage (+50%) from that energy type, regardless of whether you successfully saved against the damaging spell or effect.<\/li><li><i>Magic School<\/i>: For the spell’s duration, you cast all spells from the school that matches the die’s result at +1 caster level.<\/li><li><i>d20 Roll Type<\/i>: You receive a +2 luck bonus on the d20 roll that matches the die’s result for the duration of the spell.<\/li><\/ul><br><table class=\"inner\"><tr><td><b>d8<\/b><\/td><td><b>Energy Type<\/b><\/td><td><b>Magic School<\/b><\/td><td><b>d20 Roll Type<\/b><\/td><\/tr> <tr><td>1<\/td><td>Air<\/td><td>Enchantment<\/td><td>Will save<\/td><\/tr> <tr><td>2<\/td><td>Electricity<\/td><td>Illusion<\/td><td>Reflex save<\/td><\/tr> <tr><td>3<\/td><td>Fire<\/td><td>Necromancy<\/td><td>Attack roll<\/td><\/tr> <tr><td>4<\/td><td>Sonic<\/td><td>Evocation<\/td><td>Initiative roll<\/td><\/tr> <tr><td>5<\/td><td>Acid<\/td><td>Abjuration<\/td><td>Fortitude save<\/td><\/tr> <tr><td>6<\/td><td>Water<\/td><td>Transmutation<\/td><td>Caster level check<\/td><\/tr> <tr><td>7<\/td><td>Cold<\/td><td>Divination<\/td><td>Concentration check<\/td><\/tr> <tr><td>8<\/td><td>Earth<\/td><td>Conjuration<\/td><td>Combat Maneuver Check<\/td><\/tr><\/table>",
+    "name_zh": "精心谋划的幸运",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "个人",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "否",
+    "text_zh": "<p>你能够使用天元道（the Path of Numbers）来强化你的备战能力，但你的这份远见是有代价的。掷3个d8骰子，并将每一个骰子分配给以下一项。<\/p><p>能量类型：在法术持续时间内，你会受到与骰子结果相匹配的能量类型的易伤。无论你是否成功地豁免了伤害性法术或效果，你都会从该能量类型中再次受到一半的伤害 (+50%)。（按原文可能是受到豁免前的伤害的一半）<\/p><p>魔法学派：在法术持续时间内，你施展所有与骰子结果相匹配的学派法术时，施法者等级+1。<\/p><p>d20掷骰类型：在法术持续时间内，你在与骰子结果相匹配的 d20 掷骰上获得 +2 幸运加值。<\/p><p>引用 天元道表格<\/p><p>d8 能量类型 魔法学派 d20掷骰类型<\/p><p>1   　气 　惑控 　意志豁免<\/p><p>2　　电 　幻术 　反射豁免<\/p><p>3　　火 　死灵 　攻击检定<\/p><p>4　　音波 　塑能 　先攻检定<\/p><p>5　　强酸 　防护 　强韧豁免<\/p><p>6　　水 　变化 　施法者等级检定<\/p><p>7　　寒冷 　预言 　专注检定<\/p><p>8　　土 　咒法 　战技检定<\/p>"
+}

@@ -1,0 +1,31 @@
+{
+    "key": "litany of entanglement",
+    "name": "Litany of Entanglement",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Litany%20of%20Entanglement",
+    "source": ["Ultimate Combat pg. 234"],
+    "school": "conjuration",
+    "subSchools": ["calling"],
+    "descriptors": ["language-dependent"],
+    "levels":     {
+        "antipaladin": 2,
+        "inquisitor": 3,
+        "paladin": 2
+    },
+    "castingTime": "1 swift action",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 round",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "Your litany conjures chains of energy that lash upward from the ground and hamper the target’s movement. The target is entangled. This spell has no effect on flying creatures, or creatures not standing upon solid ground. <br><br>While subject to this spell, the target cannot be the target of another spell that has the word \"litany\" in the title.",
+    "name_zh": "纠缠祷言",
+    "castingTime_zh": "迅捷动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一名生物",
+    "duration_zh": "1轮",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你的祷言让能量锁链从地面向上伸出，阻碍目标的移动。目标陷入纠缠状态。<\/p><p>这个法术对飞行中的生物，或没有站在固体地面上的生物无效。<\/p><p>当受到该法术影响时，目标不能再成为另一种带有‘祷言’关键字的法术的目标。<\/p>"
+}

@@ -1,0 +1,43 @@
+{
+    "key": "sands of time",
+    "name": "Sands of Time",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sands%20of%20Time",
+    "source":     [
+        "Ultimate Magic pg. 236",
+        "Osirion, Land of the Pharaohs pg. 27"
+    ],
+    "school": "necromancy",
+    "levels":     {
+        "arcanist": 3,
+        "cleric": 3,
+        "occultist": 3,
+        "oracle": 3,
+        "psychic": 3,
+        "shaman": 4,
+        "sorcerer": 3,
+        "spiritualist": 3,
+        "warpriest": 3,
+        "witch": 3,
+        "wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "touched creature or object",
+    "duration": "10 minutes/level or instantaneous (see text)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "You temporarily age the target, immediately advancing it to the next age category. The target immediately takes the age penalties to Strength, Dexterity, and Constitution for its new age category, but does not gain the bonuses for that category. A creature whose age is unknown is treated as if the spell advances it to middle age. Ageless or immortal creatures are immune to this spell.<br><br>If you cast this on an object, construct, or undead creature, it takes 3d6 points of damage + 1 point per caster level (maximum +15) as time weathers and corrodes it. This version of the spell has an instantaneous duration.",
+    "mythicSource": ["Mythic Adventures pg. 107"],
+    "mythicText": "You age the target by two categories instead of one. The damage dealt to objects, constructs, and undead increases to 5d6 points of damage + 1 point per caster level (maximum +20). <br><br><b>Augmented (8th)<\/b>: If you expend four uses of mythic power, the duration changes to instantaneous. If the target is a living creature, its age increases to venerable, regardless of its current age. A non-mythic creature receives no saving throw against this, but a mythic creature can attempt a Fortitude save against the spell’s DC to reduce the duration to 10 minutes per level and the effect to two age categories instead of automatically changing to venerable.<br><br> If the target is an object, construct, or undead, it takes 30 points of damage per caster level. A mythic creature that succeeds at a Fortitude takes only half damage. ",
+    "name_zh": "时之沙",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物或物体",
+    "duration_zh": "10分钟/等级 或 立即; 见文本",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你暂时性的使目标老化，让它立刻进入下一个年龄阶段。<\/p><p>目标会立刻获得新年龄相应的力量、敏捷与体质罚值，不过不会获得任何相应的加值。一个年龄未知的生物会默认被法术推行到中年阶段。<\/p><p>永恒或不会衰老的生物免疫这个法术。<\/p><p>如果你把该法术施放在一件物体、构装或亡灵生物身上，它会受到3d6加上施法者等级点伤害 (最多+15)，就好像它随着时间而受到风化和腐蚀一样。这种版本的法术效果持续时间是瞬间。<\/p>",
+    "mythicText_zh": "<p>你能够将目标老化两个阶段而非原本的一个。对物体、构装生物、以及不死生物造成的伤害增加至5d6点 + 每施法者等级1点（最高+20）。<\/p><p><b>强化（8阶）<\/b>：若你花费4次神话之力，持续时间会变为‘立即’。若目标是活物，那么无论他当前的年龄为何，都会增加至暮年（venerable）。非神话生物无法豁免该效果，但是神话生物能够尝试强韧豁免对抗法术的DC，用以将持续时间降低至每等级10分钟，并使用目标老化两个阶段来替代自动变为暮年的效果。<\/p><p>若目标是物体、构装生物或者不死生物，它会受到每施法者等级30点伤害。神话生物可以通过成功的强韧豁免来使伤害减半。<\/p>"
+}

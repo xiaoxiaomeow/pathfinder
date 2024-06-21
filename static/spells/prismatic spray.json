@@ -1,0 +1,32 @@
+{
+    "key": "prismatic spray",
+    "name": "Prismatic Spray",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Prismatic%20Spray",
+    "source": ["PRPG Core Rulebook pg. 325"],
+    "school": "evocation",
+    "levels":     {
+        "arcanist": 7,
+        "sorcerer": 7,
+        "wizard": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "60 ft.",
+    "area": "cone-shaped burst",
+    "duration": "instantaneous",
+    "savingThrow": "see text",
+    "spellResistance": "yes",
+    "text": "This spell causes seven shimmering, multicolored beams of light to spray from your hand. Each beam has a different power. Creatures in the area of the spell with 8 HD or less are automatically blinded for 2d4 rounds. Every creature in the area is randomly struck by one or more beams, which have additional effects.<br><br><table class=\"inner\"><tr><td><b>1d8<\/b><\/td><td><b>Color of Beam<\/b><\/td><td><\/td><\/tr><tr><td>1<\/td><td>Red<\/td><td>20 points fire damage (Reflex half)<\/td><\/tr><tr><td>2<\/td><td>Orange<\/td><td>40 points acid damage (Reflex half)<\/td><\/tr><tr><td>3<\/td><td>Yellow<\/td><td>80 points electricity damage (Reflex half)<\/td><\/tr><tr><td>4<\/td><td>Green<\/td><td>Poison (Frequency 1/rd. for 6 rd.; Init. effect death; Sec. effect 1 Con/rd.; Cure 2 consecutive Fort saves)*<\/td><\/tr><tr><td>5<\/td><td>Blue<\/td><td><i>Flesh to stone<\/i> (Fortitude negates)<\/td><\/tr><tr><td>6<\/td><td>Indigo<\/td><td>Insane, as insanity spell (Will negates)<\/td><\/tr><tr><td>7<\/td><td>Violet<\/td><td>Sent to another plane (Will negates)<\/td><\/tr><tr><td>8<\/td><td>Struck by two rays<\/td><td>Roll twice more, ignoring any \"8\" results<\/td><\/tr><tfoot><tr><td colspan=\"3\">*See poisons<\/td><\/tr><\/tfoot><\/table>",
+    "mythicSource": ["Mythic Adventures pg. 104"],
+    "mythicText": "The spell automatically blinds creatures with up to 12 Hit Dice instead of 8 Hit Dice. Attempt one bull rush combat maneuver and apply its results to each creature in the area. Your CMB for this bull rush is equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. This bull rush doesn’t provoke an attack of opportunity. <br><br><b>Augmented (6th)<\/b>: If you expend two uses of mythic power, the area changes from a cone into a line. Creatures in the line are struck by two beams (or three, if the creature rolls an 8 on the table). The spell bypasses energy resistance and immunity. ",
+    "name_zh": "虹光喷射",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "60尺",
+    "area_zh": "锥形爆发区域",
+    "duration_zh": "立即",
+    "savingThrow_zh": "见文本",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这个法术能让你手中喷出七道闪烁不定、互相混杂的多彩光束。每道光束具有不同的威力。法术区域内的生物若HD为8或更少就会自动目盲2d4轮。区域内的每个生物都会随机的被一道或多道光束击中，每道光束都有不同的额外效果。<div class=\"inner\"><table><tr><th>d8<\/th><th>光束颜色<\/th><th>效果<\/th><\/tr><tr><td>1<\/td><td>红色<\/td><td>造成20点火焰伤害 (反射, 通过则减半)<\/td><\/tr><tr><td>2<\/td><td>橙色<\/td><td>造成40点强酸伤害 (反射, 通过则减半)<\/td><\/tr><tr><td>3<\/td><td>黄色<\/td><td>造成80点闪电伤害 (反射, 通过则减半)<\/td><\/tr><tr><td>4<\/td><td>绿色<\/td><td>毒素 (频率 1次/轮, 共6轮; 初始效果 死亡; 后续效果 1点体质/轮; 痊愈 2次连续强韧豁免)<\/td><\/tr><tr><td>5<\/td><td>蓝色<\/td><td>变为石头 (强韧, 通过则无效)<\/td><\/tr><tr><td>6<\/td><td>靛色<\/td><td>变疯, 如同‘<a href=\"spell?spell=insanity\">精神错乱 (insanity)<\/a>’法术一般 (意志, 通过则无效)<\/td><\/tr><tr><td>7<\/td><td>紫色<\/td><td>被送至其他位面 (意志, 通过则无效)<\/td><\/tr><tr><td>8<\/td><td>被两道光线击中<\/td><td>再检定2次, 忽略任何为8的结果<\/td><\/tr><\/table><\/div><\/p>",
+    "mythicText_zh": "<p>会由于该法术自动目盲（blinds）的生物生命骰增加至12个，以取代原本的8个生命骰。尝试一次冲撞战技检定，并将结果应用至区域内的每名生物。你的冲撞CMB等同于你的施法者等级加上你的智力、感知或魅力调整值，以较高者为准。这次冲撞不会引起借机攻击。<\/p><p><b>强化（6阶）<\/b>：若你花费2次神话之力，区域会从锥形变为线形。线形范围内的生物会被两条光束打击（如果生物掷出8，则为三条）。该法术会穿透任何能量抗力与免疫。<\/p>"
+}

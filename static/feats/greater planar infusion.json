@@ -1,0 +1,17 @@
+{
+    "key": "greater planar infusion",
+    "name": "Greater Planar Infusion",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Planar%20Infusion",
+    "descriptors": ["Conduit"],
+    "source": ["Planar Adventures pg. 28"],
+    "text": "You have mastered the powers of another plane.",
+    "prerequisites": "Improved Planar Infusion, Planar Infusion, character level 13th.",
+    "benefit": "Choose a plane for which you’ve gained an improved infusion via Improved Planar Infusion. You gain that plane’s greater infusion as well.",
+    "prerequisiteKeys":     [
+        "improved planar infusion",
+        "planar infusion"
+    ],
+    "name_zh": "高等位面谐律",
+    "text_zh": "你已精通另一个位面的力量。",
+    "benefit_zh": "选择一个你已经通过进阶位面谐律获得了其进阶谐律的位面，你同样获得其高等谐律。"
+}

@@ -1,0 +1,33 @@
+{
+    "key": "polar ray",
+    "name": "Polar Ray",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Polar%20Ray",
+    "source": ["PRPG Core Rulebook pg. 323"],
+    "school": "evocation",
+    "descriptors": ["cold"],
+    "levels":     {
+        "arcanist": 8,
+        "sorcerer": 8,
+        "wizard": 8
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a white ceramic cone or prism)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "ray",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "A blue-white ray of freezing air and ice springs from your hand. You must succeed on a ranged touch attack with the ray to deal damage to a target. The ray deals 1d6 points of cold damage per caster level (maximum 25d6) and 1d4 points of Dexterity drain.",
+    "mythicSource": ["Mythic Adventures pg. 103"],
+    "mythicText": "The damage dealt increases to 1d8 points of cold damage per caster level (maximum 25d8) and 1d6 points of Dexterity drain. If the target takes damage from this spell, it becomes partially encased in ice, reducing its speed by half. Creatures with the cold or incorporeal subtypes or immunity to being grappled are immune to this effect. The reduced movement lasts until the ice is destroyed. Destroying the ice requires a successful Strength or dispel check against the spell’s DC or dealing 1 point of bludgeoning or fire damage per caster level to the target. ",
+    "name_zh": "极冰射线",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 器材 (一块锥形或棱柱形的白瓷)",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "effect_zh": "射线",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>从你手中喷射出一道由冻气和寒冰组成的蓝白色射线。你必须做一次成功的远程接触攻击才能用此射线对目标造成伤害。射线造成每CL 1d6点寒冷伤害 (最高25d6) 以及1d4点敏捷吸取。<\/p>",
+    "mythicText_zh": "<p>法术造成的伤害增加至每施法者等级1d8点寒冷伤害（最高25d8），以及1d6点敏捷吸取。若目标受到来自该法术的伤害，就会被寒冰包裹，使其速度减半。具有寒系（cold）或虚体（incorporeal）亚种、或者免疫擒抱的生物也能免疫该效果。移动速度的减少会持续至寒冰被破坏掉为止。破坏寒冰需要成功进行力量或解除（dispel）检定来对抗法术DC，或者对该名生物造成相当于每施法者等级1点的钝击或火焰伤害也能做到。<\/p>"
+}

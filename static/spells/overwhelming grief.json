@@ -1,0 +1,39 @@
+{
+    "key": "overwhelming grief",
+    "name": "Overwhelming Grief",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Overwhelming%20Grief",
+    "source": ["Ultimate Magic pg. 230"],
+    "school": "enchantment",
+    "subSchools": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorsOperator": ",",
+    "levels":     {
+        "arcanist": 4,
+        "bard": 3,
+        "mesmerist": 3,
+        "psychic": 4,
+        "skald": 3,
+        "sorcerer": 4,
+        "wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates (see text)",
+    "spellResistance": "yes",
+    "text": "You cause a single opponent to become profoundly stricken with intense grief. He can take no actions, takes a –2 penalty to Armor Class, and loses his Dexterity bonus (if any). He can attempt a new save each round to break the spell’s effect.",
+    "name_zh": "无尽悲痛",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一名生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效; 见文本",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你让一个对手陷入深刻和激烈的悲痛之中。他不能进行任何行动，AC获得-2罚值，并且失去所有敏捷加值 (如果有)。他每一轮可以进行一次新的检定以试图打破法术效果。<\/p>"
+}

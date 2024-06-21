@@ -1,0 +1,18 @@
+{
+    "key": "cultivate magic plants",
+    "name": "Cultivate Magic Plants",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cultivate%20Magic%20Plants",
+    "descriptors": ["Item Creation"],
+    "source": ["Ultimate Wilderness pg. 109"],
+    "text": "You combine a natural green thumb and knowledge of magic in order to grow magic plants.",
+    "prerequisites": "Brew Potion, Craft Wondrous Item, Knowledge (nature) 1 rank.",
+    "benefit": "You can cultivate magic plants. Cultivating a magic plant takes 1 week per 1,000 gp in its base price. When you create a magic plant, you make the same choices that you would normally make when casting the spell. Whoever consumes the fruit of the magic plant is the target of the spell.",
+    "prerequisiteKeys":     [
+        "brew potion",
+        "craft wondrous item"
+    ],
+    "name_zh": "奇植培育",
+    "text_zh": "你将园艺技能和魔法知识结合起来，以种植神奇植物。",
+    "prerequisites_zh": "制造药水，制造奇物，知识（自然）1级。",
+    "benefit_zh": "你可以培养魔法植物。培育一种神奇的植物，每1000GP就需要1周的时间。当你创造一个神奇的植物时，你需要做出如同你在正常施放魔法时通常所做的相同的选择。无论谁吃了魔法植物的果实，都将成为法术的目标。"
+}

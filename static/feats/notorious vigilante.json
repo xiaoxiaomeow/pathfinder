@@ -1,0 +1,18 @@
+{
+    "key": "notorious vigilante",
+    "name": "Notorious Vigilante",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Notorious%20Vigilante",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Intrigue pg. 87"],
+    "text": "You are widely known as dangerous and fearsome.",
+    "prerequisites": "Dazzling Display, Weapon Focus, any nongood alignment, great renown social talent, proficiency with chosen weapon.",
+    "benefit": "Your presence can act as a fast and effective Dazzling Display. As a standard action, you use the benefit of Dazzling Display even when you are not wielding a weapon in which you have Weapon Focus. If you are wielding such a weapon, you gain a +2 bonus on the Intimidate check.",
+    "prerequisiteKeys":     [
+        "dazzling display",
+        "weapon focus"
+    ],
+    "name_zh": "煞面义警",
+    "text_zh": "你的大名因为恐怖与危险而为人所知晓。",
+    "prerequisites_zh": "炫目技巧，武器专攻，任意非善良阵营（any nongood alignment），高级声誉社交天赋（Great Renown Social Talent），擅长相应的武器（proficiency with chosen weapon）。",
+    "benefit_zh": "你的存在本身可以作为一种快捷而又有效的炫目技巧。即便你没有持用与武器专攻相应的武器，也能够以标准动作使用炫目技巧专长的好处。若你正持用着相应的武器，则会在威吓检定中获得+2加值。"
+}

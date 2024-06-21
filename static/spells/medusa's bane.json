@@ -1,0 +1,26 @@
+{
+    "key": "medusa's bane",
+    "name": "Medusa's Bane",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Medusa's%20Bane",
+    "source": ["Divine Anthology pg. 5"],
+    "school": "abjuration",
+    "levels":     {
+        "arcanist": 4,
+        "sorcerer": 4,
+        "witch": 4,
+        "wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a tiny fragment of a mirror)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level",
+    "text": "This spell causes your eyes to take on a silvery mirror-like quality, transforming your eyes into metallic-looking orbs that reflect the world you see. Your vision is in no  way impaired while this spell is in effect, but you are granted immunity to gaze attacks for the spell’s duration. As an immediate action, you can reflect a creature’s gaze back on itself, forcing the target of the gaze attack to save against its own gaze weapon or be affected by it. This reflection bypasses the typical immunity creatures with gaze attacks have to their own race’s gaze attack, but does not bypass any other resistances or immunities the creature might have. Once you choose to reflect a gaze attack in this manner, the effect of <i>medusa’s bane<\/i> immediately ends. ",
+    "name_zh": "蛇发女妖之灾",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（镜子的小碎片）",
+    "range_zh": "个人",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>这种法术会让你的眼睛呈现出一种银色镜面般的质感，将你的眼睛变成金属般的球体，反射出你所看到的世界。你的视力在该法术生效的时候不会受到任何妨碍，但是你在法术持续时间内免疫于凝视攻击。作为一个直觉动作，你可以将一个生物的凝视反射回到他自己身上，迫使凝视攻击的目标豁免自身的凝视武器，否则会被影响。这种反射会绕过拥有凝视攻击的生物对自身种族凝视攻击的免疫力，但不会绕过任何其他的抗力或免疫。一旦你选择这样反射一个凝视攻击，蛇发女妖之灾的效果将立刻结束。<\/p>"
+}

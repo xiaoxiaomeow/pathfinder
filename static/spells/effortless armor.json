@@ -1,0 +1,32 @@
+{
+    "key": "effortless armor",
+    "name": "Effortless Armor",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Effortless%20Armor",
+    "source": ["Ultimate Combat pg. 228"],
+    "school": "transmutation",
+    "levels":     {
+        "cleric": 2,
+        "hunter": 2,
+        "inquisitor": 2,
+        "magus": 2,
+        "occultist": 2,
+        "oracle": 2,
+        "paladin": 2,
+        "psychic": 2,
+        "ranger": 2,
+        "warpriest": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 minute/level",
+    "text": "Armor you wear no longer reduces your speed. You also reduce the armor’s armor check penalty by 1 + 1 per five caster levels (maximum 5).",
+    "name_zh": "轻便盔甲",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "个人",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>你所穿着的盔甲不再减缓你的速度。同时降低盔甲罚值1，加上每5施法者等级再加1 (最高5)。<\/p>"
+}

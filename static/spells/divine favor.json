@@ -1,0 +1,30 @@
+{
+    "key": "divine favor",
+    "name": "Divine Favor",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Divine%20Favor",
+    "source": ["PRPG Core Rulebook pg. 273"],
+    "school": "evocation",
+    "levels":     {
+        "cleric": 1,
+        "inquisitor": 1,
+        "oracle": 1,
+        "paladin": 1,
+        "warpriest": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 minute",
+    "text": "Calling upon the strength and wisdom of a deity, you gain a +1 luck bonus on attack and weapon damage rolls for every three caster levels you have (at least +1, maximum +3). The bonus doesn't apply to spell damage.",
+    "mythicSource": ["Mythic Adventures pg. 92"],
+    "mythicText": "You also gain the luck bonus on saving throws and skill checks. Alternatively, you can cast this spell on another willing creature, changing the range to touch and target to living creature touched. ",
+    "name_zh": "神恩",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "个人",
+    "target_zh": "自己",
+    "duration_zh": "1分钟",
+    "text_zh": "<p>通过呼唤神祇的力量与智慧，你的攻击和武器伤害检定上获得每三个CL +1点幸运加值 (至少+1, 最高+3)。该加值无法应用至法术伤害。<\/p>",
+    "mythicText_zh": "<p>你的豁免检定与技能检定也能获得幸运加值。或者你可以选择将该法术施放至其他自愿的生物身上，将法术的范围变为‘接触’，目标变为‘接触到的活物’。<\/p>"
+}

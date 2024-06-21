@@ -1,0 +1,18 @@
+{
+    "key": "toppling pileup",
+    "name": "Toppling Pileup",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Toppling%20Pileup",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 25"],
+    "text": "When you trip one opponent, its fall might take the legs out from under another creature.",
+    "prerequisites": "Int 13, Combat Expertise, Improved Trip.",
+    "benefit": "As a standard action, you can attempt a single trip combat maneuver check at your full base attack bonus against a foe within reach. If you succeed, the target is knocked prone as normal and you can attempt an additional trip combat maneuver check (using your full base attack bonus) against a foe that is adjacent to the first target and also within reach. You can attempt only one additional combat maneuver per round with this feat.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved trip"
+    ],
+    "name_zh": "连环倾倒",
+    "text_zh": "当你摔绊一个敌人时，它的倒下可能绊倒其他生物。",
+    "prerequisites_zh": "智力13，寓守于攻，精通摔绊。",
+    "benefit_zh": "以一个标准动作，你可以最高的基本攻击加值对触及范围内的一个目标进行一次摔绊战技检定。如果成功，目标被正常击倒俯卧且你可以对与首个目标相邻且处于触及内的另一目标进行一次（以最高基本攻击加值）额外的摔绊战技检定。你每轮只能用这个专长进行一次额外战技。"
+}

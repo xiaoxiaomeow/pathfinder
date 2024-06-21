@@ -1,0 +1,36 @@
+{
+    "key": "curse terrain",
+    "name": "Curse Terrain",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20Terrain",
+    "source": ["Horror Adventures pg. 114"],
+    "school": "necromancy",
+    "descriptors":     [
+        "curse",
+        "evil"
+    ],
+    "descriptorsOperator": ",",
+    "levels":     {
+        "arcanist": 4,
+        "cleric": 4,
+        "druid": 4,
+        "hunter": 4,
+        "oracle": 4,
+        "shaman": 4,
+        "sorcerer": 4,
+        "warpriest": 4,
+        "witch": 4,
+        "wizard": 4
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, M (the heart of a creature that dwelled in the area and powdered onyx worth 700 gp)",
+    "range": "touch",
+    "area": "1-mile radius emanting from the touched point",
+    "duration": "1 day (D)",
+    "text": "By touching the ground, you curse the land with four unnatural hazards. This functions as <i>lesser curse terrain<\/i>, but with the effects of the major perilous demesne curse (see page 145).",
+    "name_zh": "诅咒地形",
+    "castingTime_zh": "10分钟",
+    "range_zh": "接触",
+    "area_zh": "从接触的点向外弥漫半径1哩",
+    "duration_zh": "1天 (可解消)",
+    "text_zh": "<p>透过触摸大地，你令四个超自然危机诅咒这片土地。此法术如同次级诅咒地形(lesser curse terrain)般作用，但效果是中等危险地域诅咒(见Page.145)。<\/p>"
+}

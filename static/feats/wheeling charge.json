@@ -1,0 +1,20 @@
+{
+    "key": "wheeling charge",
+    "name": "Wheeling Charge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wheeling%20Charge",
+    "descriptors": ["Combat"],
+    "source": ["Cities of Golarion pg. 50"],
+    "text": "Your mount moves with ease across battlefields.",
+    "prerequisites": "Mounted Combat, Ride-By Attack, Ride 5 ranks, Lastwall affinity.",
+    "benefit": "When you are mounted and use the charge action, your mount can make one turn of up to 90 degrees as part of the move, as long as each part of the move is at least 10 feet. You may make an attack during any part of this move. Your total movement for the round can’t exceed double your mounted speed. Allied creatures do not impede your charge, though you cannot attack from or end your move in an ally’s space.",
+    "normal": "You cannot turn when making a charge.",
+    "prerequisiteKeys":     [
+        "mounted combat",
+        "ride-by attack"
+    ],
+    "name_zh": "回转冲锋",
+    "text_zh": "你的坐骑轻松地驰骋战场。",
+    "prerequisites_zh": "骑乘战斗，骑乘掠击，骑将5级，终焉之墙亲和（RP要素）。",
+    "benefit_zh": "当你骑乘冲锋时，只要移动了超过10英尺，作为冲锋的一部分，坐骑可以做一次90度的拐弯。你可以在这次移动的任意时刻攻击。你该轮总的移动距离不能超过坐骑速度的两倍。盟友并不会阻碍你的冲锋，但是你依旧不能在盟友的格子内攻击或在移动结束时停留。",
+    "normal_zh": "你在冲锋时无法转向。"
+}

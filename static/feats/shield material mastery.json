@@ -1,0 +1,21 @@
+{
+    "key": "shield material mastery",
+    "name": "Shield Material Mastery",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Material%20Mastery",
+    "descriptors":     [
+        "Combat",
+        "Shield Mastery"
+    ],
+    "source": ["Armor Master's Handbook pg. 19"],
+    "text": "Your extraordinary understanding of the special materials from which your shield is made lets you take advantage of it more often.",
+    "prerequisites": "Shield Focus, Shield Material Expertise, base attack bonus +11 or fighter level 8th.",
+    "benefit": "You can use the ability granted by Shield Material Expertise two additional times per day.",
+    "prerequisiteKeys":     [
+        "shield focus",
+        "shield material expertise"
+    ],
+    "name_zh": "盾牌材料大师",
+    "text_zh": "你出众的专业知识使你能够更加频繁地使用由特殊材料带来的能力。",
+    "prerequisites_zh": "盾牌专攻，盾牌材料专家，BAB+11或者战士8级。",
+    "benefit_zh": "每天额外2次使用由盾牌材料专家专长带来的特殊能力。"
+}

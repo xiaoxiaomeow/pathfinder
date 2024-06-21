@@ -1,0 +1,23 @@
+{
+    "key": "maddening style",
+    "name": "Maddening Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Maddening%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Horror Adventures pg. 90"],
+    "text": "When you clobber an opponent with your fists, you inundate its mind with visions of madness and horror.",
+    "prerequisites": "Wis 15, Cha 11, Improved Unarmed Strike, Stunning Fist, Knowledge (arcana) 4 ranks, ki pool class feature, nongood alignment.",
+    "benefit": "You gain one additional use of Stunning Fist per day. When using this style, if you have at least 1 point in your ki pool, you increase the DCs of your confusion, madness, and insanity effects (including Maddening Strike) by 1. Additionally, when you successfully stun an opponent with your Stunning Fist attack, your target takes 1 point of Wisdom damage.",
+    "special": "If you are using the sanity system (page 12), when you successfully stun an opponent with your Stunning Fist attack, the target takes 1d4 points of sanity damage instead of 1 point of Wisdom damage.",
+    "prerequisiteKeys":     [
+        "improved unarmed strike",
+        "stunning fist"
+    ],
+    "name_zh": "噬心流",
+    "text_zh": "你的拳头痛击敌人，同时让其的精神陷入恐惧与疯狂。",
+    "prerequisites_zh": "感知 15，魅力 11，精通徒手打击，震慑拳，知识（奥秘）4级，气池职业能力，非善良阵营。",
+    "benefit_zh": "你额外获得1次“震慑拳”每日使用次数。当使用此流派时，只要你的气池中有1点气，你造成的任何困惑、疯狂以及精神错乱（包括狂乱打击Maddening Strike）效果的DC增加1。此外，当你成功地用震慑拳击晕对手时，你的目标将受到1点感知伤害。",
+    "special_zh": "如果你正在使用理智系统sanity system(见第12页)，当你成功用震慑拳击晕对手时，目标受到1d4点理智伤害而不是1点感知伤害。"
+}

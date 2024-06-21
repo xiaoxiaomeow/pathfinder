@@ -1,0 +1,19 @@
+{
+    "key": "bend with the wind",
+    "name": "Bend with the Wind",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bend%20with%20the%20Wind",
+    "descriptors": ["Meditation"],
+    "source": ["Faiths and Philosophies pg. 19"],
+    "text": "Meditation allows you to regulate your body temperature, heart rate, and other attributes to resist the elements.",
+    "prerequisites": "Wis 15, Body Control, Endurance, Meditation Master.",
+    "benefit": "For 24 hours after you meditate, you gain cold resistance 5 and fire resistance 5.",
+    "prerequisiteKeys":     [
+        "body control",
+        "endurance",
+        "meditation master"
+    ],
+    "name_zh": "随风而变",
+    "text_zh": "冥想会允许你调节你的体温，心率和其他身体机能来抵抗元素",
+    "prerequisites_zh": "感知15，身体制御，坚忍，冥想大师。",
+    "benefit_zh": "在你冥想后的24小时内，你获得寒冷抗力5和火焰抗力5。"
+}

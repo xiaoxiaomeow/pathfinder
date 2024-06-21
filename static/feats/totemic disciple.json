@@ -1,0 +1,17 @@
+{
+    "key": "totemic disciple",
+    "name": "Totemic Disciple",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Totemic%20Disciple",
+    "source": ["Ultimate Wilderness pg. 118"],
+    "text": "Your understanding of your barbaric totem flourishes as your combat prowess grows.",
+    "prerequisites": "Str 15; Dex 13; Athletic, Totemic Initiate; base attack bonus +9; no barbarian totem rage powers except those chosen with this feat or Totemic Initiate; nonlawful alignment.",
+    "benefit": "Choose one barbarian totem rage power that requires that you have the totem rage power you selected with Totemic Initiate. While gaining the benefits of Totemic Initiate, you also gain the benefits of this new rage power.",
+    "prerequisiteKeys":     [
+        "athletic",
+        "totemic initiate"
+    ],
+    "name_zh": "图腾门徒",
+    "text_zh": "你对于原始图腾的理解随着你战斗技艺的纯熟也与日俱增。",
+    "prerequisites_zh": "力量 15；敏捷 13；运动健将；图腾学徒；基础攻击加值 +9；除本专长,图腾学徒专长外无野蛮人图腾狂暴之力；非守序阵营。",
+    "benefit_zh": "选择一个先决条件为你用图腾学徒专长选取的野蛮人次级图腾狂暴之力的野蛮人图腾狂暴之力。当你获得图腾学徒专长给与你的好处时，你也可以获得新的狂暴之力的好处。"
+}

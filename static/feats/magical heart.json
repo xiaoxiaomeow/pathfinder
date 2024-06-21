@@ -1,0 +1,18 @@
+{
+    "key": "magical heart",
+    "name": "Magical Heart",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Magical%20Heart",
+    "descriptors": ["Combat"],
+    "source": ["Heroes of Golarion pg. 7"],
+    "text": "Through intense focus, your magical strikes reinforce your ioun heart.",
+    "prerequisites": "Arcane Strike, Improved Unarmed Strike, wyrwood.",
+    "benefit": "While your unarmed strikes are imbued with power from the Arcane Strike feat, a successful hit with an unarmed strike grants you a number of temporary hit points equal to the bonus damage granted by Arcane Strike.",
+    "prerequisiteKeys":     [
+        "arcane strike",
+        "improved unarmed strike"
+    ],
+    "name_zh": "魔力心脏",
+    "text_zh": "集中注意力，你的魔法攻击便能强化你的艾恩心脏。",
+    "prerequisites_zh": "奥术打击，精通徒手打击，汲魂木。",
+    "benefit_zh": "当你以徒手打击发挥奥术打击时，成功命中的徒手打击也会赋予你临时生命，数值等同于奥术打击造成的额外伤害。"
+}

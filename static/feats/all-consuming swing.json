@@ -1,0 +1,18 @@
+{
+    "key": "all-consuming swing",
+    "name": "All-Consuming Swing",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=All-Consuming%20Swing",
+    "descriptors": ["Combat"],
+    "source": ["The Harrow Handbook pg. 19"],
+    "text": "You deliver unchecked destruction when you stand against multiple foes, sometimes to your own detriment.",
+    "prerequisites": "Str 13, Power Attack, Cleave, Vital Strike, base attack bonus +8.",
+    "benefit": "Whenever you use Cleave or Great Cleave, you can apply the additional damage you would gain from Vital Strike, Improved Vital Strike, or Greater Vital Strike to the initial target of your attack. When you do so, the strain on your body causes you to take an amount of damage equal to the extra damage dealt by your Vital Strike feat. This self-inflicted damage is not reduced by damage reduction.",
+    "prerequisiteKeys":     [
+        "cleave",
+        "power attack",
+        "vital strike"
+    ],
+    "name_zh": "自残旋风",
+    "prerequisites_zh": "力量13，猛力攻击，顺势斩，要害打击，BAB+8。",
+    "benefit_zh": "每次你使用顺势斩和大顺势斩，你可以造成额外伤害，等于你在要害打击，精通要害打击或高等要害打击专长中获得的额外伤害。但如此做会对拉伤你的身体，对自身造成等于上述额外伤害的伤害。这种自残伤害不会被伤害减免抵消。"
+}

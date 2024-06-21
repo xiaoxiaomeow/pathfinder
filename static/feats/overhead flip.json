@@ -1,0 +1,19 @@
+{
+    "key": "overhead flip",
+    "name": "Overhead Flip",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Overhead%20Flip",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 22"],
+    "text": "You hoist your opponent above your head before slamming him to the ground, temporarily staggering the foe.",
+    "prerequisites": "Str 13, Improved Grapple, Improved Unarmed Strike, Savage Slam, base attack bonus +9 or monk level 6th.",
+    "benefit": "While you are using Savage Slam, if you succeed at your grapple combat maneuver check to knock your opponent prone, the opponent must succeed at a Fortitude save (DC = 10 + your base attack bonus) or be staggered for 1 round. Oozes, incorporeal creatures, and creatures that are immune to critical hits are immune to this effect.",
+    "prerequisiteKeys":     [
+        "improved grapple",
+        "improved unarmed strike",
+        "savage slam"
+    ],
+    "name_zh": "过头摔",
+    "text_zh": "你把敌人举过头顶然后摔向地面，短暂的击晕敌人。",
+    "prerequisites_zh": "力量13，精通擒抱，精通徒手打击，野蛮摔投，BAB+9或武僧6级。",
+    "benefit_zh": "当你使用野蛮摔投时，如果你成功通过擒抱检定将敌人击倒俯卧，敌人必须通过一个强韧检定（DC=10+你的基本攻击加值）否则恍惚一轮。泥怪、虚体生物以及免疫重击的其他生物免疫这一效果。"
+}

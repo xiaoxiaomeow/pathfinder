@@ -1,0 +1,31 @@
+{
+    "key": "stabilize powder",
+    "name": "Stabilize Powder",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Stabilize%20Powder",
+    "source": ["Ultimate Combat pg. 245"],
+    "school": "transmutation",
+    "levels":     {
+        "arcanist": 2,
+        "redmantisassassin": 2,
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a few drops of liquor)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "1 loaded firearm",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "Ammunition currently loaded in the target firearm is less prone to misfire. Decrease the misfire range by 1 + 1 per five caster levels (maximum +5, minimum misfire 0) for the ammunition currently loaded into that firearm.",
+    "name_zh": "火药稳定",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (少量烈酒)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一把装填过的火器",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+    "spellResistance_zh": "可 (无害, 物体)",
+    "text_zh": "<p>这个法术让正装填在目标火器里的火药变得更稳定而不容易不发火。<\/p><p>当目标火器使用当前装填的弹药时，不发火范围降低1加上每施法者等级1点 (最高+5，最多降低到0)。<\/p>"
+}

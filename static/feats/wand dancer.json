@@ -1,0 +1,20 @@
+{
+    "key": "wand dancer",
+    "name": "Wand Dancer",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wand%20Dancer",
+    "source":     [
+        "Inner Sea World Guide pg. 289",
+        "Pathfinder Campaign Setting pg. 219"
+    ],
+    "text": "You are trained in a tradition of Garundi courtesans and court mages that melds dance with the use of magic wands.",
+    "prerequisites": "Dex 13, Dodge, Mobility, Perform (dance) 5 ranks.",
+    "benefit": "When using a spell trigger item, you can move both before and after triggering the item, as long as the total distance moved is not greater than your speed. Choose one creature potentially affected by your spell trigger item. Your movement does not provoke attacks of opportunity from that creature only. You must move at least 5 feet before and after using your spell trigger item to utilize this feat.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "mobility"
+    ],
+    "name_zh": "魔杖舞者",
+    "text_zh": "你受到了传统的加德里交际花与学院法师的训练，将舞蹈与使用魔杖融为一体。",
+    "prerequisites_zh": "敏捷13，闪避，灵活移动，表演（舞蹈）5级。",
+    "benefit_zh": "当你使用法术触发型物品（spell trigger item）时，在触发物品之前和之后都能移动，不过移动的总距离不能超过你的速度。选择一名可能会受到你的法术触发型物品的生物。你的移动仅不会引起该名生物的借机攻击。要应用该专长，你必须在使用你的法术触发型物品之前与之后均移动至少5尺。"
+}

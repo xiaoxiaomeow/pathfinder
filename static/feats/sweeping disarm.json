@@ -1,0 +1,18 @@
+{
+    "key": "sweeping disarm",
+    "name": "Sweeping Disarm",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sweeping%20Disarm",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 22"],
+    "text": "When you knock a weapon from an opponent’s grasp, the errant weapon may disarm another foe.",
+    "prerequisites": "Int 13, Combat Expertise, Improved Disarm, base attack bonus +1.",
+    "benefit": "Whenever you succeed at a combat maneuver check to disarm an opponent, you can attempt a second disarm at a –5 penalty against an opponent adjacent to the original target. You need not be threatening the second target. You can attempt only one additional disarm combat maneuver check per round with this feat.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved disarm"
+    ],
+    "name_zh": "横扫卸武",
+    "text_zh": "当你打飞敌人的武器，这把掉落的武器有可能卸武另一个敌人。",
+    "prerequisites_zh": "智力13，寓守于攻，精通卸武，BAB+1。",
+    "benefit_zh": "当你成功进行卸武检定时，你可以受到-5减值对原本目标邻接的一个目标再进行一次卸武检定。你不需要威胁第二个目标。你每轮只能用这个专长进行一次卸武战技检定。"
+}

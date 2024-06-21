@@ -1,0 +1,42 @@
+{
+    "key": "draconic reservoir",
+    "name": "Draconic Reservoir",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Draconic%20Reservoir",
+    "source": ["Advanced Player's Guide pg. 217"],
+    "school": "evocation",
+    "descriptors":     [
+        "acid",
+        "cold",
+        "electricity",
+        "fire"
+    ],
+    "descriptorsOperator": ",",
+    "levels":     {
+        "alchemist": 3,
+        "arcanist": 3,
+        "bloodrager": 3,
+        "investigator": 3,
+        "sorcerer": 3,
+        "wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a scale from dragon that produces the energy you seek to absorb)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "10 minutes/level or until discharged; see text",
+    "savingThrow": "Fortitude negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<i>Draconic reservoir <\/i>functions as <i>protection from energy<\/i>, absorbing 6 points of one type of energy damage per caster level (acid, cold, electricity, or fire, maximum 60 points). Each round, as a swift action, the subject can release 1d6 points of the absorbed energy and apply it to any melee attack, as if using an <i>acidic<\/i>, <i>flaming<\/i>, <i>frost<\/i>, or <i>shock <\/i>weapon. The first creature the subject strikes with this attack takes the energy damage in addition to any other consequences of the attack. Releasing energy in this way does not “free up” space to absorb still more energy; the maximum amount of energy the spell can absorb remains fixed. The subject cannot release more energy than he currently has absorbed. Once the subject has absorbed all the energy allowed by the spell, he takes damage as normal from that energy type. Once the energy has been released, the spell is discharged.<br><br><i>Draconic reservoir <\/i>does not stack with <i>protection from energy<\/i>. <i>Draconic reservoir <\/i>overlaps (and does not stack with) <i>resist energy<\/i>. If a character is warded by <i>draconic reservoir <\/i>and <i>resist energy<\/i>, draconic <i>reservoir <\/i>absorbs damage until it reaches its maximum limit.",
+    "mythicSource": ["Mythic Adventures pg. 92"],
+    "mythicText": "The amount of energy damage the spell absorbs increases to 10 points per caster level (maximum 100 points). The energy damage from the weapons improves as if using a <i>corrosive burst<\/i>, <i>flaming burst<\/i>, <i>icy burst<\/i>, or <i>shocking burst<\/i> weapon. <br><br><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, spending a swift action applies the energy damage to any number of creatures the target hits this round, not just the first.",
+    "name_zh": "斗转星移",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一片能够产生你想要吸收的能量种类的龙的鳞片)",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "10分钟/等级 或 直至能量发散; 见文本",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>本法术工作方式类似防护能量 (protection from energy)，可以让受术目标吸收每施法者等级6点 (酸、冷、电或火，最高60点) 的单一能量伤害。<\/p><p>每一轮，以一个迅捷动作，受术者可以从吸收的能量中释放出1d6点，然后将其应用到近战攻击中，效果如同一把强酸、火焰、冻寒或电击武器。第一个被受术者击中的生物，除了正常命中伤害，亦会承受额外的能量伤害。<\/p><p>以这种方式释放能量并不会‘释放存储空间’，法术能吸收的能量伤害总量并不会因而改变。<\/p><p>受术目标不能释放多于吸收量的能量。一旦法术吸收量超过上限，受术者正常受到剩余伤害。而如果吸收的能量被释放完毕，法术解除。<\/p><p>该法术不会与防护能量法术叠加。该法术不会覆盖 (也不会与其叠加) 抵抗能量 (resist energy)。如果一个目标同时被本法术和抵抗能量所保护，本法术将会吸收伤害直至达到上限。<\/p><p>Dragon's Breath<\/p>",
+    "mythicText_zh": "<p>法术能够吸收的能量伤害数值增加至每施法者等级10点（最高100点）。提供给武器的能量伤害就如同使用酸爆（corrosive burst）、焰爆（flaming burst）、冰爆（icy burst）或者电爆（shocking burst）武器一般。<\/p><p><b>强化（3阶）<\/b>：若你花费2次神话之力，就能够使用迅捷动作将能量伤害应用于本轮命中的任意数量的生物上，而不仅仅是原本的第一个被击中的生物。<\/p>"
+}

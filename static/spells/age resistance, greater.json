@@ -1,0 +1,30 @@
+{
+    "key": "age resistance, greater",
+    "name": "Age Resistance, Greater",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Age%20Resistance,%20Greater",
+    "source": ["Ultimate Magic pg. 205"],
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 5,
+        "arcanist": 7,
+        "druid": 7,
+        "investigator": 5,
+        "occultist": 5,
+        "psychic": 7,
+        "sorcerer": 7,
+        "witch": 7,
+        "wizard": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "24 hours",
+    "text": "This spell functions as <i>lesser age resistance<\/i>, except you ignore all Strength, Dexterity, and Constitution penalties gained from middle age, old age, and venerable age.",
+    "name_zh": "高等岁月抵抗",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "个人",
+    "duration_zh": "24小时",
+    "text_zh": "<p>这个法术类似次级岁月抵抗 (Age Resistance, Lesser)，不过它可以抵消掉中年、老年和暮年的力量、敏捷和体质罚值。<\/p>"
+}

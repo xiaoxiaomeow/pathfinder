@@ -1,0 +1,18 @@
+{
+    "key": "arc slinger",
+    "name": "Arc Slinger",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Arc%20Slinger",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 89"],
+    "text": "You can twirl your sling in a way that maximizes its effectiveness.",
+    "prerequisites": "Point-Blank Shot, proficient with sling or halfling sling staff.",
+    "benefit": "When using a sling or sling staff, you reduce your penalty on ranged attack rolls due to range by 2. Point-Blank Shot’s damage bonus applies within the first normal range increment of your sling (50 feet) or sling staff (80 feet).",
+    "staminaSource": "Pathfinder Unchained pg. 113",
+    "staminaText": "You can spend 1 stamina point when making a sling or sling staff attack to gain the benefits of Point-Blank Shot within the first two range increments of the sling or staff.",
+    "prerequisiteKeys": ["point-blank shot"],
+    "name_zh": "弧线投石",
+    "text_zh": "你用最能发挥其性能的方式旋转你的投石索。",
+    "prerequisites_zh": "近距射击，擅长投石索或半身人投石杖（halfling sling staff）。",
+    "benefit_zh": "当你使用投石索或投石杖，你能减少2点由距离造成的远程攻击投骰减值。在投石武器的第一个射程增量里（投石索50尺，投石杖80尺），可以适用你的“近距射击”伤害加值。",
+    "staminaText_zh": "在使用投石索或半身人投石杖时，你可以花费一点耐力，在头两个射程增量中获得近距射击的效果"
+}

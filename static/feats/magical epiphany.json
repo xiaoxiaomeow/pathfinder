@@ -1,0 +1,12 @@
+{
+    "key": "magical epiphany",
+    "name": "Magical Epiphany",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Magical%20Epiphany",
+    "source": ["Inner Sea Gods pg. 213"],
+    "text": "Your faith allows you to prepare a spell when you need it.",
+    "prerequisites": "Ability to prepare spells, worshiper of Nethys.",
+    "benefit": "Once per day, you can prepare a spell in an open spell slot as a standard action.",
+    "name_zh": "魔法显现",
+    "prerequisites_zh": "准备施法者，信仰内希斯。",
+    "benefit_zh": "每天一次，你可以通过一个标准动作在一个空置的法术位中准备法术。"
+}

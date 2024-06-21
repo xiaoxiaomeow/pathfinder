@@ -1,0 +1,24 @@
+{
+    "key": "unblinking flame feint",
+    "name": "Unblinking Flame Feint",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Unblinking%20Flame%20Feint",
+    "descriptors": ["Combat"],
+    "source":     [
+        "Adventurer's Guide pg. 106",
+        "Inner Sea Combat pg. 13"
+    ],
+    "text": "You move as swiftly and unpredictably as a flickering flame.",
+    "prerequisites": "Int 13; Wis 13; Combat Expertise; Perfect Style; base attack bonus +9 or monk level 9th.",
+    "benefit": "While using Perfect Style, you can use your Wisdom modifier in place of your Charisma modifier when attempting Bluff checks to feint. You can spend 1 ki point as a swift action to gain the benefits of Improved Feint for 1 round.",
+    "staminaSource": "Weapon Master's Handbook pg. 25",
+    "staminaText": "You can spend 2 stamina points instead of 1 ki point when using Unblinking Flame Feint.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "perfect style"
+    ],
+    "name_zh": "业火袭",
+    "text_zh": "你的行动如同闪烁的火焰一般迅捷而又不可预测，从而把敌人打得措手不及。",
+    "prerequisites_zh": "智力13，感知13，寓守于攻，无瑕流，BAB+9或9级武僧等级。",
+    "benefit_zh": "若你正在使用无瑕流，则能够在尝试使用唬骗检定进行虚招时，使用感知调整值替代魅力调整值。你能够以迅捷动作花费1点气，来在1轮内获得精通虚招的好处。",
+    "staminaText_zh": "你可以在使用业火袭时消耗2点耐力而不是1点气。"
+}

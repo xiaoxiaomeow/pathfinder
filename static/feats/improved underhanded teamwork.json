@@ -1,0 +1,22 @@
+{
+    "key": "improved underhanded teamwork",
+    "name": "Improved Underhanded Teamwork",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Underhanded%20Teamwork",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Pathfinder Society Primer pg. 15"],
+    "text": "You and your allies have trained together long enough to know how to exploit an opponent’s disadvantage to make her predicament even worse.",
+    "prerequisites": "Combat Expertise, Improved Dirty Trick, Underhanded Teamwork, base attack bonus +6.",
+    "benefit": "Whenever an ally who also has this feat performs the dirty trick combat maneuver against a foe that you both threaten, you may attempt a dirty trick combat maneuver against the same foe as an immediate action to inflict a second condition. If the foe uses an action to remove the first condition, it also removes the condition imposed by your immediate action.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved dirty trick",
+        "underhanded teamwork"
+    ],
+    "name_zh": "特卑鄙协作",
+    "text_zh": "你和你的基友一起训♂练过足够长的时间，你们知道如何使一个敌人的境地更加窘迫。",
+    "prerequisites_zh": "寓守于攻；精通阴招；卑鄙协作；BAB+6。",
+    "benefit_zh": "当一名同样拥有这个专长的队友对一名处在你威胁范围内的敌人使用阴招时，你可以尝试用一个迅捷动作对其进行一次阴招战技，如果成功你可以对其施加第二种阴招状态。但是如果该敌人以一个动作移除了第一种状态，那么他也会同时移除你施加的状态。"
+}

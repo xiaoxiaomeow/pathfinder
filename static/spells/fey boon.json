@@ -1,0 +1,20 @@
+{
+    "key": "fey boon",
+    "name": "Fey Boon",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fey%20Boon",
+    "source": ["Pathfinder #119: Prisoners of the Blight pg. 73"],
+    "school": "transmutation",
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "touch",
+    "target": "one living non-fey creature",
+    "duration": "see below (D)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "The target gains the boon of the caster’s fey race (see below for details on each specific fey race’s boon and duration).<br>",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "see below (D)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)"
+}

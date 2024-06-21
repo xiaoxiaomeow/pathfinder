@@ -1,0 +1,18 @@
+{
+    "key": "beastmaster salvation",
+    "name": "Beastmaster Salvation",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Beastmaster%20Salvation",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Wilderness pg. 107"],
+    "text": "Your presence grants your companion the toughness and will to resist all manner of threats.",
+    "prerequisites": "Cha 13, Alertness, Beastmaster Style, Handle Animal 5 ranks, Sense Motive 5 ranks.",
+    "benefit": "If you are adjacent to your animal companion when it attempts a saving throw, you can attempt a Handle Animal check as an immediate action. Your animal companion does not attempt the saving throw, but instead uses your Handle Animal result as its result for the save.",
+    "prerequisiteKeys":     [
+        "alertness",
+        "beastmaster style"
+    ],
+    "name_zh": "兽王援",
+    "text_zh": "你的存在给予同伴坚韧与意志以抵挡各式各样的威胁。",
+    "prerequisites_zh": "魅力13，警觉，兽王流，驯养动物5级，察言观色5级。",
+    "benefit_zh": "当你与你的动物同伴相邻并且它尝试进行豁免检定时，你可以消耗一个直觉动作尝试使用驯养动物检定。你的动物伙伴无须进行豁免检定，而是以你的驯养动物检定结果作为其豁免检定结果。"
+}

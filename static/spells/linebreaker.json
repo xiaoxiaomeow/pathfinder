@@ -1,0 +1,32 @@
+{
+    "key": "linebreaker",
+    "name": "Linebreaker",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Linebreaker",
+    "source": ["Advanced Race Guide pg. 59"],
+    "school": "transmutation",
+    "race": "half-orc",
+    "levels":     {
+        "alchemist": 1,
+        "antipaladin": 1,
+        "hunter": 1,
+        "inquisitor": 1,
+        "investigator": 1,
+        "magus": 1,
+        "paladin": 1,
+        "ranger": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 minute/level",
+    "text": "You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to bull rush or overrun.",
+    "name_zh": "冲破阵线",
+    "race_zh": "半兽人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "个人",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>当你冲锋时的基本速度+20尺，另外冲撞以及闯越战技检定+2。<\/p>"
+}

@@ -1,0 +1,21 @@
+{
+    "key": "blinded master",
+    "name": "Blinded Master",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blinded%20Master",
+    "descriptors": ["Combat"],
+    "source": ["Blood of Shadows pg. 24"],
+    "text": "Your skill at arms while unable to see is astounding.",
+    "prerequisites": "Blind-Fight, Blinded Competence, Blinded Blade Style, Greater Blind-Fight, Improved Blind-Fight, Perception 15 ranks.",
+    "benefit": "While you are using Blinded Blade Style and you are blinded or unable to see, your ability to pinpoint creatures’ locations using Blinded Competence improves to function like blindsight rather than blindsense, and the range increases to 30 feet. In addition, you add half your character level to the DCs of Bluff checks to feint you in combat.",
+    "prerequisiteKeys":     [
+        "blind-fight",
+        "blinded blade style",
+        "blinded competence",
+        "greater blind-fight",
+        "improved blind-fight"
+    ],
+    "name_zh": "盲眼宗师",
+    "text_zh": "你在目不能视时的武艺技惊四座。",
+    "prerequisites_zh": "盲斗，盲眼之技，盲刃流，高等盲斗，精通盲斗，察觉15级。",
+    "benefit_zh": "当你使用盲刃流且目盲或不可视物时，你通过盲眼之技确定生物位置时的能力在功能上提升至如同盲视Blindsight而非盲感Blindsense，并且范围提升至30尺。除此之外，将你的角色等级的一半，加到在战斗时对你使用虚招的唬骗检定DC上。"
+}

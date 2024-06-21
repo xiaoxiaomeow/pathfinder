@@ -1,0 +1,21 @@
+{
+    "key": "indomitable mountain style",
+    "name": "Indomitable Mountain Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Indomitable%20Mountain%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Ultimate Wilderness pg. 115"],
+    "text": "Like a rugged mountain, you are impassable and unmovable.",
+    "prerequisites": "Wis 13, Combat Reflexes, Improved Unarmed Strike, base attack bonus +4.",
+    "benefit": "As long as you do not take a move action, you gain a +4 morale bonus to your CMD and to the DC of Bluff checks used for feint attempts against you. Additionally, you are considered to be one size category larger for the purpose of calculating your CMD when creatures attempt Acrobatics checks to move through spaces you threaten without provoking attacks of opportunity.",
+    "prerequisiteKeys":     [
+        "combat reflexes",
+        "improved unarmed strike"
+    ],
+    "name_zh": "岳峙流",
+    "text_zh": "你像山岳一般不可逾越，不可移动。",
+    "prerequisites_zh": "感知13，战斗反射，精通徒手打击，BAB+4。",
+    "benefit_zh": "只要你不采取移动动作，你的CMD和尝试对你进行虚招的唬骗检定的DC将获得+4士气加值。此外，当生物试图通过特技检定通过你威胁的空间而不引发借机攻击时，你被视作大一个体型的生物来决定CMD。"
+}

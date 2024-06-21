@@ -1,0 +1,19 @@
+{
+    "key": "dance of chains",
+    "name": "Dance of Chains",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dance%20of%20Chains",
+    "descriptors": ["Combat"],
+    "source": ["Book of the Damned pg. 178"],
+    "text": "In your hands, a spiked chain dances like a living thing.",
+    "prerequisites": "Dex 15, Chain Mastery, Exotic Weapon Proficiency (spiked chain), Weapon Finesse, Perform (dance) 1 rank.",
+    "benefit": "When wielding a spiked chain one-handed, you can add your Dexterity modifier instead of your Strength modifier to that weapon’s damage. The spiked chain must be one appropriate for your size. During your turn, you treat your reach with the spiked chain as 5 feet greater. You lose these benefits while fighting with multiple weapons or when using a shield (but not when using a buckler).",
+    "prerequisiteKeys":     [
+        "chain mastery",
+        "exotic weapon proficiency",
+        "weapon finesse"
+    ],
+    "name_zh": "链舞",
+    "text_zh": "在你的手里，刺链能像活物一般舞动起来。",
+    "prerequisites_zh": "敏捷15，锁链熟稔，擅长异种武器（刺链），武器娴熟，表演（舞蹈）1级。",
+    "benefit_zh": "当单手持用一把刺链时，你可以以敏捷调整值代替力量调整值加到其武器伤害上。该刺链必须符合你的体型。在你的回合中，你刺链的触及视为多5尺。你在使用多武器进行战斗（fighting with multiple weapons）或使用盾牌（但不包括使用小圆盾）时会失去以上的好处。"
+}

@@ -1,0 +1,17 @@
+{
+    "key": "signifer armor training",
+    "name": "Signifer Armor Training",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Signifer%20Armor%20Training",
+    "source": ["Path of the Hellknight pg. 62"],
+    "text": "You have learned the art of spellcasting while wearing signifer armor.",
+    "prerequisites": "Arcane Armor Mastery, Arcane Armor Training, Heavy Armor Proficiency, caster level 7th, must swear allegiance to a single Hellknight order.",
+    "benefit": "As a swift action, you can reduce the arcane spell failure chance due to the armor you are wearing by 30% for any spells you cast this round. This benefit applies only if you are wearing armor with “Hellknight” in its name. This bonus replaces, and does not stack with, the bonuses granted by Arcane Armor Mastery, Arcane Armor Training, and similar feats and effects.",
+    "prerequisiteKeys":     [
+        "arcane armor mastery",
+        "arcane armor training"
+    ],
+    "name_zh": "持节士护甲训练",
+    "text_zh": "你获得了穿着持节士护甲进行施法的能力。",
+    "prerequisites_zh": "奥术着甲大师，奥术着甲训练，擅长重甲，施法者等级7，必须宣誓效忠单一一个地狱骑士团。",
+    "benefit_zh": "通过一个迅捷动作，对于本轮所有法术，减少由穿戴盔甲带来的施法失败机率30%.这个好处只会在你穿戴名字中带有“地狱骑士”的护甲时才会生效。本效果取代奥术着甲大师，奥术着甲训练和类似专长或能力。"
+}

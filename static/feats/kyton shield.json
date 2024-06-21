@@ -1,0 +1,18 @@
+{
+    "key": "kyton shield",
+    "name": "Kyton Shield",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Kyton%20Shield",
+    "descriptors": ["Combat"],
+    "source": ["Horror Adventures pg. 88"],
+    "text": "Whether in your hand or draped around your body, the spiked chain serves as both weapon and shield.",
+    "prerequisites": "Wis 15, Exotic Weapon Proficiency (spiked chain), Kyton Style, base attack bonus +5, Knowledge (planes) 3 ranks, ki pool class feature.",
+    "benefit": "When using Kyton Style, you gain a +1 shield bonus to your Armor Class as long as you are wielding a spiked chain. If the spiked chain is magical, add 1/2 its enhancement bonus to this shield bonus. If the spiked chain has the vicious ability, instead add its full enhancement bonus to the shield bonus.",
+    "prerequisiteKeys":     [
+        "exotic weapon proficiency",
+        "kyton style"
+    ],
+    "name_zh": "链魔盾",
+    "text_zh": "无论在你手中还是围绕自身，刺链既是武器，也是盾牌。",
+    "prerequisites_zh": "感知15，擅长异种武器（刺链），链魔流，BAB+5，知识（位面）3级，气池职业能力。",
+    "benefit_zh": "当你使用链魔流时，只要你持用刺链，你的AC获得+1盾牌加值。如果刺链是魔法物品，那么把它增强加值的1/2加到盾牌加值上。如果刺链有反噬特性，那么把全部的增强加值加到盾牌加值上。"
+}

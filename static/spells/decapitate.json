@@ -1,0 +1,32 @@
+{
+    "key": "decapitate",
+    "name": "Decapitate",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Decapitate",
+    "source": ["Horror Adventures pg. 115"],
+    "school": "evocation",
+    "levels":     {
+        "arcanist": 6,
+        "inquisitor": 5,
+        "magus": 6,
+        "psychic": 6,
+        "sorcerer": 6,
+        "wizard": 6
+    },
+    "castingTime": "1 immediate action",
+    "components": "V, S, F (a sliver from a guillotine blade)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature (see text)",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude partial (see text)",
+    "spellResistance": "yes",
+    "text": "You can cast this spell only as a response to a confirmed critical hit against the target that would deal slashing damage. If the target fails the saving throw and has a discernible head, the attack deals an extra 4d6 points of damage and the critical multiplier of the critical hit increases by 1. If the critical hit then brings the target to 0 hit points or fewer, the target is instantly decapitated and dies unless it can survive decapitation. Even on a successful saving throw, the critical hit deals an extra 4d6 points of damage.",
+    "name_zh": "枭首",
+    "castingTime_zh": "直觉动作",
+    "components_zh": "语言、姿势、器材 (一块断头台刀刃的碎片)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一个生物 (见下)",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你仅能在当目标被确认重击且将会受到挥砍伤害时施展此法术。如果目标豁免检定失败，并且拥有一颗明显的头，这次攻击将会造成额外4d6点伤害而且此次重击的重击倍率将会增加1。如果这个重击能将目标的生命值减少至0或更低，则目标会立即被斩首并且死去，除非他可以在被斩首的情况下幸存。即使通过豁免检定，该重击还是会造成额外4d6点伤害。<\/p>"
+}

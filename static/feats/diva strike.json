@@ -1,0 +1,19 @@
+{
+    "key": "diva strike",
+    "name": "Diva Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Diva%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["Adventurer's Guide pg. 176"],
+    "text": "Those distracted by your performance leave themselves open to vicious attacks.",
+    "prerequisites": "Cha 15; Combat Expertise; Diva Style; Improved Feint; base attack bonus +7 or bard level 7th.",
+    "benefit": "While using Diva Style, the first time you hit with a melee weapon in a round, you deal an additional amount of damage equal to your Charisma modifier to a target that is denied its Dexterity bonus to AC. This damage is precision-based, and is not multiplied on a critical hit.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "diva style",
+        "improved feint"
+    ],
+    "name_zh": "剧中奇袭",
+    "text_zh": "那些被你表演分散了注意力的人会使自己对凶狠打击空门大开。",
+    "prerequisites_zh": "魅力15，寓守于攻，歌姬流，精通虚招，BAB+7或诗人等级7级。",
+    "benefit_zh": "当使用歌姬流时，你对一个无法应用敏捷加值在防御等级上的目标，每轮你第一次使用近战武器命中时，造成等于你魅力调整值的额外伤害。这个伤害是精准伤害，无法被重击翻倍。"
+}

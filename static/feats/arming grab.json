@@ -1,0 +1,21 @@
+{
+    "key": "arming grab",
+    "name": "Arming Grab",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Arming%20Grab",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 22"],
+    "text": "Opponents would be foolish to underestimate you, even if you appear unarmed and helpless. You are practiced at turning the tables on armed foes and using their own weapons against them.",
+    "prerequisites": "Int 13, Catch Off-Guard, Combat Expertise, Improved Disarm.",
+    "benefit": "You take no penalty on your attack roll when attempting to disarm an opponent while you are unarmed. If you succeed at a disarm attempt without using a weapon and choose to pick up the disarmed weapon, you can attack with that weapon as though you were proficient with it until the end of your next turn. If you are already proficient with that type of weapon, you gain a +2 morale bonus to your attack rolls with that weapon until the end of your next turn.",
+    "normal": "Attempting to disarm a foe while unarmed imposes a –4 penalty on the attack.",
+    "prerequisiteKeys":     [
+        "catch off-guard",
+        "combat expertise",
+        "improved disarm"
+    ],
+    "name_zh": "擒武",
+    "text_zh": "你表现出的手无寸铁可能让敌人错误估计你的实力。你熟练于在面对武装敌人下一转攻势，用他们自身的武器攻击他们。",
+    "prerequisites_zh": "智力13，随手武器，寓守于攻，精通卸武。",
+    "benefit_zh": "你在徒手状态下进行卸武检定的攻击骰上不受到减值。如果你成功通过了一次不使用武器的卸武检定并且决定捡起卸下的武器，你可以如同熟悉这把武器到你下一回合结束，用它进行攻击。如果你已经熟悉这把武器，你在下一回合结束前使用这把武器攻击骰上获得+2士气加值。",
+    "normal_zh": "徒手状态下进行卸武会受到攻击骰-4减值。"
+}

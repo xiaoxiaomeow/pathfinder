@@ -1,0 +1,24 @@
+{
+    "key": "street style",
+    "name": "Street Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Street%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Ultimate Intrigue pg. 92"],
+    "text": "You use the urban environment to your advantage, thrashing and bashing your foe and driving it back.",
+    "prerequisites": "Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, base attack bonus +4 or monk level 3rd.",
+    "benefit": "While using this style, once per round as a swift action when you hit a target with an unarmed strike, you can deal an extra 1d6 points of damage and attempt a bull rush combat maneuver against that target.",
+    "special": "You can enter the style stance for street style only while in urban terrain, and the stance ends immediately if you cease to be in urban terrain.",
+    "prerequisiteKeys":     [
+        "improved bull rush",
+        "improved unarmed strike",
+        "power attack"
+    ],
+    "name_zh": "街霸流",
+    "text_zh": "你能利用城市的环境带来战斗优势，猛击敌人并把它弹向建筑。",
+    "prerequisites_zh": "力量 15，精通冲撞，精通徒手打击，猛力攻击，BAB+4或武僧等级3级。",
+    "benefit_zh": "当你使用街霸流期间，每轮1次以迅捷动作，能够在徒手打击命中目标时，额外造成1d6点伤害，并对目标尝试1次冲撞战技（bull rush combat maneuver）。",
+    "special_zh": "你只能在城市地形（urban terrain）启动街霸流的架势，当你离开城市地形后，该架势会立即终止。"
+}

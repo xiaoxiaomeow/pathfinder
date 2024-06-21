@@ -1,0 +1,32 @@
+{
+    "key": "blade of light",
+    "name": "Blade of Light",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blade%20of%20Light",
+    "source": ["Adventurer's Guide pg. 16"],
+    "school": "transmutation",
+    "descriptors": ["good"],
+    "levels":     {
+        "cleric": 4,
+        "inquisitor": 4,
+        "oracle": 4,
+        "paladin": 4,
+        "warpriest": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one melee weapon",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell infuses a weapon with pure sunlight (the weapon need not be a bladed weapon). A weapon enhanced by this spell sheds light as if daylight had been cast on it. It functions as a magic and good weapon for the purposes of overcoming damage reduction. The weapon grants a +2 sacred bonus on attack rolls against undead and deals +1d6 points of damage on a successful hit against such foes; against incorporeal undead, it functions as if it had the <i>ghost touch<\/i> weapon special ability. The weapon automatically confirms critical hits against foes that are vulnerable to sunlight.",
+    "name_zh": "光之刃",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "接触",
+    "target_zh": "一把近战武器",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "否",
+    "text_zh": "<p>这个法术为武器注入纯净的阳光（武器不需是带刃武器）。被这个法术强化的武器如同被施展了昼明术一样发光。它在克服伤害减免时视作魔法和善良武器。该武器在对不死生物的攻击骰上给予+2神圣加值，并对成功命中的不死生物敌人造成额外1d6点伤害; 在对抗虚体不死生物时，它视作拥有幽冥特殊武器能力。武器在对日光敏感（vulnerable to sunlight）的敌人重击时自动确认。<\/p>"
+}

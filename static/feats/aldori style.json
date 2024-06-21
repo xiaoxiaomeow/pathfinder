@@ -1,0 +1,23 @@
+{
+    "key": "aldori style",
+    "name": "Aldori Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Aldori%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Adventurer's Guide pg. 24"],
+    "text": "You have learned the classic Aldori dueling stance.",
+    "prerequisites": "Alertness, Exotic Weapon Proficiency (Aldori dueling sword), Weapon Finesse, Weapon Focus (Aldori dueling sword).",
+    "benefit": "While using Aldori Style and wielding only a single Aldori dueling sword in one hand (not using a shield, an off-hand weapon, armor spikes, unarmed strikes, or natural weapons), when you fight defensively or use Combat Expertise, you gain a +2 bonus on weapon damage rolls.",
+    "prerequisiteKeys":     [
+        "alertness",
+        "exotic weapon proficiency",
+        "weapon finesse",
+        "weapon focus"
+    ],
+    "name_zh": "奥多里决斗流",
+    "text_zh": "你已经学会了基础的奥多里决斗架势。",
+    "prerequisites_zh": "警觉，异种武器擅长（奥多里决斗剑），武器娴熟，武器专攻（奥多里决斗剑）。",
+    "benefit_zh": "使用奥多里决斗流并持有且仅用一只手持有一把奥多里决斗剑（不使用盾牌，副手武器，甲刺，徒手攻击或天生武器）时，你进行防御式战斗或使用寓守于攻时，你的武器伤害检定获得+2加值。"
+}

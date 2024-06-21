@@ -1,0 +1,22 @@
+{
+    "key": "smashing impact",
+    "name": "Smashing Impact",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Smashing%20Impact",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 24"],
+    "text": "The force of your assault drives your opponents against, and possibly through, solid barriers.",
+    "prerequisites": "Str 15, Crushing Impact, Improved Bull Rush, Improved Unarmed Strike, Power Attack.",
+    "benefit": "Whenever you successfully bull rush an enemy and its movement is stopped by a solid object or barrier, you can deal your unarmed strike damage to both the foe and the object or barrier, as long as the enemy is within your threatened area. If you performed your bull rush as part of a charge, you gain a +2 bonus on your damage roll. If the damage is enough to destroy the object or barrier, you can continue to push your target the remaining distance allowed by your bull rush combat maneuver.",
+    "normal": "You can’t bull rush a creature into a solid object or barrier.",
+    "prerequisiteKeys":     [
+        "crushing impact",
+        "improved bull rush",
+        "improved unarmed strike",
+        "power attack"
+    ],
+    "name_zh": "粉碎冲击",
+    "text_zh": "你带着敌人的冲击如此强力，甚至能冲破坚实的屏障。",
+    "prerequisites_zh": "力量15，破碎冲击，精通冲撞，精通徒手打击，猛力攻击。",
+    "benefit_zh": "当你成功冲撞一个敌人，而他的位移被坚实物体或障碍物阻挡时，你可以对敌人和该物体同时造成徒手攻击伤害，只要敌人位于你的威胁范围内。如果你在冲锋的一部分进行这一冲撞，你在伤害骰上获得+2加值。如果该伤害足以破坏该物体或屏障，你可以继续推行目标以满足你冲撞战技的要求。",
+    "normal_zh": "你不能把一个生物冲撞过坚实物体或屏障。"
+}

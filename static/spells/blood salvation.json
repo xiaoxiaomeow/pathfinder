@@ -1,0 +1,21 @@
+{
+    "key": "blood salvation",
+    "name": "Blood Salvation",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Salvation",
+    "source": ["Advanced Class Origins pg. 30"],
+    "school": "abjuration",
+    "levels": {"bloodrager": 3},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level (D; see below)",
+    "text": "While under the effect of this spell, you’re immune to any damaging area spells you cast. You can dismiss this spell as an immediate action when you are caught within the area of someone else’s damaging area spell; if you do, you’re immune to that particular casting of that spell as well. If you have the blood casting class feature, you can cast this spell as a swift action instead of a standard action while you’re in a bloodrage.",
+    "name_zh": "血之救赎",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "个人",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级 (D; 见文本)",
+    "text_zh": "<p>在此法术的效果下，你免疫任何由你施展的区域性伤害法术。当你位在他人的区域性伤害法术范围内时，你能够以一个直觉动作解消此法术; 如果你这样做，你免疫这个特别施展的法术。如果你拥有狂血咒术职业能力，当你处于血怒时，你可以以一个迅捷动作而非标准动作施展此法术。<\/p><p>◎防御仪态译文大部分援引自丞相于自用资源之法术翻译。<\/p>"
+}

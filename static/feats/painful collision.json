@@ -1,0 +1,18 @@
+{
+    "key": "painful collision",
+    "name": "Painful Collision",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Painful%20Collision",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 24"],
+    "text": "You shove your opponents into each other, causing painful and damaging collisions.",
+    "prerequisites": "Str 13, Improved Bull Rush, Power Attack.",
+    "benefit": "When you bull rush an enemy into another creature, both creatures take 1d6 points of bludgeoning damage, plus an additional 1d6 points of bludgeoning damage for every 5 feet your original target has moved as a result of your bull rush. For instance, if you successfully bull rush a goblin 10 feet and it then collides with another goblin, both creatures would take 3d6 points of bludgeoning damage.",
+    "prerequisiteKeys":     [
+        "improved bull rush",
+        "power attack"
+    ],
+    "name_zh": "痛苦撞击",
+    "text_zh": "你让敌人撞在一起，十分痛苦。",
+    "prerequisites_zh": "力量13，精通冲撞，猛力攻击。",
+    "benefit_zh": "当你把一个敌人冲撞到另一个敌人身上时，两个敌人都会受到1d6点钝击伤害，加上你的主要目标因为冲撞结果每移动5尺1d6伤害。比如，如果你把一个地精撞出10尺然后撞到了另一个地精，则两个生物都会受到3d6点钝击伤害。"
+}

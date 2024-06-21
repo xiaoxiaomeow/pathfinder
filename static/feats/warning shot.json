@@ -1,0 +1,19 @@
+{
+    "key": "warning shot",
+    "name": "Warning Shot",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Warning%20Shot",
+    "descriptors": ["Combat"],
+    "source": ["Ranged Tactics Toolbox pg. 11"],
+    "text": "An intentional near-miss demonstrates your frightening skill at range.",
+    "prerequisites": "Point-Blank Shot, Precise Shot, Weapon Focus, proficiency with the selected weapon.",
+    "benefit": "As a standard action, you can make a ranged touch attack using a ranged weapon with which you have Weapon Focus. If successful, instead of dealing damage or applying any other effects of the attack, you may attempt an Intimidate check to demoralize the target as a free action. The target doesn’t need to be within 30 feet, nor does it need to be able to see or hear you.",
+    "prerequisiteKeys":     [
+        "point-blank shot",
+        "precise shot",
+        "weapon focus"
+    ],
+    "name_zh": "警告射击",
+    "text_zh": "故意射偏的箭矢展现了你在远距离威吓上的技巧。",
+    "prerequisites_zh": "近程射击，精准射击，武器专攻，擅长所使用武器。",
+    "benefit_zh": "以一个标准动作，你使用武器专攻的武器对目标进行一次远程接触攻击。若命中，取代造成伤害和一切攻击效果，你可以自由动作对目标进行一次威吓检定以挫败士气。目标既不用距离你30尺内，也无需听到或看到你。"
+}

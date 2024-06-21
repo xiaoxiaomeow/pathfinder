@@ -1,0 +1,16 @@
+{
+    "key": "jaguar pounce",
+    "name": "Jaguar Pounce",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Jaguar%20Pounce",
+    "descriptors": ["Combat"],
+    "source":     [
+        "Ultimate Wilderness pg. 115",
+        "Sargava, the Lost Colony pg. 24"
+    ],
+    "text": "Your ambushes are especially lethal.",
+    "prerequisites": "Base attack bonus +4.",
+    "benefit": "When making a charge or using Spring Attack against an opponent who is flat-footed or helpless, you treat your first melee attack against that target as if you had the Improved Critical feat.",
+    "name_zh": "猎豹突袭",
+    "prerequisites_zh": "BAB+4。",
+    "benefit_zh": "当你冲锋或以跳跃攻击袭击措手不及或是无助的目标时，你的第一次攻击视同拥有精通重击专长的效果。"
+}

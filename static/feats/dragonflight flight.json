@@ -1,0 +1,19 @@
+{
+    "key": "dragonflight flight",
+    "name": "Dragonflight Flight",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dragonflight%20Flight",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 14"],
+    "text": "You can fly short distances through the air.",
+    "prerequisites": "Dex 15, Wis 15, Dragonfly Style, Dragonfly Wings, Improved Unarmed Strike, Acrobatics 10 ranks, Climb 10 ranks.",
+    "benefit": "While using Dragonfly Style, you can attempt an Acrobatics check to high jump as a move action, and then immediately <i>glide<\/i> as the spell for 1 round. If you have not used your standard action after using Dragonfly Flight to make a high jump and start gliding, you can charge while gliding. This charge follows the rules for charging when you are only able to take a standard action.",
+    "prerequisiteKeys":     [
+        "dragonfly style",
+        "dragonfly wings",
+        "improved unarmed strike"
+    ],
+    "name_zh": "蜻蜓飞舞",
+    "text_zh": "你可以在空中短程飞行。",
+    "prerequisites_zh": "敏捷15，感知15，蜻蜓流，蜻蜓之翼，精通徒手打击，特技10级，攀爬10级。",
+    "benefit_zh": "当使用蜻蜓流时，你可以用一个移动动作尝试一次特技检定调高，然后立刻如滑翔术apg一般滑翔一轮。如果你在使用蜻蜓飞舞起跳后没有使用标准动作，则你可以在滑翔过程中冲锋。这一冲锋遵照你只能使用一个标准动作情况下的冲锋规则。"
+}

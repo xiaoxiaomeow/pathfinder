@@ -1,0 +1,20 @@
+{
+    "key": "wrist grab",
+    "name": "Wrist Grab",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wrist%20Grab",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 22"],
+    "text": "When an enemy overextends to attack you, you quickly catch its arm and knock its weapon loose.",
+    "prerequisites": "Dex 13, Int 13, Combat Expertise, Combat Reflexes, Improved Disarm, Improved Unarmed Strike, base attack bonus +6.",
+    "benefit": "When an opponent’s attack misses you by 5 or more, you can attempt a disarm combat maneuver check against that foe as an immediate action.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "combat reflexes",
+        "improved disarm",
+        "improved unarmed strike"
+    ],
+    "name_zh": "擒腕",
+    "text_zh": "当一个敌人过于激进的攻击你，你快速抓住他的手臂并击落武器。",
+    "prerequisites_zh": "敏捷13，智力13，寓守于攻，战斗反射，精通卸武，精通徒手打击，BAB+6。",
+    "benefit_zh": "当一个敌人未命中你且检定值低5或以上，你可以用一个直觉动作对其进行一次卸武检定。"
+}

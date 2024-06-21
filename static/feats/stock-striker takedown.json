@@ -1,0 +1,19 @@
+{
+    "key": "stock-striker takedown",
+    "name": "Stock-Striker Takedown",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stock-Striker%20Takedown",
+    "descriptors": ["Combat"],
+    "source": ["People of the Wastes pg. 11"],
+    "text": "Your melee strike leaves your target vulnerable to a merciless finishing shot.",
+    "prerequisites": "Point-Blank Shot, Stock-Striker Style, Stock-Striker Sweep, base attack bonus +9, pistol-whip gunslinger deed.",
+    "benefit": "After you knock a target prone with the pistol-whip deed while using Stock-Striker Style, you can fire one barrel of a loaded firearm you’re wielding at the target as a move action; if your firearm has the scatter weapon quality, you can instead make a scattering shot so long as you include the target in the area of effect. For this attack, you take no attack penalty for making a ranged attack against a prone target, and the critical multiplier of your weapon increases by 1 (to a maximum of ×5).",
+    "prerequisiteKeys":     [
+        "point-blank shot",
+        "stock-striker style",
+        "stock-striker sweep"
+    ],
+    "name_zh": "枪托抡倒",
+    "text_zh": "你的近战猛攻让对方无力反抗接下来残忍的终结一枪。",
+    "prerequisites_zh": "近距射击，枪托势，枪托横扫，bab+9，铳士炫技：枪柄打击。",
+    "benefit_zh": "当你处于枪托势并成功以枪柄打击炫技将目标击至俯卧时，你可以通过一个移动动作，用手中上膛的火器向目标射击；若你的火器具有霰弹特性，则你能改而进行一次霰弹射击，但该目标必须处于效果范围内。你不会因对俯卧目标进行远程攻击而在该次攻击上受到减值，同时你武器的重击倍率增加1（重击倍率最高为x5）。"
+}

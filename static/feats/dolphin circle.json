@@ -1,0 +1,19 @@
+{
+    "key": "dolphin circle",
+    "name": "Dolphin Circle",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Circle",
+    "descriptors": ["Combat"],
+    "source": ["Aquatic Adventures pg. 57"],
+    "text": "You circle your foes like dolphins, forcing them to play into your attacks.",
+    "prerequisites": "Dolphin Dart, Dolphin Style, Improved Unarmed Strike, Swim 10 ranks, base attack bonus +10 or monk level 10th.",
+    "benefit": "While in Dolphin Style, as a full-round action underwater you can choose a circular path starting and ending in your current space whose length is no longer than you could swim with a single move action. You circle around that path until your next turn, and this movement doesn’t provoke attacks of opportunity. You are considered to be in every space along the path for the purpose of threatening squares and providing flanking for other allies (but not yourself ), as well as whether you are in the area of an area effect. Other creatures can attack you (and touch you with beneficial touch spells) as if you were in every space along the path. However, you don’t count as being in any of the spaces for the purpose of other creatures moving through an occupied space. At the beginning of your next turn, choose any space along the path to stop circling.",
+    "prerequisiteKeys":     [
+        "dolphin dart",
+        "dolphin style",
+        "improved unarmed strike"
+    ],
+    "name_zh": "海豚环杀",
+    "text_zh": "你像海豚一样环绕着你的敌人，将他们玩弄于你攻击的股掌之中。",
+    "prerequisites_zh": "海豚突进，海豚流，精通徒手击打，游泳10级，BAB+10或者武僧10级。",
+    "benefit_zh": "当你处于海豚流的架势下时，以一个整轮动作，你可以在水下选择一个环形的路线，其起点和终点都必须在你目前所处的方格，且长度不能超过你以单个移动动作所能游过的距离。你会环绕这条路线游动直到你的下一回合开始，这次移动不会引发借机攻击。在考虑威胁范围和为盟友（除了你自己）提供夹击以及范围效果时，你被视为处在该路线所有经过的方格中。但当其他生物穿过这条线路的任意方格时，你不会被视作在其中的任何方格。在你下一回合开始时，选择该路径经过的任一方格来停止环绕。"
+}

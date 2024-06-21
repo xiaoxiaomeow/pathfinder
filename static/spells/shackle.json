@@ -1,0 +1,39 @@
+{
+    "key": "shackle",
+    "name": "Shackle",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shackle",
+    "source":     [
+        "Adventurer's Guide pg. 99",
+        "Path of the Hellknight pg. 61"
+    ],
+    "school": "conjuration",
+    "subSchools": ["creation"],
+    "levels":     {
+        "arcanist": 2,
+        "cleric": 2,
+        "hunter": 2,
+        "inquisitor": 2,
+        "oracle": 2,
+        "ranger": 2,
+        "sorcerer": 2,
+        "warpriest": 2,
+        "wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "effect": "one set of restraints; see text",
+    "duration": "1 hour/level",
+    "savingThrow": "Reflex negates",
+    "spellResistance": "no",
+    "text": "You summon a set of Small or Medium masterwork restraints into being. When you cast this spell, you can choose whether the restraints are manacles or fetters (manacles specifically designed to fit around the ankles). You also summon the restraints’ key to your person; the Disable Device DC to open the locked restraints is equal to 15 + your caster level + the modifier of your primary casting ability score. Typically, the restraints appear in your hands. However, as part of the spell’s casting, you can make a melee touch attack against a creature; if you succeed and the creature then fails a Reflex saving throw against the spell’s DC, the locked fetters appear clasped on the creature or locked manacles clasp you and the creature together. You can instead have manacles restrain the target’s limbs in front of or behind it. If you cast the spell as a full-round action, you can make melee touch attacks against two creatures you can reach. If you succeed at both attacks and both creatures fail their Reflex saving throws, you can cause the set of manacles to bind the targets together.<br><br> As you increase in level, the restraints become stronger and you gain more control over them. If you are 6th level or higher, you can make the restraints mithral, or you can summon Tiny or Large restraints. If you are 12th level or higher, you can summon Diminutive or Huge restraints. If you use an emerald worth at least 1,000 gp as a material component while casting this spell, as a standard action once during its duration, you can affect any creature bound by these restraints as per <i>dimensional anchor<\/i> with a duration of 1 minute per caster level. If you are 18th level or higher and use an emerald worth at least 1,000 gp as a material component while casting this spell, the restraints’ hardness increases to 30, they have 60 hit points, and they can’t be broken with a successful Strength check. (The emerald must be worth at least 2,000 gp if you also wish to use the <i>dimensional anchor<\/i> effect described earlier.)<br><br> If you cast this spell before the duration of a previous casting has lapsed, you can create a new set of restraints or reset the previous spell’s duration. If you used an expensive material component during a previous casting, you must again use a component when creating new restraints or resetting the duration if you wish to maintain the special effect. You do not need to touch these previously created shackles to renew their duration, though you must be on the same plane as the shackles. When this spell ends, the restraints disappear, and any ongoing effects created by the spell end.",
+    "name_zh": "地狱缚链",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "接触",
+    "area_zh": "一副缚链（见下文）",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "反射, 通过则无效",
+    "spellResistance_zh": "否",
+    "text_zh": "<p>你可以召唤一条小型或是中型的精制缚链。当你使用这个法术时，你可以决定这条缚链是脚镣还是手链（manacles or fetters）（manacles通常用来束缚住脚踝）。你会一同召唤出缚链的钥匙; 打开这条缚链的开锁DC=15+施法者等级+施法主属性调整值。通常来说，缚链会出现在你的手上。但作为施法的一部分，你可以用一个近战接触攻击触碰一个生物，如果你成功命中且对方的反射检定小于你的法术DC，锁好的脚镣将扣在该生物上，或者锁好的手铐将你和该生物生物铐在一起，你能作为代替用手铐将目标的肢体束缚在前面或后面。如果你使用一个整轮动作进行施法，那么你可以同时对两个生物进行近战接触攻击，如果你都成功命中并且目标的反射检定均失败，缚链会把这两个目标铐在一起。<\/p><p>当你等级提升时，缚链的能力也会更强，而你也能更好的控制它。当你拥有6级或更高，你可以召唤出一条秘银缚链，或者选择召唤超小型或是大型缚链。当你拥有12级或更高，可以召唤微型或是超大型缚链; 假如你在施法时额外消耗至少价值1000gp的绿宝石，你可以通过一个标准动作为被缚链束缚住的目标们添加一个次元锚（dimensional anchor）效果，持续每施法者等级1分钟，每次召唤地狱缚链只能使用一次。如果你拥有18级或更高，你可以在施法时额外消耗至少价值1000gp的绿宝石，将缚链的坚硬度提高到30，拥有60点生命值，并且无法通过蛮力（力量检定）破坏。（如果你仍打算附加次元锚效果，那么需要至少价值2000gp的绿宝石）。<\/p><p>如果你在缚链失效前再次使用了这个法术，那么你可以召唤出一条新的缚链或是重置旧缚链的持续时间。如果你在旧缚链上消耗了贵重的施法材料，那么你必须花费同样多的材料来维持缚链的特殊效果。只要你和地狱缚链仍处于同一位面，那么你不需要碰触到它即可重置持续时间。当这个法术结束时，地狱缚链会消失，它所附带的特殊效果也会消失。<\/p><p>以下的特殊法术是由掌灯人改进，用以探索幽暗之地，对抗卓尔毒药以及预防她们的灵魂因为抉择不当而染上晦暗之色（受到腐化）。<\/p>"
+}

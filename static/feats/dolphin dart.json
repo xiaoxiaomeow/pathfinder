@@ -1,0 +1,18 @@
+{
+    "key": "dolphin dart",
+    "name": "Dolphin Dart",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dolphin%20Dart",
+    "descriptors": ["Combat"],
+    "source": ["Aquatic Adventures pg. 57"],
+    "text": "Like a dolphin, you can quickly dart at a foe and retreat.",
+    "prerequisites": "Dolphin Style, Improved Unarmed Strike, Swim 6 ranks, base attack bonus +6 or monk level 6th.",
+    "benefit": "While in Dolphin Style, as a standard action underwater you can move up to half your swim speed, make a single melee attack against a creature within your reach, and then retreat back to your previous position. Your movement and attack don’t provoke attacks of opportunity, even if your foe has an ability that allows attacks of opportunity with triggers other than moving out of a threatened area.",
+    "prerequisiteKeys":     [
+        "dolphin style",
+        "improved unarmed strike"
+    ],
+    "name_zh": "海豚突进",
+    "text_zh": "你迅速地突击一个敌人又迅速地后撤，就像一只海豚一样。",
+    "prerequisites_zh": "海豚流，精通徒手击打，游泳6级，BAB+6或者武僧6级。",
+    "benefit_zh": "当你处于海豚流的架势之下时，以一个标准动作，你可以在水下最多移动你游泳速度的一半，并对位于你触及范围内的一名敌人做一次近战攻击，然后撤回你原来所处的位置。你的移动和攻击都不会引发借机攻击，即使你的敌人拥有除了移出威胁范围外其他触发借机攻击的条件。"
+}

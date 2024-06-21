@@ -1,0 +1,21 @@
+{
+    "key": "wolf trip",
+    "name": "Wolf Trip",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wolf%20Trip",
+    "descriptors": ["Combat"],
+    "source":     [
+        "Ultimate Wilderness pg. 121",
+        "Blood of the Moon pg. 25"
+    ],
+    "text": "You have studied the manner in which wolves bring down their prey.",
+    "prerequisites": "Wis 15, Improved Unarmed Strike, Wolf Style, Knowledge (nature) 6 ranks.",
+    "benefit": "While using Wolf Style, you gain a +2 bonus when you attempt a trip combat maneuver as part of an attack of opportunity. Whenever you successfully trip a creature, as a free action you can choose an available space that is both adjacent to you and the creature’s original space for the tripped creature to land prone in.",
+    "prerequisiteKeys":     [
+        "improved unarmed strike",
+        "wolf style"
+    ],
+    "name_zh": "狼摔",
+    "text_zh": "你研究了饿狼捕食猎物的技巧。",
+    "prerequisites_zh": "感知15，精通徒手打击，狼拳，知识（自然）6级。",
+    "benefit_zh": "使用狼拳时，你在借机攻击中使用拌摔的战技检定＋2加值。每当你成功拌摔一个敌人时，你可以以一个自由动作选择一个既与你邻接又与该生物的原始空间邻接的可用空间，使被绊倒的生物俯卧其中。"
+}

@@ -1,0 +1,21 @@
+{
+    "key": "overwatch vortex",
+    "name": "Overwatch Vortex",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Overwatch%20Vortex",
+    "descriptors": ["Combat"],
+    "source": ["Weapon Master's Handbook pg. 15"],
+    "text": "You are ready to respond to many more of your foes’ actions.",
+    "prerequisites": "Overwatch Style, Overwatch Tactician, Precise Shot, Rapid Shot, Weapon Focus with the chosen weapon, base attack bonus +11.",
+    "benefit": "While using the Overwatch Style, as a full-round action you can ready up to four ranged attacks, each with its own triggering event. You take a –2 penalty on attack rolls made with these readied actions.",
+    "prerequisiteKeys":     [
+        "overwatch style",
+        "overwatch tactician",
+        "precise shot",
+        "rapid shot",
+        "weapon focus"
+    ],
+    "name_zh": "矢暴啸",
+    "text_zh": "你箭壶里的每一支箭都知道自己的目的地在哪。",
+    "prerequisites_zh": "快速射击，精准射击，矢暴式，矢暴策，对所选武器拥有武器专攻专长，BAB+11。",
+    "benefit_zh": "当你开启矢暴流的架势时，你可以以一个整轮动作，使用自己所选的武器准备最多四次次远程攻击，每一次攻击都设定一个你所选的触发条件。你在这四次准备攻击的攻击检定上承受-2减值。"
+}

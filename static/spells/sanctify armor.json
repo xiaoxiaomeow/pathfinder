@@ -1,0 +1,32 @@
+{
+    "key": "sanctify armor",
+    "name": "Sanctify Armor",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sanctify%20Armor",
+    "source": ["Advanced Player's Guide pg. 240"],
+    "school": "abjuration",
+    "descriptors": ["good"],
+    "levels":     {
+        "inquisitor": 4,
+        "paladin": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "armor touched",
+    "duration": "1 minute/level",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "You imbue your armor with a righteous aura. It gains a +1 enhancement bonus per four caster levels (maximum +5 at 20th level). When using your judgment or smite ability, you gain DR 5/evil.<br><br>An outfit of regular clothing counts as armor that grants no AC bonus for the purpose of this spell.",
+    "mythicSource": ["Mythic Adventures pg. 106"],
+    "mythicText": "You gain DR 5/evil while wearing the target armor. While you’re using your judgment or smite ability, this improves to DR 10/evil.<br><br><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, when you use judgment or smite, add half your tier to your AC as a sacred bonus.",
+    "name_zh": "神圣护甲",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的护甲",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+    "spellResistance_zh": "可 (无害, 物体)",
+    "text_zh": "<p>你使用正义的灵光将自身的护甲同质化。使其获得每4个施法者等级1点增强加值 (最高为20级时+5)。当你使用你的审判或制裁能力 (judgment or smite ability) 时，获得DR 5/邪恶。<\/p><p>一套普通的外衣对于该法术来说，视为提供0点AC加值的护甲。<\/p>",
+    "mythicText_zh": "<p>在穿戴目标护甲时，你获得DR 5/邪恶。当你使用你的审判或制裁能力（judgment or smite ability）时，这些DR会增加至DR 10/邪恶。<\/p><p><b>强化（3阶）<\/b>：若你花费2次神话之力，那么当你使用审判或制裁时，将你的阶层的一半加到AC上，该加值为神圣加值。<\/p>"
+}

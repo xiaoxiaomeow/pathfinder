@@ -1,0 +1,19 @@
+{
+    "key": "cerberus crush",
+    "name": "Cerberus Crush",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cerberus%20Crush",
+    "descriptors": ["Combat"],
+    "source": ["Plane-Hopper's Handbook pg. 9"],
+    "text": "When you strike from three directions, you channel deadly force into each blow.",
+    "prerequisites": "Cerberus Snare, Cerberus Style, Vital Strike, base attack bonus +13 or monk level 13th.",
+    "benefit": "You can apply the benefits of Vital Strike, Improved Vital Strike, and Greater Vital Strike to all attacks made using Cerberus Style.",
+    "prerequisiteKeys":     [
+        "cerberus snare",
+        "cerberus style",
+        "vital strike"
+    ],
+    "name_zh": "三头犬碾压",
+    "text_zh": "当你向三个方向发起攻击时，每一个攻击都能传导致命的力量。",
+    "prerequisites_zh": "三头犬流，三头犬罗网，要害打击，BAB+13或武僧13级。",
+    "benefit_zh": "你可以将要害打击，精通要害打击，高等要害打击应用到三头犬流的所有攻击上。"
+}

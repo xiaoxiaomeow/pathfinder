@@ -1,0 +1,18 @@
+{
+    "key": "wilding strike",
+    "name": "Wilding Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wilding%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Wilderness pg. 120"],
+    "text": "Filled with the might of nature, you need no weapons of steel or wood. Your fists and feet are as potent as any creation of the forge.",
+    "prerequisites": "Str 13, Improved Unarmed Strike, Wilding.",
+    "benefit": "The damage die of your unarmed strikes increases to 1d6 (or 1d4 if you are Small). This does not stack with any other effects that increase the damage die of your unarmed strikes, including levels in classes such as monk. Increases to your actual size category (such as <i>enlarge person<\/i>) still increase your damage die as normal.",
+    "prerequisiteKeys":     [
+        "improved unarmed strike",
+        "wilding"
+    ],
+    "name_zh": "荒野打击",
+    "text_zh": "自然之力充斥你的身躯，你无需木质或钢铁的武器，你的爪牙与任何人造的武器一样有力。",
+    "prerequisites_zh": "力量13，精通徒手打击，荒野之痕。",
+    "benefit_zh": "徒手打击的伤害增加到1d6（小型体型为1d4）。这与其他增加徒手攻击伤害骰的能力无法与其叠加，包括武僧等级给予的奖励。增加你体型的效果（如人类变巨术）依然能够正常增大你的伤害骰。"
+}

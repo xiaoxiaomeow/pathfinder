@@ -1,0 +1,21 @@
+{
+    "key": "extended combat meditation",
+    "name": "Extended Combat Meditation",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extended%20Combat%20Meditation",
+    "descriptors":     [
+        "Combat",
+        "Meditation"
+    ],
+    "source": ["Blood of the Beast pg. 28"],
+    "text": "You are able to glean insight from your momentary meditation for longer than most can.",
+    "prerequisites": "Wis 13, Combat Meditation, Meditation Master, character level 9th.",
+    "benefit": "Add your Wisdom bonus (if any) to the number of rounds that you gain the benefits of your meditation feats when using Combat Meditation.",
+    "prerequisiteKeys":     [
+        "combat meditation",
+        "meditation master"
+    ],
+    "name_zh": "扩展战斗冥想",
+    "text_zh": "你能够从短暂冥想中获得更多的洞察并持续得更加长久。",
+    "prerequisites_zh": "感知13，战斗冥想，冥想大师，角色等级9。",
+    "benefit_zh": "当你使用战斗冥想时，你从你的冥想专长中获取好处的持续轮数增加你的感知加值（如果有的话）。"
+}

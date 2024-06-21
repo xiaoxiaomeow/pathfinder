@@ -1,0 +1,21 @@
+{
+    "key": "mobile bulwark style",
+    "name": "Mobile Bulwark Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mobile%20Bulwark%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Armor Master's Handbook pg. 12"],
+    "text": "You are able to swing your tower shield around quickly.",
+    "prerequisites": "Str 13, Shield Focus, Tower Shield Proficiency, base attack bonus +1.",
+    "benefit": "While using a tower shield, add the shield’s bonus to AC (including its enhancement bonus) to your CMD against bull rush and overrun combat maneuvers. While using this style, you can use a tower shield to grant you total cover along one edge of your space (<i>Pathfinder Roleplaying Game Core Rulebook<\/i> 153) as a move action.",
+    "prerequisiteKeys":     [
+        "shield focus",
+        "tower shield proficiency"
+    ],
+    "name_zh": "铁壁流",
+    "text_zh": "你可以疾风般地挥舞塔盾。",
+    "prerequisites_zh": "力量13，盾牌专攻，擅长塔盾，BAB+1。",
+    "benefit_zh": "当你持用一面塔盾时，将盾牌的AC加值(包括增强加值)加到你对冲撞和闯越战技的CMD上。开启本流派后，你可以用移动动作使用塔盾制造沿着你所处空间一条边的全掩蔽。"
+}

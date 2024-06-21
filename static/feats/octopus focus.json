@@ -1,0 +1,18 @@
+{
+    "key": "octopus focus",
+    "name": "Octopus Focus",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Octopus%20Focus",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 14"],
+    "text": "The more enemies that surround you, the more accurate your attacks become.",
+    "prerequisites": "Dex 13, Dodge, Octopus Style, Acrobatics 3 ranks, Perception 3 ranks.",
+    "benefit": "When using this style, you gain a cumulative +1 bonus on melee attacks for each enemy that threatens you, up to a maximum equal to your Dexterity modifier. In addition, when you attempt to grapple without two free hands, you take only a –2 penalty on your combat maneuver check instead of the usual –4.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "octopus style"
+    ],
+    "name_zh": "章鱼专注",
+    "text_zh": "围绕你的敌人越多，你的攻击就越发精准。",
+    "prerequisites_zh": "敏捷13，闪避，章鱼流，特技3级，察觉3级。",
+    "benefit_zh": "当使用这一流派时，你因每个威胁你的敌人在近战攻击上获得可累加的+1加值，最高相当于你的敏捷调整值。另外，当你没有空出两只手的情况下尝试擒抱时，你只需要受到-2减值而非正常情况下的-4减值。"
+}

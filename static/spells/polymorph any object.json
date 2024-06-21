@@ -1,0 +1,30 @@
+{
+    "key": "polymorph any object",
+    "name": "Polymorph Any Object",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Polymorph%20Any%20Object",
+    "source": ["PRPG Core Rulebook pg. 323"],
+    "school": "transmutation",
+    "subSchools": ["polymorph"],
+    "levels":     {
+        "arcanist": 8,
+        "sorcerer": 8,
+        "wizard": 8
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (mercury, gum arabic, and smoke)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature, or one nonmagical object of up to 100 cu. ft./level",
+    "duration": "see text",
+    "savingThrow": "Fortitude negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "This spell functions like <i>greater polymorph<\/i>, except that it changes one object or creature into another. You can use this spell to transform all manner of objects and creatures into new forms—you aren't limited to transforming a living creature into another living form. The duration of the spell depends on how radical a change is made from the original state to its transmuted state. The duration is determined by using the following guidelines.<br><br><table class=\"inner\"><tr><td><b>Changed Subject Is...<\/b><\/td><td><b>Increase to Duration Factor*<\/b><\/td><\/tr><tr><td>Same kingdom (animal, vegetable, mineral)<\/td><td>+5<\/td><\/tr><tr><td>Same class (mammals, fungi, metals, etc.)<\/td><td>+2<\/td><\/tr><tr><td>Same size<\/td><td>+2<\/td><\/tr><tr><td>Related (twig is to tree, wolf fur is to wolf, etc.)<\/td><td>+2<\/td><\/tr><tr><td>Same or lower Intelligence<\/td><td>+2<\/td><\/tr><tfoot><tr><td colspan=\"2\">*Add all that apply. Look up the total on the next table.<\/td><\/tr><\/tfoot><\/table><br><table class=\"inner\"><tr><td><b>Duration Factor<\/b><\/td><td><b>Duration<\/b><\/td><td><b>Example<\/b><\/td><\/tr><tr><td>0<\/td><td>20 minutes<\/td><td>Pebble to human<\/td><\/tr><tr><td>2<\/td><td>1 hour<\/td><td>Marionette to human<\/td><\/tr><tr><td>4<\/td><td>3 hours<\/td><td>Human to marionette<\/td><\/tr><tr><td>5<\/td><td>12 hours<\/td><td>Lizard to manticore<\/td><\/tr><tr><td>6<\/td><td>2 days<\/td><td>Sheep to wool coat<\/td><\/tr><tr><td>7<\/td><td>1 week<\/td><td>Shrew to manticore<\/td><\/tr><tr><td>9+<\/td><td>Permanent<\/td><td>Manticore to shrew<\/td><\/tr><\/table><br>If the target of the spell does not have physical ability scores (Strength, Dexterity, or Constitution), this spell grants a base score of 10 to each missing ability score. If the target of the spell does not have mental ability scores (Intelligence, Wisdom, or Charisma), this spell grants a score of 5 to such scores. Damage taken by the new form can result in the injury or death of the polymorphed creature. In general, damage occurs when the new form is changed through physical force. A nonmagical object cannot be made into a magic item with this spell. Magic items aren't affected by this spell.<br><br>This spell cannot create material of great intrinsic value, such as copper, silver, gems, silk, gold, platinum, mithral, or adamantine. It also cannot reproduce the special properties of cold iron in order to overcome the damage reduction of certain creatures.<br><br>This spell can also be used to duplicate the effects of <i>baleful polymorph<\/i>, <i>greater polymorph<\/i>, <i>flesh to stone<\/i>, <i>stone to flesh<\/i>, <i>transmute mud to rock<\/i>, <i>transmute metal to wood<\/i>, or <i>transmute rock to mud<\/i>.",
+    "name_zh": "变形万物",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料/法器 (水银，树胶和烟尘)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一个生物, 或者一个体积至多为每等级100立方尺的非魔法物体",
+    "duration_zh": "见文本",
+    "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell?spell=polymorph, greater\">高等变形术 (polymorph, greater)<\/a>’一般，不过它能够完全改变一个物体或生物。你能够使用该法术将各种物体或生物变为新的形态——该法术并不会限定你只能将一个活物变为另一个活物的形态。该法术的持续时间取决于这种变化对于原始形态来说程度有多大。法术的持续时间使用后述方式来判定。<div class=\"inner\"><table><tr><th>被变化的受术者…<\/th><th>持续时间因子增加量*<\/th><\/tr><tr><td>同一大类 (动物, 植物, 矿物)<\/td><td>+5<\/td><\/tr><tr><td>同一小类 (哺乳动物, 菌类, 金属等等)<\/td><td>+2<\/td><\/tr><tr><td>相同体型<\/td><td>+2<\/td><\/tr><tr><td>有关联 (树枝与树木, 狼皮与狼等等)<\/td><td>+2<\/td><\/tr><tr><td>相同或更低的智力属性<\/td><td>+2<\/td><\/tr><tr><td colspan=\"2\">* 将所有可用的因素相加，按照其总值在下表中查询。<\/td><\/tr><\/table><\/div><\/p><p><div class=\"inner\"><table><tr><th>持续时间因子<\/th><th>持续时间<\/th><th>范例<\/th><\/tr><tr><td>0<\/td><td>20分钟<\/td><td>石头变成人<\/td><\/tr><tr><td>2<\/td><td>1小时<\/td><td>木偶变成人<\/td><\/tr><tr><td>4<\/td><td>3小时<\/td><td>人变成木偶<\/td><\/tr><tr><td>5<\/td><td>12小时<\/td><td>蜥蜴 (Lizard) 变成蝎狮 (Manticore)<\/td><\/tr><tr><td>6<\/td><td>2天<\/td><td>羊变成羊毛外套<\/td><\/tr><tr><td>7<\/td><td>1周<\/td><td>鼩鼱 (Shrew) 变成蝎狮<\/td><\/tr><tr><td>9+<\/td><td>永久<\/td><td>蝎狮变成鼩鼱<\/td><\/tr><\/table><\/div><\/p><p>若法术的目标不具有肉体属性 (physical ability scores，即力量、敏捷或体质)，那么每项缺失的属性会由于该法术而变为10点。若法术的目标不具有心智属性 (mental ability scores，即智力、感知或魅力)，那么该法术会将这些属性变为5点。在新形态下受到的伤害会导致被变形生物受伤或死亡。一般情况下，在新形态下受到的伤害会因为物理形态的变化而改变。一个非魔法物体无法通过这个法术变成魔法物品。魔法物品不会被该法术影响。<\/p><p>该法术无法制造贵重物质，如铜、银、宝石、丝绸、黄金、白金、秘银、精金等。它也不能复制出寒铁的特殊能力来突破某些生物的伤害减免。<\/p><p>该法术还可以用来复制以下法术的效果：‘<a href=\"spell?spell=baleful polymorph\">恶意变形术 (baleful polymorph)<\/a>’、‘<a href=\"spell?spell=Polymorph, Greater\">高等变形术 (Polymorph, Greater)<\/a>’、‘<a href=\"spell?spell=flesh to stone\">石化术 (flesh to stone)<\/a>’、‘<a href=\"spell?spell=Stone to Flesh\">解除石化 (Stone to Flesh)<\/a>’、‘<a href=\"spell?spell=transmute mud to rock\">化泥为石 (transmute mud to rock)<\/a>’、‘<a href=\"spell?spell=transmute metal to wood\">化铁为木 (transmute metal to wood)<\/a>’、‘<a href=\"spell?spell=transmute rock to mud\">化石为泥 (transmute rock to mud)<\/a>’。<\/p>"
+}

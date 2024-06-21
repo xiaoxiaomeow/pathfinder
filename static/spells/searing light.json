@@ -1,0 +1,33 @@
+{
+    "key": "searing light",
+    "name": "Searing Light",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Searing%20Light",
+    "source": ["PRPG Core Rulebook pg. 338"],
+    "school": "evocation",
+    "levels":     {
+        "cleric": 3,
+        "inquisitor": 3,
+        "oracle": 3,
+        "warpriest": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "ray",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "Focusing divine power like a ray of the sun, you project a blast of light from your open palm. You must succeed on a ranged touch attack to strike your target. A creature struck by this ray of light takes 1d8 points of damage per two caster levels (maximum 5d8). An undead creature takes 1d6 points of damage per caster level (maximum 10d6), and an undead creature particularly vulnerable to bright light takes 1d8 points of damage per caster level (maximum 10d8). A construct or inanimate object takes only 1d6 points of damage per two caster levels (maximum 5d6).",
+    "mythicSource": ["Mythic Adventures pg. 107"],
+    "mythicText": "The spell’s damage increases to 1d6 per caster level (maximum 10d6). The damage dealt to an undead creature increases to 1d8 points of damage per caster level (maximum 10d8), or 2d6 per caster level (maximum 20d6) if the undead is vulnerable to bright light. The damage dealt to constructs increases to 1d8 points of damage per 2 caster levels (maximum 5d8). If a creature struck has light sensitivity or light blindness, it takes the penalty from that weakness for 1 round after being struck by the light. ",
+    "name_zh": "灼热光辉",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "effect_zh": "射线",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>将神力聚焦凝聚成如同太阳的光束，你从你打开的手掌中放射出一道光的冲击。要击中目标，你必须进行一次成功的远程接触攻击。被这道光束击中的生物要受到每两个CL 1d8点伤害 (最多5d8)。不死生物受到每CL 1d6点伤害 (最多10d6)，如果是易受到强光伤害的不死生物则受到每CL 1d8的伤害 (最多10d8)。构装体或者非活化物品仅受到每两个CL1d6的伤害 (最多5d6)。<\/p>",
+    "mythicText_zh": "<p>法术造成的伤害增加至每施法者等级1d6点（最高10d6）。对不死生物造成的伤害增加至每施法者等级1d8点（最高10d8），若不死生物具有强光弱点（vulnerable to bright light）的话，伤害会增加至每施法者等级2d6点（最高20d6）。对构装生物造成的伤害增加至每两个施法者等级1d8点（最高5d8）。若被该法术攻击的生物具有强光敏感（light sensitivity）或者强光失明（light blindness）的话，则会在受到光线攻击后的1轮内受到这些弱点造成的惩罚。<\/p>"
+}

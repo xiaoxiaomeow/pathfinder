@@ -1,0 +1,19 @@
+{
+    "key": "demonic momentum",
+    "name": "Demonic Momentum",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Demonic%20Momentum",
+    "descriptors": ["Combat"],
+    "source": ["Planar Adventures pg. 27"],
+    "text": "You slam into foes with devastating force, leaving them vulnerable to your vicious strikes.",
+    "prerequisites": "Demonic Style, Improved Bull Rush, Power Attack, base attack bonus +5.",
+    "benefit": "While using Demonic Style, when you successfully bull rush an opponent as part of a charge, you gain a +2 bonus on melee weapon damage rolls against that opponent for every 5 feet it was moved by your bull rush. This bonus lasts until the end of your next turn, and it stacks with the damage bonus granted by Demonic Style.",
+    "prerequisiteKeys":     [
+        "demonic style",
+        "improved bull rush",
+        "power attack"
+    ],
+    "name_zh": "恶魔冲击",
+    "text_zh": "你用毁灭般的力量猛击敌人，让他们更易受到你恶毒的攻击。",
+    "prerequisites_zh": "恶魔之型，精通冲撞，猛力攻击，BAB+5。",
+    "benefit_zh": "你使用恶魔之型时，当你在一次冲锋中成功的冲撞了一个对手时，被你冲撞的对手每移动5尺，你在近战武器的伤害检定上获得+2加值。这个加值持续到你的下一个回合结束，并与恶魔之型的伤害加值叠加。"
+}

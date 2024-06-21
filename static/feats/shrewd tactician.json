@@ -1,0 +1,21 @@
+{
+    "key": "shrewd tactician",
+    "name": "Shrewd Tactician",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shrewd%20Tactician",
+    "descriptors": ["Combat"],
+    "source": ["Inner Sea World Guide pg. 289"],
+    "text": "Your dealings with pirates, thieves, and assassins have taught you to be exceedingly careful.",
+    "prerequisites": "Alertness, Combat Reflexes.",
+    "benefit": "Opponents do not gain a +2 bonus on attack rolls for flanking you, although they can still sneak attack you. You also gain a +3 bonus on Sense Motive checks made to resist a foe’s Bluff checks to feint in combat.",
+    "staminaSource": "Weapon Master's Handbook pg. 25",
+    "staminaText": "When an opponent attempts a feint against you, you can spend up to 5 stamina points to increase the DC of the skill check made to feint by 1 per point of stamina spent.",
+    "prerequisiteKeys":     [
+        "alertness",
+        "combat reflexes"
+    ],
+    "name_zh": "狡诈谋士",
+    "text_zh": "你与海盗、窃贼和刺客相处的经验告诉你，万事皆需小心。",
+    "prerequisites_zh": "警觉，战斗反射。",
+    "benefit_zh": "尽管你仍旧会由于夹击而被偷袭，但是敌人对你夹击时攻击检定不再获得+2加值。同时你在对抗敌人进行虚招而使用的唬骗检定时，察言观色检定获得+3加值。",
+    "staminaText_zh": "当一个敌人对你尝试虚招时，你可以消耗至多5点耐力来提升用于虚招的技能检定DC，每消耗1点耐力提升1点DC。"
+}

@@ -1,0 +1,21 @@
+{
+    "key": "domino crash",
+    "name": "Domino Crash",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Domino%20Crash",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 24"],
+    "text": "You knock your opponents into each other, using one enemy to shove aside another.",
+    "prerequisites": "Int 13, Combat Expertise, Improved Reposition, Whipcrack, base attack bonus +6 or monk level 3rd.",
+    "benefit": "When you successfully reposition an opponent, if you attempt to reposition it into a square already occupied by another creature, you can attempt a combat maneuver check as an immediate action to reposition that creature. You take a –4 penalty on this check. If you are successful, the second creature is pushed 5 feet in the direction of your original target’s movement. You can move the secondary target an additional 5 feet for every 5 by which you exceed the secondary target’s CMD. The secondary target does not provoke attacks of opportunity because of this movement unless you have the Greater Reposition feat. If you fail your combat maneuver check, the movement of your original target ends in front of the secondary target.",
+    "normal": "You can’t reposition a creature into a square that is occupied by a solid object or obstacle.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved reposition",
+        "whipcrack"
+    ],
+    "name_zh": "多米诺冲撞",
+    "text_zh": "你把敌人撞到一起，让他们互相碰撞。",
+    "prerequisites_zh": "智力13，寓守于攻，精通移位，甩鞭，BAB+6或武僧3级。",
+    "benefit_zh": "当你成功对敌人进行移位，如果你尝试将其移入已经有另一个生物占据的方格，你可以直觉动作立刻尝试一次移位检定移动那个生物，你在这一检定上受到-4减值。如果成功，第二个生物会沿着你原本生物的移动路线移动5尺，你检定结果每超过该生物的CMD5点将使其多移动5尺。第二目标的移动不会引起借机攻击，除非你拥有高等移位专长。如果你的战技检定失败，你的首要目标会在第二目标前终止移动。",
+    "normal_zh": "你不能将一个生物移位到另一个生物或者物体占据的方格。"
+}

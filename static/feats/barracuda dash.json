@@ -1,0 +1,19 @@
+{
+    "key": "barracuda dash",
+    "name": "Barracuda Dash",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Barracuda%20Dash",
+    "descriptors": ["Combat"],
+    "source": ["Pathfinder #124: City in the Deep pg. 81"],
+    "text": "You use powerful, deadly bursts of speed to charge and attack an additional foe.",
+    "prerequisites": "Wis 13, Barracuda Slam, Barracuda Style, Improved Unarmed Strike, Acrobatics 7 ranks, Swim 7 ranks.",
+    "benefit": "You gain a swim speed equal to your base speed. When you attack on a charge in water or on land and the attack hits, you can immediately make a second charge attack against a second opponent. All the normal requirements for making a charge, such as moving at least 10 feet and moving in a straight line, apply to this second attack. The total distance of the two charge attacks cannot exceed the normal maximum distance for a charge (usually double your speed).<br><br> The movement, including leaving the first target’s threatened area, provokes attacks of opportunity as normally. You cannot use pounce or other abilities that grant extra attacks on your turn if you use Barracuda Dash to make a second attack.",
+    "prerequisiteKeys":     [
+        "barracuda slam",
+        "barracuda style",
+        "improved unarmed strike"
+    ],
+    "name_zh": "梭鱼强袭",
+    "text_zh": "你使用强大而致命的爆发速度冲锋攻击一个额外的敌人。",
+    "prerequisites_zh": "感知 13，梭鱼流，梭鱼猛击，精通徒手击打，特技7级，游泳7级。",
+    "benefit_zh": "你获得相当于基本移动速度的游泳速度。当你在水中或陆地上完成一次冲锋攻击时，你可以立即对第二个目标进行第二次冲锋攻击。发起冲锋的所有通常要求，比如至少移动10尺，直线移动，都适用于第二次冲锋。两次冲锋攻击的总距离不能超过一次冲锋的通常的最大距离(一般是你速度的两倍)。<\/p><p>这次行动，包括离开首个目标的威胁范围，如常引起借机攻击。如果你使用梭鱼强袭进行第二次攻击，你不能使用猛扑pounce或其他在你的回合中给予额外攻击的能力。"
+}

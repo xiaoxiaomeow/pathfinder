@@ -1,0 +1,18 @@
+{
+    "key": "deadly grappler",
+    "name": "Deadly Grappler",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deadly%20Grappler",
+    "descriptors": ["Combat"],
+    "source": ["Melee Tactics Toolbox pg. 14"],
+    "text": "While you’re grappled, you become even more dangerous.",
+    "prerequisites": "Dex 13, Improved Grapple, Improved Unarmed Strike.",
+    "benefit": "You have learned to leverage a grappling creature’s weight against it. While you’re grappled, attacks you make against the grappler using armor spikes, a light or one-handed weapon, a natural weapon, or an unarmed strike deal damage as if the strike or weapon were one size category larger than it actually is.",
+    "prerequisiteKeys":     [
+        "improved grapple",
+        "improved unarmed strike"
+    ],
+    "name_zh": "危险擒抱人",
+    "text_zh": "你在擒抱时，会变得更加凶险。",
+    "prerequisites_zh": "敏捷13，精通擒抱，精通徒手打击。",
+    "benefit_zh": "你可以运用擒抱者的重量来对付他。当你处于擒抱时（无论是主动还是被动），你对擒抱者进行的甲刺攻击、轻型或单手武器攻击、天武攻击、徒手攻击造成的伤害骰视为增大1级。"
+}

@@ -1,0 +1,30 @@
+{
+    "key": "mud buddy",
+    "name": "Mud Buddy",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mud%20Buddy",
+    "source": ["Monster Codex pg. 105"],
+    "school": "conjuration",
+    "subSchools": ["creation"],
+    "levels":     {
+        "arcanist": 2,
+        "druid": 2,
+        "hunter": 2,
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (1 pint of water)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "5 cubic feet of earth or mud",
+    "duration": "1 hour/level (D) (see text)",
+    "text": "You create a Small minion out of mud, and it obeys your commands. The mud buddy has AC 12, 10 hit points, Strength 5, and a speed of 30 feet. It can perform any tasks an unseen servant can, plus any similar tasks its Strength allows (it’s able to lift up to 50 pounds), but instead of walking on water, it gains a swim speed of 30 feet.<br><br> You can command a <i>mud buddy<\/i> to move up to 5 feet and trip an opponent (CMB = your caster level + your spellcasting ability score modifier). After the trip attempt is resolved, the spell ends.<br><br> When the spell ends, the <i>mud buddy<\/i> reverts to a patch of wet earth.",
+    "name_zh": "泥塑伙伴",
+    "race_zh": "地精",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（1品脱水）",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "5尺见方的泥巴或土",
+    "duration_zh": "1小时/等级 (可消解)",
+    "text_zh": "<p>你创造出一个小型的泥巴人偶，它会跟随你的指令行动。泥塑伙伴拥有AC12，10点生命值，力量5和30尺移动速度，它可以进行任何方式隐形仆役能进行的工作，以及任何它的力量值可以承担的任务（最多举起50磅物品）。在水中活动时，泥塑伙伴拥有30尺游泳速度。<\/p><p>你可以命令泥塑伙伴尝试移动5尺并摔绊敌人（CMB=你的施法者等级+你的施法依赖属性）在进行摔绊战技以后，本法术消解。<\/p><p>当法术效果结束时，泥塑伙伴会返回一堆湿泥巴的状态。<\/p>"
+}

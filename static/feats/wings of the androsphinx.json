@@ -1,0 +1,18 @@
+{
+    "key": "wings of the androsphinx",
+    "name": "Wings of the Androsphinx",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wings%20of%20the%20Androsphinx",
+    "descriptors": ["Combat"],
+    "source": ["People of the Sands pg. 13"],
+    "text": "You can reshape the kinetic energy of foes’ charges.",
+    "prerequisites": "Int 13, Combat Expertise, Improved Reposition, base attack bonus +1 or monk level 1st.",
+    "benefit": "You gain a +2 bonus to AC against charge attacks. If a creature charges you and fails its attack roll, as an immediate action you can attempt a reposition combat maneuver (<i>Pathfinder RPG Advanced Player’s Guide <\/i>322) to reposition that foe. If you use a readied action to attack a creature charging you, you can roll to attack and then attempt to reposition that creature as a free action before it resolves its charge attack.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved reposition"
+    ],
+    "name_zh": "人面狮身之翼",
+    "text_zh": "你学会如何将敌人冲锋的动能重新导向。",
+    "prerequisites_zh": "智力13，寓守于攻，精通移位，BAB+1或武僧等级1。",
+    "benefit_zh": "你针对冲锋攻击在AC上获得+2加值。当某生物冲锋你但攻击失误，你可以直觉动作尝试1次移位战技来移位该敌人。若你用准备动作来攻击冲锋你的生物，你可在进行攻击后以自由动作在敌人结算他的冲锋攻击以前尝试移位之。"
+}

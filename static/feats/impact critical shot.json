@@ -1,0 +1,23 @@
+{
+    "key": "impact critical shot",
+    "name": "Impact Critical Shot",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Impact%20Critical%20Shot",
+    "descriptors":     [
+        "Combat",
+        "Critical"
+    ],
+    "source": ["Ultimate Combat pg. 104"],
+    "text": "With a series of ranged attacks, you bring your foes to their knees or force them to move.",
+    "prerequisites": "Dex 13, Point-Blank Shot, base attack bonus +9.",
+    "benefit": "Whenever you score a critical hit with a ranged attack, in addition to the normal damage your attack deals, if your confirmation roll exceeds your opponent’s CMD, you can push your opponent back as if from the bull rush combat maneuver or knock that target prone as if from a trip combat maneuver. If you choose to bull rush, you cannot move with the target. Your maneuver does not provoke an attack of opportunity.",
+    "normal": "You must perform a bull rush combat maneuver to bull rush an opponent, and you must perform a trip combat maneuver to trip an opponent.",
+    "staminaSource": "Pathfinder Unchained pg. 122",
+    "staminaText": "When you confirm a critical hit and use this feat to either bull rush or trip the target, you can spend 5 stamina points to perform the other combat maneuver as well. Use the confirmation roll for the combat maneuver check of both maneuvers.",
+    "prerequisiteKeys": ["point-blank shot"],
+    "name_zh": "冲撞射击",
+    "text_zh": "随着一系列远程攻击，你命中敌人的膝盖，或者将他们击退。",
+    "prerequisites_zh": "敏捷13，近距射击，BAB+9。",
+    "benefit_zh": "每当你用远程武器造成了一次重击，除了造成正常伤害，你还可以掷一次战技检定对抗目标的CMD。如果成功，你可以像使用冲撞战技一样将他击退，或是像使用绊摔一样将他们击倒。如果你选择冲撞，你不会和目标一起移动。你这次战技动作不会触发借机攻击。",
+    "normal_zh": "如果要冲撞对手，你必须单独进行一次冲撞检定，绊摔亦然。",
+    "staminaText_zh": "当你确认重击并且用这个专长对目标进行了冲撞或者绊摔时，你可以消耗5点耐力来同时进行另外一种战技检定。使用重击确认骰来同时用于两个战技检定。"
+}

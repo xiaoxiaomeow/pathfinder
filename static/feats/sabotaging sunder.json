@@ -1,0 +1,20 @@
+{
+    "key": "sabotaging sunder",
+    "name": "Sabotaging Sunder",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sabotaging%20Sunder",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Intrigue pg. 90"],
+    "text": "Your can quickly sabotage a foe’s worn or carried equipment.",
+    "prerequisites": "Str 13, Improved Sunder, Power Attack, Disable Device 7 ranks.",
+    "benefit": "As a standard action, you can sabotage an item worn by a foe with a special sunder combat maneuver. You use this maneuver in melee to sabotage an item that is neither held nor hidden in a bag, pack, or other container. You must have at least one hand free to perform this combat maneuver, and doing so provokes an attack of opportunity from the creature against whom you are performing the maneuver, even though you have the Improved Sunder feat.<br><br> When attempting the combat maneuver check, use your ranks in Disable Device in place of your base attack bonus and your Dexterity modifier in place of your Strength modifier. Any bonuses on combat maneuver checks specifically to sunder (such as the bonus granted by Improved Sunder) also apply to this maneuver, and any bonuses your target gains to CMD against sundering attempts also protect her from this maneuver. If you succeed at the check, instead of dealing damage, you sabotage the chosen item, causing it to gain the broken condition. If the item was already broken, you instead destroy the item or cause it to fall off. Items immune to sunder are also immune to this special combat maneuver, and this still can’t destroy or remove an item such as an artifact that can normally be destroyed or removed only by specific means.",
+    "normal": "A successful sunder attempt deals weapon damage to the sundered item.",
+    "prerequisiteKeys":     [
+        "improved sunder",
+        "power attack"
+    ],
+    "name_zh": "诡技破武",
+    "text_zh": "你能够快速破坏敌人穿戴或携带的装备。",
+    "prerequisites_zh": "力量 13，精通破武，猛力攻击，解除装置7级。",
+    "benefit_zh": "你能够以标准动作执行1次特殊的破武战技（sunder combat maneuver），来破坏1名敌人穿戴的1件物品。你会在近战中使用该项技巧破坏1件既没有被持握（hold）也没有被藏匿在袋子、背包、或者其他容器中的物品。你必须至少有1只手空着才能执行该项战技，而且这么做会引起你所执行战技的目标的借机攻击，即便你具有精通破武（Improved Sunder）专长也是如此。<\/p><p>当你尝试该次战技检定时，使用你在解除装置中投入的技能点数替代你的基本攻击加值，并用你的敏捷调整值替代力量调整值。任何针对破武战技检定的加值（比如精通破武专长提供的加值）仍旧适用于该次战技，而你的目标在CMD上获得的任何用于对抗破武尝试的加值，依旧也能够在此次战技中保护它。若你的检定成功，取代原本的造成伤害，你会破坏目标物品，让它获得破损（broken）状态。若该物品已经处于破损状态，那么你会摧毁（destroy）该物品，或者导致它的脱落（fall off）。免疫破武的物品依旧免疫此种特殊战技，若一件物品（比如神器）在正常情况下仅能用特殊方式摧毁（destroy）或移除（remove），该专长也无法将其摧毁或移除。",
+    "normal_zh": "成功的破武（Sunder）尝试会对目标物品造成武器伤害。"
+}

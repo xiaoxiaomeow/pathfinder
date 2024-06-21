@@ -1,0 +1,19 @@
+{
+    "key": "directed disarm",
+    "name": "Directed Disarm",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Directed%20Disarm",
+    "descriptors": ["Combat"],
+    "source": ["Ranged Tactics Toolbox pg. 6"],
+    "text": "A weapon you pull from one enemy’s grip flies toward another enemy.",
+    "prerequisites": "Int 13, Combat Expertise, Greater Disarm, Improved Disarm, base attack bonus +11.",
+    "benefit": "Whenever you successfully use a combat maneuver to disarm an opponent, the disarmed weapon lands up to 15 feet away from its wielder, in the direction you choose. Alternatively, you can make a ranged attack as an immediate action with the disarmed weapon against another opponent, as long as the disarmed weapon is a light or one-handed weapon. If the weapon is not a thrown weapon, you take a –4 penalty on the attack roll. You take a –4 penalty on your attack roll if you do not have a free hand.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "greater disarm",
+        "improved disarm"
+    ],
+    "name_zh": "定向卸武",
+    "text_zh": "被你卸除掉的武器将在你的引导下砸向另一个敌人。",
+    "prerequisites_zh": "智力13，寓守于攻，高等卸武，精通卸武，BAB+11。",
+    "benefit_zh": "当你成功对目标进行了卸武战技后，被卸除的武器将掉落在距离目标15尺远的位置，具体方向由你选择。另外，你可以在卸武成功时以直觉动作使用被卸除的武器对另一个单位发动一次远程攻击，并将被卸除的武器视为轻型武器或单手武器。若该武器没有投掷属性或不是投掷武器，该次攻击受到-4罚值。若你没有手空闲，则该次攻击还要再受-4罚值。"
+}

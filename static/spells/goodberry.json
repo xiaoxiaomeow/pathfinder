@@ -1,0 +1,31 @@
+{
+    "key": "goodberry",
+    "name": "Goodberry",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Goodberry",
+    "source": ["PRPG Core Rulebook pg. 291"],
+    "school": "transmutation",
+    "levels":     {
+        "druid": 1,
+        "hunter": 1,
+        "shaman": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "duration": "1 day/level",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "Casting <i>goodberry<\/i> makes 2d4 freshly picked berries magical. You (as well as any other druid of 3rd or higher level) can immediately discern which berries are affected. Each transmuted berry provides nourishment as if it were a normal meal for a Medium creature. The berry also cures 1 point of damage when eaten, subject to a maximum of 8 points of such curing in any 24-hour period.",
+    "mythicSource": ["Mythic Adventures pg. 96"],
+    "mythicText": "Each berry provides a full day’s nourishment and counts as 1 hour of complete rest for the purpose of removing exhaustion, fatigue, or nonlethal damage. <br><br><b>Augmented (2nd)<\/b>: You can cast the spell to affect only one berry, imbuing into that berry any harmless druid spell you have prepared. The spell remains stored in the berry for the duration of the <i>goodberry<\/i> spell or until the berry is consumed. A creature that eats the berry gains the benefits of that spell as if you had cast it upon her. The maximum level of the imbued spell is equal to half your tier, and you must expend one use of mythic power for each spell level of the imbued spell (in addition to the one use needed to cast <i>mythic goodberry<\/i>). Similar to <i>imbue with spell ability<\/i>, you can’t prepare a spell in that spell’s slot until the berry is consumed or the <i>mythic goodberry<\/i> spell ends. ",
+    "name_zh": "神莓",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "接触",
+    "target_zh": "接触到的2d4个新鲜浆果",
+    "duration_zh": "1天/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>施放神莓可以让2d4颗摘下来的新鲜浆果充满魔力。你 (以及任何3级或更高等级的德鲁伊) 能立刻识别出哪些是受影响的。每颗被转变的浆果可以提供一个中型生物正常一餐的营养。在吃下浆果的同时，还能治疗1点伤害，在任何24小时内只能以这种方式治疗至多8点伤害。<\/p>",
+    "mythicText_zh": "<p>每个浆果都会提供一整天的营养，除此之外还会算作充分休息（complete rest）了1个小时，这些休息时间是用于消除力竭（exhaustion）、疲乏（fatigue）或非致命伤害（nonlethal damage）的。<\/p><p><b>强化（2阶）<\/b>：你能够仅对1个浆果施放该法术，以此将任何你已经准备的无害德鲁伊法术灌输到这个浆果中。该法术会在神莓的持续时间内储存在浆果内，或者直至浆果被吃掉为止。吃下这个浆果的生物会获得该法术的好处，就如同你把这个法术施放给她一般。被灌输的法术的最高等级等同于你的阶层的一半，而且你必须为这个法术的每个法术等级花费1次神话之力（这些不包含在施放神话神莓所需要的1次神话之力之中）。与法术灌输（imbue with spell ability）类似，在神话神莓法术的持续时间结束、或者神莓被吃掉之前，你无法使用被灌输的法术位准备法术。<\/p>"
+}

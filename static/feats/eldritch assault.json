@@ -1,0 +1,17 @@
+{
+    "key": "eldritch assault",
+    "name": "Eldritch Assault",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Eldritch%20Assault",
+    "source": ["Magic Tactics Toolbox pg. 5"],
+    "text": "You make deadly strikes when magic cloaks your location.",
+    "prerequisites": "Blind-Fight, Improved Initiative.",
+    "benefit": "Whenever you attack from total concealment provided by a magical source (such as the displacement or invisibility spells), the first attack roll you make each round that is a critical threat is automatically confirmed as a critical hit.",
+    "prerequisiteKeys":     [
+        "blind-fight",
+        "improved initiative"
+    ],
+    "name_zh": "奥法强袭",
+    "text_zh": "当魔法掩盖你的位置时，你能造成致命一击。",
+    "prerequisites_zh": "盲斗，精通先攻。",
+    "benefit_zh": "每当你在魔法来源的全隐蔽效果中（例如移位术或者隐形术）攻击，你每轮第一个攻击骰若是重击威胁则自动确认重击。"
+}

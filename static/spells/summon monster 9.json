@@ -1,0 +1,33 @@
+{
+    "key": "summon monster 9",
+    "name": "Summon Monster 9",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Monster%209",
+    "source": ["PRPG Core Rulebook pg. 352"],
+    "school": "conjuration",
+    "subSchools": ["summoning"],
+    "descriptors": ["see text"],
+    "levels":     {
+        "arcanist": 9,
+        "cleric": 9,
+        "oracle": 9,
+        "psychic": 9,
+        "sorcerer": 9,
+        "witch": 9,
+        "wizard": 9
+    },
+    "castingTime": "1 round",
+    "components": "V, S, F/DF (a tiny bag and a small candle)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one summoned creature",
+    "duration": "1 round/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>summon monster I<\/i>, except that you can summon one creature from the 9th-level list, 1d3 creatures of the same kind from the 8th-level list, or 1d4+1 creatures of the same kind from a lower-level list.",
+    "name_zh": "召唤怪物 IX",
+    "castingTime_zh": "1轮",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "否",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell?spell=Summon Monster I\">召唤怪物I (Summon Monster I)<\/a>’，不过你能够召唤一个来自9环列表的生物、1d3个来自8环列表的同类生物、或者1d4+1个来自更低等环列表且同一种类的生物。<\/p>"
+}

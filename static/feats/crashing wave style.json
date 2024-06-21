@@ -1,0 +1,22 @@
+{
+    "key": "crashing wave style",
+    "name": "Crashing Wave Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Crashing%20Wave%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Ultimate Wilderness pg. 109"],
+    "text": "You relentlessly push your enemies around, as the sea moves those within and upon it against their will.",
+    "prerequisites": "Wis 13, Improved Drag, Improved Reposition, Improved Unarmed Strike.",
+    "benefit": "When you successfully drag or reposition an opponent while using this style, at any point during the dragging or repositioning of the opponent, you can move 5 feet as an immediate action, including moving into a square previously occupied by the opponent, even if you have already taken a move action this round. This movement does not provoke attacks of opportunity.",
+    "prerequisiteKeys":     [
+        "improved drag",
+        "improved reposition",
+        "improved unarmed strike"
+    ],
+    "name_zh": "碎浪流",
+    "text_zh": "你无情地把你的敌人推开，如同他们被大海卷走。",
+    "prerequisites_zh": "感知13，精通拖拽，精通移位，精通徒手打击。",
+    "benefit_zh": "当你在使用该流派时成功拖拽或移位一名对手，在拖拽或移位的任何时机，即使你该轮已经移动过，你可以用一个直觉动作移动5尺，包括进入被对手占据的区域。这个移动不会引发借机攻击。"
+}

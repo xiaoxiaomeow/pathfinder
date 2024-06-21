@@ -1,0 +1,20 @@
+{
+    "key": "twin fang lunge",
+    "name": "Twin Fang Lunge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Twin%20Fang%20Lunge",
+    "descriptors": ["Combat"],
+    "source": ["Villain Codex pg. 105"],
+    "text": "You strike with the force of a serpent’s lunge.",
+    "prerequisites": "Dex 15; Quick Draw; Twin Fang Strike; Twin Fang Style; Two-Weapon Fighting; Acrobatics 8 ranks; base attack bonus +8 or monk level 8th.",
+    "benefit": "While using Twin Fang Style, you can spend a full-round action to move up to twice your speed and then use Twin Fang Strike as if you were taking the attack action.",
+    "prerequisiteKeys":     [
+        "quick draw",
+        "twin fang strike",
+        "twin fang style",
+        "two-weapon fighting"
+    ],
+    "name_zh": "贰牙突",
+    "text_zh": "你以蛇突之力发动攻击。",
+    "prerequisites_zh": "敏捷15，快速备战，贰牙击，贰牙流，双武器战斗，特技动作8级，BAB+8或8级武僧等级。",
+    "benefit_zh": "使用贰牙流时，你可以用整轮动作移动至多等同你速度两倍的距离，接着如同你进行了攻击动作般使用贰牙击。"
+}

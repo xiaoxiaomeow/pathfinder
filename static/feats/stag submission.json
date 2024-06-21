@@ -1,0 +1,23 @@
+{
+    "key": "stag submission",
+    "name": "Stag Submission",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stag%20Submission",
+    "descriptors": ["Combat"],
+    "source": ["Heroes of the Wild pg. 23"],
+    "text": "You can quickly subdue an opponent you’ve charged using a special submission hold.",
+    "prerequisites": "Charging Stag Style, Dodge, Improved Unarmed Strike, Mobility, Stag Horns.",
+    "benefit": "When you are in Charging Stag Style and succeed at a combat maneuver check to pin a foe, you can choose to also knock the foe prone or to deal your unarmed attack damage to the foe.",
+    "normal": "After successfully maintaining a grapple on a target, you can choose to move, damage, or pin the target.",
+    "prerequisiteKeys":     [
+        "charging stag style",
+        "dodge",
+        "improved unarmed strike",
+        "mobility",
+        "stag horns"
+    ],
+    "name_zh": "鹿绞击",
+    "text_zh": "你冲锋时使用一种特殊的关节技来快速制服对手。",
+    "prerequisites_zh": "鹿冲流，闪避，精通徒手打击，灵活移动，鹿角击。",
+    "benefit_zh": "当你使用鹿冲流并成功通过战技检定压制敌人时，你可以选择同时将敌人击倒或者对敌人造成徒手攻击伤害。",
+    "normal_zh": "在成功维持住对目标的擒抱后，你可以选择移动，伤害，或者压制目标。"
+}

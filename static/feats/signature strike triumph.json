@@ -1,0 +1,20 @@
+{
+    "key": "signature strike triumph",
+    "name": "Signature Strike Triumph",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Signature%20Strike%20Triumph",
+    "descriptors": ["Combat"],
+    "source": ["People of the Wastes pg. 11"],
+    "text": "With an effortless flourish, you strike terror into your foes and inspire your allies.",
+    "prerequisites": "Precise Shot, Signature Strike Style, Signature Strike Taunt, Weapon Focus, base attack bonus +11, Intimidate 11 ranks.",
+    "benefit": "When you use Signature Strike Style to give a creature the shaken condition, increase the duration to 1d4+1 rounds. When you confirm a critical hit against a creature marked by your Signature Strike Style, one ally within 60 feet who can see you can attempt a new saving throw against one ongoing effect with the emotion, fear, or mind-affecting descriptor caused by the marked creature. If the ally succeeds at this saving throw and the effect’s remaining duration is 24 hours or less, the effect ends; if the remaining duration is more than 24 hours, the effect is suppressed for 1 minute.",
+    "prerequisiteKeys":     [
+        "precise shot",
+        "signature strike style",
+        "signature strike taunt",
+        "weapon focus"
+    ],
+    "name_zh": "印黥扬威",
+    "text_zh": "你毫不费力地发起猛攻，在鼓舞着盟友的同时把恐惧深深烙在敌人心底。",
+    "prerequisites_zh": "精确射击，印黥流，印黥以辱，武器专攻，bab+11，威吓11级。",
+    "benefit_zh": "当你以印黥流让某一生物陷入颤栗状态时，其颤栗持续时间延长至1d4+1轮。当你对以印黥流留下标记的生物确认重击时，60尺内能看到你的某一盟友能尝试进行一次新的豁免检定以移除某个由被标记生物造成的带有情绪、恐惧或影响心灵描述符且正在生效的效果。若盟友成功通过该检定，且对应效果的剩余持续时间不大于24小时，则该效果终止。若其剩余持续时间大于24小时，则该效果被压制1分钟。"
+}

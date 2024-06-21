@@ -1,0 +1,28 @@
+{
+    "key": "spirited charge",
+    "name": "Spirited Charge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spirited%20Charge",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 134"],
+    "text": "Your mounted charge attacks deal a tremendous amount of damage.",
+    "prerequisites": "Ride 1 rank, Mounted Combat, Ride-By Attack.",
+    "benefit": "When mounted and using the charge action, you deal double damage with a melee weapon (or triple damage with a lance).",
+    "staminaSource": "Pathfinder Unchained pg. 132",
+    "staminaText": "When making a mounted charge, you can spend a number of stamina points up to your Strength bonus. If your charge attack hits, you deal an amount of extra damage equal to the number of stamina points you spent. This additional damage is doubled by this feat (or tripled if you’re using a lance).",
+    "mythicSource": "Mythic Adventures pg. 74",
+    "mythicText": "Your mounted charge knocks the wind and wits from those foolish enough to stand against you.",
+    "mythicPrerequisites": "Spirited Charge.",
+    "mythicBenefit": "When you hit an opponent with a mounted charge, that opponent must succeed at a Fortitude saving throw (DC 10 + 1/2 your character level + your Str modifier) or be staggered for a number of rounds equal to your tier. If you use a lance with this attack, increase the saving throw DC by 2. As a free action before you make the attack, you can expend one use of mythic power to daze your opponent on a failed saving throw instead of staggering it.",
+    "prerequisiteKeys":     [
+        "mounted combat",
+        "ride-by attack"
+    ],
+    "name_zh": "奋力冲锋",
+    "text_zh": "你的骑乘冲锋攻击能造成大量的伤害。",
+    "prerequisites_zh": "骑乘1级，骑乘战斗，骑乘掠击。",
+    "benefit_zh": "当在骑乘时使用冲锋动作，你使用近战武器造成双倍伤害（持用长枪则是三倍）。",
+    "mythicText_zh": "你的骑乘冲锋会把这些傻到敢于对抗你的敌人的最后一点理智打飞。",
+    "mythicPrerequisites_zh": "奋力冲锋",
+    "mythicBenefit_zh": "当你使用骑乘冲锋击中1个敌人时，该敌人必须成功进行强韧豁免（DC 10 + 1/2你的角色等级 + 你的力量调整值），否则会被恍惚（staggered），持续轮数等同于你的阶层。若你使用长枪（lance）进行此次攻击，则此次豁免DC增加2点。在你进行攻击前，以自由动作，你能够花费1次神话之力，来使得豁免失败的敌人眩晕（dazed）而非原本的恍惚。",
+    "staminaText_zh": "当你做出骑乘冲锋时，你可消耗至多等于你力量加值的耐力。如果你的冲锋命中了，你将造成等同于你消耗耐力点数的额外伤害。这个伤害将会被该专长翻倍（如果你使用长枪的话则会翻三倍）。"
+}

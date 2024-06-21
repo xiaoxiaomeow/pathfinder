@@ -1,0 +1,31 @@
+{
+    "key": "spiral descent",
+    "name": "Spiral Descent",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spiral%20Descent",
+    "source": ["Inner Sea Temples pg. 43"],
+    "school": "conjuration",
+    "subSchools": ["teleportation"],
+    "levels":     {
+        "cleric": 2,
+        "inquisitor": 2,
+        "oracle": 2,
+        "warpriest": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "long (400 ft. + 40 ft./level)",
+    "target": "you and touched objects",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "This spell functions as <i>spiral ascent<\/i>, except the destination and direction of travel is downward from your current location.",
+    "name_zh": "螺旋下降",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "远距 (400尺+每等级40尺)",
+    "target_zh": "你和接触到的物体",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>该法术如螺旋上升（spiral ascent）一般起效，除了目的地和旅行方向是从你当前位置向下。<\/p>"
+}

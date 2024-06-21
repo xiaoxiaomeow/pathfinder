@@ -1,0 +1,36 @@
+{
+    "key": "screaming flames",
+    "name": "Screaming Flames",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Screaming%20Flames",
+    "source": ["Horror Adventures pg. 126"],
+    "school": "evocation",
+    "descriptors":     [
+        "evil",
+        "fire",
+        "mind-affecting"
+    ],
+    "descriptorsOperator": ",",
+    "levels":     {
+        "antipaladin": 3,
+        "cleric": 3,
+        "oracle": 3,
+        "warpriest": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a charred animal or humanoid skull fragment)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "a sheet of flames up to 15 ft. long and 10 ft. high that moves 15 ft. in a straight line",
+    "duration": "instantaneous",
+    "savingThrow": "Reflex half and Will negates (see text)",
+    "spellResistance": "yes",
+    "text": "A sheer wall of flame appears and rushes away from you. Tendrils of fire reach out of it, shaped into skulls screaming in agony. When the wall passes through a creature’s space, that creature must succeed at a Reflex save or take 1d8 points of fire damage for every 2 caster levels you have (maximum 5d8). Any creature taking fire damage must also succeed at a Will save or take 1d3 points of Wisdom damage. Deaf creatures receive a +4 circumstance bonus on their Will saves.<br><br> If your campaign uses the sanity system (see page 12), a creature takes 1d6 points of sanity damage instead of Wisdom damage.",
+    "name_zh": "尖叫火墙",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料/法器 (一具烧焦的动物或一位类人生物头盖骨的碎片)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "effect_zh": "一片火焰至多长15尺、高10尺，在一条直线上移动15尺",
+    "duration_zh": "立即",
+    "savingThrow_zh": "反射, 通过则减半 和 意志, 通过则无效; 见文本",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>一道纯粹由火焰构成的墙从你这边出现并冲向远处。在卷须的火焰中，形塑了一颗在极度痛苦中尖叫的头骨。当火墙穿过了一位生物的方格，该生物必须成功通过一次反射豁免，否则受到1d8点/你每有2个施法者等级的火焰伤害(最大5d8)。任何受到火焰伤害的生物必须成功通过一次意志豁免，否则受到1d3点感知伤害。耳聋的生物在他的意志豁免上获得+4环境加值。<\/p><p>如果你的战役使用理智系统(见P.12)，生物会受到1d6点的理智伤害来取代感知伤害。<\/p>"
+}

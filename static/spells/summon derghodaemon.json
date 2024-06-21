@@ -1,0 +1,32 @@
+{
+    "key": "summon derghodaemon",
+    "name": "Summon Derghodaemon",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Derghodaemon",
+    "source": ["Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 39"],
+    "school": "conjuration",
+    "subSchools": ["summoning"],
+    "descriptors": ["evil"],
+    "levels":     {
+        "arcanist": 9,
+        "cleric": 9,
+        "oracle": 9,
+        "sorcerer": 9,
+        "witch": 9,
+        "wizard": 9
+    },
+    "castingTime": "1 round",
+    "components": "V, S, F (a handful of bug carapaces)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one summoned creature",
+    "duration": "1 round/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>summon monster<\/i>, except it summons a single derghodaemon.",
+    "name_zh": "召唤异虫邪魔",
+    "castingTime_zh": "1轮",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "否",
+    "text_zh": "<p>本法术的效果和召唤怪物一样，除了本法术召唤的是一只异虫邪魔。<\/p>"
+}
