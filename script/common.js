@@ -1,0 +1,1 @@
+var urlAttributes=null;export function getUrlAttributes(){if(null==urlAttributes){urlAttributes={};let t=window.location.search;if(t.length>0){t=t.substring(1);let r=t.split("&");for(let t in r){let l=r[t].split("=");urlAttributes[l[0]]=l[1]}}}return urlAttributes}
