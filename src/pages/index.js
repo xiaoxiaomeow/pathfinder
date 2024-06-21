@@ -21,7 +21,7 @@ function HomepageFeatures() {
 	return (
 		<div className="container">
 			<p className="hero__subtitle">
-				这是一个正在搭建中的pathfinder中文百科。目前这里只有<a href='spells'>法术速查</a>和<a href='feats'>专长速查</a>。
+				这是一个正在搭建中的pathfinder中文百科。目前这里只有<a href='/pathfinder/spells'>法术速查</a>和<a href='/pathfinder/feats'>专长速查</a>。
 			</p>
 		</div>
 	);

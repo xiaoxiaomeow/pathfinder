@@ -1,10 +1,13 @@
 import React, { useEffect } from 'react';
 import Layout from '@theme/Layout';
-import {loadTransAndUrlSpell} from '@site/static/script/spellUtils';
+import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 
 export default function SpellPage() {
 	useEffect(() => {
-		loadTransAndUrlSpell();
+		if (ExecutionEnvironment.canUseDOM) {
+			let loadTransAndUrlSpell = require('@site/static/script/spellUtils').loadTransAndUrlSpell;
+			loadTransAndUrlSpell();
+		}
 	});
 
 	return (

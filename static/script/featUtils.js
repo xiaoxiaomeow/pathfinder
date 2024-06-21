@@ -2,7 +2,6 @@ import $ from 'jquery';
 import {featDict} from '@site/static/script/featsIndex';
 import {featTree} from '@site/static/script/featsIndex';
 import {getUrlAttributes} from '@site/static/script/common';
-import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 
 function connect(content, connector, translation) {
     let str = "";
@@ -73,7 +72,7 @@ function printTree (tree, key, indent) {
 			let ft = featDict[node["key"]];
 			let name = getTitle(ft, false);
 			if (node["key"] != key) {
-				str += indent + "<a style=\"color:gray\" href=\"feat?feat=" + node["key"] + "\">" + name + "</a>";
+				str += indent + "<a style=\"color:gray\" href=\"/pathfinder/feat?feat=" + node["key"] + "\">" + name + "</a>";
 			} else {
 				str += indent + "<a>" + name + "</a>";
 			}
@@ -108,9 +107,7 @@ function loadFeat(ft, div, containSource = false) {
     div.innerHTML = "";
 
 	if (containSource) {
-		div.appendChild(getTopBar());
 		window.top.document.title = ft["name_zh"] ?? ft["name"];
-		$(div).append($("<hr>"));
 	}
 
     // title
@@ -187,7 +184,7 @@ function loadUrlFeat() {
 		}
     }).then(text => {
 		if (text != null) {
-			ft = JSON.parse(text);
+			let ft = JSON.parse(text);
 			loadFeat(ft, document.getElementById("box"), true);
 		}
     }).catch(error => {
@@ -310,7 +307,7 @@ export function loadTransAndSearchElements () {
         console.log(error);
     });
 }
-function loadTransAndUrlSpell () {
+export function loadTransAndUrlFeat () {
 	fetch ("/pathfinder/script/translations.json").then(response => {
         if (response.ok) {
 			return response.text();
@@ -406,7 +403,7 @@ function populateFeat (ft, table, indent, gray) {
 	let div = document.createElement("div");
 
 	let nameLink = document.createElement("a");
-	nameLink.href = "feat?feat=" + ft["key"];
+	nameLink.href = "/pathfinder/feat?feat=" + ft["key"];
 	nameLink.target = "_blank";
 	nameLink.innerHTML = indent + (ft["name_zh"] ?? ft["name"]);
 	if (gray) {

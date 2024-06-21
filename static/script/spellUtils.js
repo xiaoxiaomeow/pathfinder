@@ -1,7 +1,6 @@
 import $ from 'jquery';
 import {spellsIndex} from '@site/static/script/spellsIndex';
 import {getUrlAttributes} from '@site/static/script/common';
-import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 
 function connect(content, connector, translation) {
 	let str = "";
@@ -292,7 +291,7 @@ var rangeBoxes = [];
 var savingThrowBoxes = [];
 var translations;
 export function loadTransAndSearchElements() {
-	fetch("script/translations.json").then(response => {
+	fetch("/pathfinder/script/translations.json").then(response => {
 		if (response.ok) {
 			return response.text();
 		} else {
@@ -553,7 +552,7 @@ export function search() {
 			let row = document.createElement("tr");
 
 			let nameLink = document.createElement("a");
-			nameLink.href = "spell?spell=" + sp["key"];
+			nameLink.href = "/pathfinder/spell?spell=" + sp["key"];
 			nameLink.target = "_blank";
 			nameLink.innerHTML = sp["name_zh"] ?? sp["name"];
 			let nameCell = objectCell(nameLink);
