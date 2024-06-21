@@ -44,13 +44,7 @@ const config = {
 			'classic',
 			/** @type {import('@docusaurus/preset-classic').Options} */
 			({
-				docs: {
-					sidebarPath: './sidebars.js',
-					// Please change this to your repo.
-					// Remove this to remove the "edit this page" links.
-					// editUrl:
-					//   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-				},
+				docs: false,
 				blog: {
 					showReadingTime: true,
 					// Please change this to your repo.
@@ -63,6 +57,18 @@ const config = {
 				},
 			}),
 		],
+	],
+
+	plugins: [
+		[
+			'@docusaurus/plugin-content-docs',
+			{
+				id: 'core_rulebook',
+				path: 'core_rulebook',
+				routeBasePath: 'core_rulebook',
+				sidebarPath: require.resolve('./sidebars/sidebar_core_rulebook.js')
+			},
+		]
 	],
 
 	themeConfig:
@@ -78,6 +84,13 @@ const config = {
 				},
 				items: [
 					{
+						type: 'docSidebar',
+						sidebarId: 'core_rulebook',
+						label: '核心规则',
+						position: 'left',
+						docsPluginId: 'core_rulebook'
+					},
+					{
 						label: '法术速查',
 						position: 'left',
 						href: '/spells'
@@ -87,38 +100,16 @@ const config = {
 						position: 'left',
 						href: '/feats'
 					}
-					/*
-					{
-					type: 'docSidebar',
-					sidebarId: 'tutorialSidebar',
-					position: 'left',
-					label: 'Tutorial',
-				  },
-				  {to: '/blog', label: 'Blog', position: 'left'},
-				  {
-					href: 'https://github.com/facebook/docusaurus',
-					label: 'GitHub',
-					position: 'right',
-				  },
-				  */
 				],
 			},
 			footer: {
 				style: 'dark',
 				links: [
 					{
-					  label: 'Github',
-					  href: 'https://github.com/xiaoxiaomeow/pathfinder',
-					},
-					{
-					  label: 'QQ群',
-					  href: 'https://qm.qq.com/q/PmQKhICTWE',
-					},
-					{
-					  label: '邮件',
-					  href: 'mailto:xiaoxiaocat@foxmail.com',
+						label: 'Github',
+						href: 'https://github.com/xiaoxiaomeow/pathfinder',
 					}
-				  ],
+				],
 				copyright: 'Built with <a href="https://docusaurus.io/">Docusaurus</a>.'
 			},
 			prism: {
