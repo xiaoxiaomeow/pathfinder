@@ -66,7 +66,11 @@ const config = {
 				id: 'core_rulebook',
 				path: 'core_rulebook',
 				routeBasePath: 'core_rulebook',
-				sidebarPath: require.resolve('./sidebars/sidebar_core_rulebook.js')
+				sidebarPath: require.resolve('./sidebars/sidebar_core_rulebook.js'),
+				admonitions: {
+					keywords: ['note', 'tip', 'info', 'warning', 'danger', 'table'],
+					extendDefaults: true
+				}
 			},
 		]
 	],
