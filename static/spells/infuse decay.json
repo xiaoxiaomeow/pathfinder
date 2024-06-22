@@ -22,7 +22,7 @@
     "castingTime_zh": "10分钟",
     "range_zh": "接触",
     "area_zh": "corporeal undead touched; see text",
-    "duration_zh": "永久, 直至能量发散 (可解消)",
+    "duration_zh": "永久, 直到能量发散 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)"
 }

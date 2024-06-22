@@ -22,8 +22,8 @@
     "castingTime_zh": "10分钟",
     "range_zh": "接触",
     "targetOrArea_zh": "接触到的物体 或 至多每等级5平方尺的区域",
-    "duration_zh": "永久, 直至能量发散 (可解消)",
+    "duration_zh": "永久, 直到能量发散 (可解消)",
     "savingThrow_zh": "见文本",
     "spellResistance_zh": "否 (物体) 和 可; 见文本",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell?spell=glyph of warding\">守卫刻文 (glyph of warding)<\/a>’ 一般，不过高等爆裂刻文造成的伤害至多为10d8点，高等法术刻文至多储存6环或更低环位的法术。<\/p><p>‘<a href=\"spell?spell=read magic\">阅读魔法 (read magic)<\/a>’使你能够进行DC为16的法术辨识检定来鉴定高等守卫刻文。<\/p><p>材料成分：你需要使用熏香来绘制刻文，熏香必须之前洒上至少价值400gp的钻石尘。<\/p>"
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=glyph of warding\">守卫刻文 (glyph of warding)<\/a>’ 一般，不过高等爆裂刻文造成的伤害至多为10d8点，高等法术刻文至多储存6环或更低环位的法术。<\/p><p>‘<a href=\"spell.html?spell=read magic\">阅读魔法 (read magic)<\/a>’使你能够进行DC为16的法术辨识检定来鉴定高等守卫刻文。<\/p><p>材料成分：你需要使用熏香来绘制刻文，熏香必须之前洒上至少价值400gp的钻石尘。<\/p>"
 }

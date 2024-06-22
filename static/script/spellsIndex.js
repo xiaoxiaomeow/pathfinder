@@ -64,7 +64,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 221"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散",
+        "duration_zh": "1轮/等级 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -89,7 +89,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 221"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散",
+        "duration_zh": "1小时/等级 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)",
@@ -238,7 +238,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 221"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "duration_zh": "10分钟/等级 或 直到能量发散",
         "range_zh": "个人",
         "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
@@ -259,7 +259,7 @@ export const spellsIndex = [
         },
         "source": ["People of the Wastes pg. 28"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散",
+        "duration_zh": "1小时/等级 或 直到能量发散",
         "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "否 (无害)",
         "savingThrow_zh": "无 (无害)"
@@ -662,7 +662,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 172"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散; 见文本",
+        "duration_zh": "1轮/等级 或 直到能量发散; 见文本",
         "range_zh": "15尺",
         "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
@@ -1424,7 +1424,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 205"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至解消",
+        "duration_zh": "1轮/等级 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -2022,7 +2022,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 204"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "1日/等级 或 直至讯息送达",
+        "duration_zh": "1日/等级 或 直到讯息送达",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无; 见文本"
@@ -2323,7 +2323,7 @@ export const spellsIndex = [
         },
         "source": ["Heroes of the Darklands pg. 20"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散",
+        "duration_zh": "1小时/等级 或 直到能量发散",
         "range_zh": "个人",
         "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -2340,7 +2340,7 @@ export const spellsIndex = [
         },
         "source": ["Heroes of the Darklands pg. 20"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散",
+        "duration_zh": "1小时/等级 或 直到能量发散",
         "range_zh": "个人",
         "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -3058,7 +3058,7 @@ export const spellsIndex = [
         },
         "source": ["Pathfinder Society Field Guide pg. 56"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "duration_zh": "10分钟/等级 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -4535,7 +4535,7 @@ export const spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 7"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散",
+        "duration_zh": "1轮/等级 或 直到能量发散",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "无 或 意志, 通过则部分生效 (见文本)"
@@ -4838,7 +4838,7 @@ export const spellsIndex = [
         },
         "source": ["Villain Codex pg. 44"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "24小时 或 直至能量发散, 然后立即生效",
+        "duration_zh": "24小时 或 直到能量发散, 然后立即生效",
         "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
@@ -6033,7 +6033,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 175"],
         "castingTime_zh": "1轮",
-        "duration_zh": "1分钟/等级 或 直至能量发散; 见文本",
+        "duration_zh": "1分钟/等级 或 直到能量发散; 见文本",
         "range_zh": "0尺 或 每等级10尺",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -6158,7 +6158,7 @@ export const spellsIndex = [
         "source": ["Pathfinder #77: Herald of the Ivory Labyrinth pg. 75"],
         "race": "Baphomet",
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散",
+        "duration_zh": "1轮/等级 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
@@ -6946,7 +6946,7 @@ export const spellsIndex = [
         },
         "source": ["Faiths and Philosophies pg. 28"],
         "castingTime_zh": "2分钟",
-        "duration_zh": "1天 或 直至消散 (可解消)",
+        "duration_zh": "1天 或 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -7261,7 +7261,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 176"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级 或 直至能量发散; 见文本",
+        "duration_zh": "1分钟/等级 或 直到能量发散; 见文本",
         "range_zh": "个人"
     },
         {
@@ -7469,7 +7469,7 @@ export const spellsIndex = [
         },
         "source": ["Seekers of Secrets pg. 17"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1天/等级 或 直到释放; 见文本",
+        "duration_zh": "1天/等级 或 直到能量发散; 见文本",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
@@ -7980,7 +7980,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 224"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散",
+        "duration_zh": "1轮/等级 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
@@ -8113,7 +8113,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 176"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "duration_zh": "10分钟/等级 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -8582,7 +8582,7 @@ export const spellsIndex = [
         "levels": {"witch": 3},
         "source": ["Ultimate Magic pg. 210"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "永久, 直至能量发散",
+        "duration_zh": "永久, 直到能量发散",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
@@ -8763,7 +8763,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 210"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久, 直至能量发散",
+        "duration_zh": "永久, 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -8884,7 +8884,7 @@ export const spellsIndex = [
             "Familiar Folio pg. 22"
         ],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散",
+        "duration_zh": "1小时/等级 或 直到能量发散",
         "range_zh": "每等级1里",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效"
@@ -8907,7 +8907,7 @@ export const spellsIndex = [
             "Familiar Folio pg. 22"
         ],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直至能量发散; 见文本",
+        "duration_zh": "10分钟/等级 或 直到能量发散; 见文本",
         "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
@@ -9466,7 +9466,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 228"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1天/等级 或 直至能量发散 (可消解)",
+        "duration_zh": "1天/等级 或 直到能量发散 (可消解)",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "否",
         "savingThrow_zh": "反射过则减半; 见文本"
@@ -10387,7 +10387,7 @@ export const spellsIndex = [
         },
         "source": ["Potions and Poisons pg. 17"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "duration_zh": "10分钟/等级 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -10800,7 +10800,7 @@ export const spellsIndex = [
         },
         "source": ["Heroes of the Streets pg. 30"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟 或 直至消散",
+        "duration_zh": "10分钟 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "无"
@@ -12067,7 +12067,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 259"],
         "castingTime_zh": "至少10分钟; 见文本",
-        "duration_zh": "1天/等级 (可解消) 或 直至能量发散",
+        "duration_zh": "1天/等级 (可解消) 或 直到能量发散",
         "range_zh": "个人",
         "mythic": true
     },
@@ -12086,7 +12086,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 178"],
         "castingTime_zh": "1分钟",
-        "duration_zh": "1分钟/等级 (可解消) 或 直至能量发散",
+        "duration_zh": "1分钟/等级 (可解消) 或 直到能量发散",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -12107,7 +12107,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 178"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "10分钟/等级 (可解消) 或 直至能量发散",
+        "duration_zh": "10分钟/等级 (可解消) 或 直到能量发散",
         "range_zh": "个人",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -12126,7 +12126,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 208"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
@@ -12665,7 +12665,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 213"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1天/等级 或 直至能量发散 (可解消)",
+        "duration_zh": "1天/等级 或 直到能量发散 (可解消)",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -13690,7 +13690,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Guide pg. 179"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "永久, 直至能量发散; 见文本",
+        "duration_zh": "永久, 直到能量发散; 见文本",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
@@ -14105,7 +14105,7 @@ export const spellsIndex = [
         },
         "source": ["Villain Codex pg. 188"],
         "castingTime_zh": "1分钟",
-        "duration_zh": "永久直到发散, 然后永久; 见文本",
+        "duration_zh": "永久直到能量发散, 然后永久; 见文本",
         "range_zh": "接触",
         "spellResistance_zh": "有(物体), 然后有; 见文本",
         "savingThrow_zh": "强韧, 通过则无效 (物体), 然后是意志, 通过则无效; 见文本"
@@ -14127,7 +14127,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 215"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散 (可解消)",
+        "duration_zh": "1小时/等级 或 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -15391,7 +15391,7 @@ export const spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 37"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直至能量发散, 之后为 1轮/等级",
+        "duration_zh": "10分钟/等级 或 直到能量发散, 之后为 1轮/等级",
         "range_zh": "个人",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -15546,7 +15546,7 @@ export const spellsIndex = [
         ],
         "race": "Pharasma",
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散",
+        "duration_zh": "1小时/等级 或 直到能量发散",
         "range_zh": "个人",
         "spellResistance_zh": "无",
         "savingThrow_zh": "无"
@@ -15580,7 +15580,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 216"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级 或 直至能量发散",
+        "duration_zh": "1分钟/等级 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -15869,7 +15869,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 215"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1天/等级 (可解消) 或 直至能量发散",
+        "duration_zh": "1天/等级 (可解消) 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -16000,7 +16000,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Intrigue pg. 210"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级, 之后 1小时/等级 或 直至完成 (可解消) ; 见文本",
+        "duration_zh": "10分钟/等级, 之后 1小时/等级 或 直到完成 (可解消) ; 见文本",
         "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
@@ -16026,7 +16026,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 210"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级, 之后 1小时/等级 或 直至完成 (可解消) ; 见文本",
+        "duration_zh": "10分钟/等级, 之后 1小时/等级 或 直到完成 (可解消) ; 见文本",
         "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
@@ -17135,7 +17135,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 179"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散",
+        "duration_zh": "1轮/等级 或 直到能量发散",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "否 和 可 (物体)",
         "savingThrow_zh": "无 或 意志, 通过则无效 (物体)"
@@ -17627,7 +17627,7 @@ export const spellsIndex = [
             "Champions of Balance pg. 27"
         ],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散, 以先到的为准",
+        "duration_zh": "1轮/等级 或 直到能量发散, 以先到的为准",
         "range_zh": "接触",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "见文本"
@@ -17648,7 +17648,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 271"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散, 以先到的为准",
+        "duration_zh": "1轮/等级 或 直到能量发散, 以先到的为准",
         "range_zh": "接触",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "见文本"
@@ -17669,7 +17669,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 271"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散, 以先到的为准",
+        "duration_zh": "1轮/等级 或 直到能量发散, 以先到的为准",
         "range_zh": "接触",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "见文本"
@@ -17690,7 +17690,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 272"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散, 以先到的为准",
+        "duration_zh": "1轮/等级 或 直到能量发散, 以先到的为准",
         "range_zh": "接触",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "见文本"
@@ -17711,7 +17711,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 272"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散, 以先到的为准",
+        "duration_zh": "1轮/等级 或 直到能量发散, 以先到的为准",
         "range_zh": "接触",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "见文本"
@@ -18028,7 +18028,7 @@ export const spellsIndex = [
         "levels": {"paladin": 2},
         "source": ["Ultimate Combat pg. 228"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散",
+        "duration_zh": "1轮/等级 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -18352,7 +18352,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 217"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直至能量发散; 见文本",
+        "duration_zh": "10分钟/等级 或 直到能量发散; 见文本",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)",
@@ -20312,7 +20312,7 @@ export const spellsIndex = [
         },
         "source": ["Taldor, Echoes of Glory pg. 24"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟 或 直至能量发散",
+        "duration_zh": "1分钟 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -20412,7 +20412,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Divine Anthology pg. 12"],
         "castingTime_zh": "1小时",
-        "duration_zh": "24小时, 或 直至能量发散",
+        "duration_zh": "24小时, 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -21061,7 +21061,7 @@ export const spellsIndex = [
         },
         "source": ["Black Markets pg. 30"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级 或 直至能量发散",
+        "duration_zh": "1分钟/等级 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -21306,7 +21306,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 279"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "见文本"
@@ -21629,7 +21629,7 @@ export const spellsIndex = [
         {
         "key": "fallback strategy",
         "name": "Fallback Strategy",
-        "name_zh": "转进战略",
+        "name_zh": "转进战术",
         "school": "abjuration",
         "levels":         {
             "cleric": 1,
@@ -21645,7 +21645,7 @@ export const spellsIndex = [
         ],
         "race": "Torag",
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直到释放; 见文本",
+        "duration_zh": "1分钟/等级 或 直到能量发散; 见文本",
         "range_zh": "个人"
     },
         {
@@ -21789,7 +21789,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 219"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散; 见文本",
+        "duration_zh": "1小时/等级 或 直到能量发散; 见文本",
         "range_zh": "个人"
     },
         {
@@ -21814,7 +21814,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 280"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散; 见文本",
+        "duration_zh": "1小时/等级 或 直到能量发散; 见文本",
         "range_zh": "个人",
         "mythic": true
     },
@@ -21961,7 +21961,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 219"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至你回到你的身体",
+        "duration_zh": "1小时/等级 或 直到你回到你的身体",
         "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -22153,7 +22153,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 281"],
         "castingTime_zh": "直觉动作",
-        "duration_zh": "直至落地 或 1轮/等级",
+        "duration_zh": "直到落地 或 1轮/等级",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害) 或 意志, 通过则无效 (物体)",
@@ -22519,7 +22519,7 @@ export const spellsIndex = [
         },
         "source": ["Melee Tactics Toolbox pg. 30"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级 或 直至能量发散; 见文本",
+        "duration_zh": "1分钟/等级 或 直到能量发散; 见文本",
         "range_zh": "接触",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "无"
@@ -22806,7 +22806,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 282"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直至使用",
+        "duration_zh": "10分钟/等级 或 直到使用",
         "range_zh": "接触",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无 或 反射, 通过则减半; 见文本",
@@ -22949,7 +22949,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 282"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
@@ -23099,7 +23099,7 @@ export const spellsIndex = [
         },
         "source": ["Divine Anthology pg. 12"],
         "castingTime_zh": "1小时",
-        "duration_zh": "24小时, 或 直至能量发散",
+        "duration_zh": "24小时, 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -23661,7 +23661,7 @@ export const spellsIndex = [
         "source": ["Inner Sea Races pg. 220"],
         "race": "Drow",
         "castingTime_zh": "1轮",
-        "duration_zh": "专注+2 轮 和 1小时/等级 (见下)",
+        "duration_zh": "专注+2 轮 和 1小时/等级 (见文本)",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -24071,7 +24071,7 @@ export const spellsIndex = [
         "duration_zh": "1小时/等级",
         "range_zh": "接触",
         "spellResistance_zh": "否",
-        "savingThrow_zh": "无 或 意志, 通过则不相信 (见下)"
+        "savingThrow_zh": "无 或 意志, 通过则不相信 (见文本)"
     },
         {
         "key": "fool's teleport",
@@ -25189,7 +25189,7 @@ export const spellsIndex = [
         "source": ["Blood of the Beast pg. 27"],
         "race": "Tengu",
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级 或 直至能量发散; 见文本",
+        "duration_zh": "1分钟/等级 或 直到能量发散; 见文本",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无; 见文本"
@@ -25252,7 +25252,7 @@ export const spellsIndex = [
         "source": ["Pathfinder #119: Prisoners of the Blight pg. 70"],
         "race": "Cyth-V'sug",
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级 或 直至能量发散; 见文本",
+        "duration_zh": "1分钟/等级 或 直到能量发散; 见文本",
         "range_zh": "个人"
     },
         {
@@ -25461,7 +25461,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 288"],
         "castingTime_zh": "1轮",
-        "duration_zh": "1天/等级 或 直至能量发散 (可解消)",
+        "duration_zh": "1天/等级 或 直到能量发散 (可解消)",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
@@ -25494,7 +25494,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 288"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "1天/等级 或 直至能量发散 (可解消)",
+        "duration_zh": "1天/等级 或 直到能量发散 (可解消)",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
@@ -26086,7 +26086,7 @@ export const spellsIndex = [
         "levels": {"psychic": 8},
         "source": ["Psychic Anthology pg. 10"],
         "castingTime_zh": "整轮动作",
-        "duration_zh": "1天 或 直到发散 (见描述)",
+        "duration_zh": "1天 或 直到能量发散 (见描述)",
         "range_zh": "个人"
     },
         {
@@ -26293,7 +26293,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 291"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "否 (物体) 和 可; 见文本",
         "savingThrow_zh": "见文本"
@@ -26312,7 +26312,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 290"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "否 (物体) 和 可; 见文本",
         "savingThrow_zh": "见文本",
@@ -26466,7 +26466,7 @@ export const spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 8"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "duration_zh": "10分钟/等级 或 直到能量发散",
         "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无 (无害)"
@@ -26783,7 +26783,7 @@ export const spellsIndex = [
         },
         "source": ["Horror Adventures pg. 119"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "7天 (见下)",
+        "duration_zh": "7天 (见文本)",
         "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
@@ -27046,7 +27046,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 292"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟 或 直至能量发散",
+        "duration_zh": "1分钟 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -27335,7 +27335,7 @@ export const spellsIndex = [
         },
         "source": ["Faiths and Philosophies pg. 28"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "3轮/等级 或 直到消散; 见文本",
+        "duration_zh": "3轮/等级 或 直到能量发散; 见文本",
         "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
@@ -27720,7 +27720,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Adventurer's Guide pg. 37"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "12小时 + 2小时/等级 或 直至能量发散, 之后 1日/等级",
+        "duration_zh": "12小时 + 2小时/等级 或 直到能量发散, 之后 1日/等级",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
@@ -27881,7 +27881,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 231"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散",
+        "duration_zh": "1轮/等级 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无",
@@ -28124,7 +28124,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 184"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级 或 直至能量发散",
+        "duration_zh": "1分钟/等级 或 直到能量发散",
         "range_zh": "30尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -28422,7 +28422,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 184"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "否 (物体) 和 可; 见文本",
         "savingThrow_zh": "见文本"
@@ -28438,7 +28438,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 184"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "否 (物体) 和 可; 见文本",
         "savingThrow_zh": "见文本"
@@ -29111,7 +29111,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 223"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级, 立即, 或 直至能量发散; 见文本",
+        "duration_zh": "1分钟/等级, 立即, 或 直到能量发散; 见文本",
         "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效 或 无; 见文本"
@@ -29396,7 +29396,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 231"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散",
+        "duration_zh": "1轮/等级 或 直到能量发散",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
@@ -29419,7 +29419,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 231"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散",
+        "duration_zh": "1轮/等级 或 直到能量发散",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
@@ -29751,7 +29751,7 @@ export const spellsIndex = [
         },
         "source": ["Monster Hunter's Handbook pg. 30"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "24小时, 或 直至能量发散",
+        "duration_zh": "24小时, 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
@@ -30015,7 +30015,7 @@ export const spellsIndex = [
         ],
         "race": "Gozreh",
         "castingTime_zh": "1分钟",
-        "duration_zh": "1小时/等级 或 直至被摧毁",
+        "duration_zh": "1小时/等级 或 直到被摧毁",
         "range_zh": "0尺; 见文本",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -30351,7 +30351,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 229"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散",
+        "duration_zh": "1轮/等级 或 直到能量发散",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无",
@@ -30503,7 +30503,7 @@ export const spellsIndex = [
         },
         "source": ["Gnomes of Golarion pg. 27"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级 或 直至能量发散; 见文本",
+        "duration_zh": "1分钟/等级 或 直到能量发散; 见文本",
         "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "Will disbelief, then Fortitude (see text)"
@@ -30582,7 +30582,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Origins pg. 31"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久 或 直至能量发散",
+        "duration_zh": "永久 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -30647,7 +30647,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 203"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "24小时 或 直至能量发散 (可解消)",
+        "duration_zh": "24小时 或 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -30684,7 +30684,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 299"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -30931,7 +30931,7 @@ export const spellsIndex = [
         },
         "source": ["Black Markets pg. 31"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
@@ -31343,7 +31343,7 @@ export const spellsIndex = [
         },
         "source": ["Curse of the Crimson Throne (PFRPG) pg. 453"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -31366,7 +31366,7 @@ export const spellsIndex = [
         },
         "source": ["Lands of the Linnorm Kings pg. 48"],
         "castingTime_zh": "1小时",
-        "duration_zh": "永久, 直到释放(可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
@@ -31818,7 +31818,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 217"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "永久 或 直至能量发散",
+        "duration_zh": "永久 或 直到能量发散",
         "range_zh": "见文本",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -31838,7 +31838,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 301"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "永久, 直至能量发散",
+        "duration_zh": "永久, 直到能量发散",
         "range_zh": "见文本",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -32142,7 +32142,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 185"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "duration_zh": "10分钟/等级 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -32220,7 +32220,7 @@ export const spellsIndex = [
         "source": ["Dwarves of Golarion pg. 22"],
         "race": "Magrim",
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时 或 直至能量发散",
+        "duration_zh": "1小时 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -33631,7 +33631,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 218"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
@@ -34200,7 +34200,7 @@ export const spellsIndex = [
         },
         "source": ["Undead Slayer's Handbook pg. 27"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级 或 直至能量发散",
+        "duration_zh": "1分钟/等级 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -35444,7 +35444,7 @@ export const spellsIndex = [
             "Gods and Magic pg. 9"
         ],
         "castingTime_zh": "1分钟",
-        "duration_zh": "最多1天/等级 (D) 或 直到释放",
+        "duration_zh": "最多1天/等级 (D) 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -35474,7 +35474,7 @@ export const spellsIndex = [
         },
         "source": ["Occult Mysteries pg. 50"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "24小时, 或 直至能量发散",
+        "duration_zh": "24小时, 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -35761,7 +35761,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 306"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散, 之后1轮/等级; 见文本",
+        "duration_zh": "1小时/等级 或 直到能量发散, 之后1轮/等级; 见文本",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -35898,7 +35898,7 @@ export const spellsIndex = [
         },
         "source": ["Monster Codex pg. 69"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "30分钟 或 直至能量发散",
+        "duration_zh": "30分钟 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
@@ -36098,7 +36098,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 309"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至你回到你的身体",
+        "duration_zh": "1小时/等级 或 直到你回到你的身体",
         "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
@@ -36147,7 +36147,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 310"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "永久, 直至能量发散",
+        "duration_zh": "永久, 直到能量发散",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
@@ -36217,7 +36217,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 310"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "30分钟 或 直至能量发散",
+        "duration_zh": "30分钟 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
@@ -38008,7 +38008,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Guide pg. 187"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久 直至能量发散; 见文本",
+        "duration_zh": "永久 直到能量发散; 见文本",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -38571,7 +38571,7 @@ export const spellsIndex = [
         },
         "source": ["Blood of the Ancients pg. 26"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "1天/等级 或 直至能量发散 (可解消)",
+        "duration_zh": "1天/等级 或 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -38643,7 +38643,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 237"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级 或 直至能量发散",
+        "duration_zh": "1分钟/等级 或 直到能量发散",
         "range_zh": "50尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
@@ -38662,7 +38662,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 315"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散",
+        "duration_zh": "1小时/等级 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -39316,7 +39316,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 238"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "duration_zh": "10分钟/等级 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
@@ -39338,7 +39338,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 238"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "duration_zh": "10分钟/等级 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
@@ -39889,7 +39889,7 @@ export const spellsIndex = [
         },
         "source": ["Occult Adventures pg. 178"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则部分生效; 见文本"
@@ -40581,7 +40581,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 230"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至被打破; 见文本",
+        "duration_zh": "1轮/等级 或 直到被打破; 见文本",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
@@ -41046,7 +41046,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Inner Sea Temples pg. 63"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散",
+        "duration_zh": "1小时/等级 或 直到能量发散",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则部分生效"
@@ -41812,7 +41812,7 @@ export const spellsIndex = [
         "levels": {"sahirafiyun": 3},
         "source": ["Dark Markets - A Guide to Katapesh pg. 57"],
         "castingTime_zh": "1轮",
-        "duration_zh": "1天/等级 或 直至能量发散 (可解消)",
+        "duration_zh": "1天/等级 或 直到能量发散 (可解消)",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
@@ -41825,7 +41825,7 @@ export const spellsIndex = [
         "levels": {"sahirafiyun": 5},
         "source": ["Dark Markets - A Guide to Katapesh pg. 57"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "1天/等级 或 直至能量发散 (可解消)",
+        "duration_zh": "1天/等级 或 直到能量发散 (可解消)",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
@@ -43113,7 +43113,7 @@ export const spellsIndex = [
         "source": ["Dwarves of Golarion pg. 23"],
         "race": "Angradd",
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级 或 直至能量发散",
+        "duration_zh": "1分钟/等级 或 直到能量发散",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -43263,7 +43263,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 222"],
         "castingTime_zh": "1轮",
-        "duration_zh": "1小时/等级 或 直至能量发散 (可解消)",
+        "duration_zh": "1小时/等级 或 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
@@ -43367,7 +43367,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Intrigue pg. 222"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "立即, 之后1小时 或 直至触发 外加 6轮; 见文本",
+        "duration_zh": "立即, 之后1小时 或 直到触发 外加 6轮; 见文本",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则部分生效 (无害) , 之后 强韧, 通过则无效; 见文本"
@@ -43605,7 +43605,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 232"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至你回到你的身体",
+        "duration_zh": "1小时/等级 或 直到你回到你的身体",
         "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
@@ -44184,7 +44184,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 327"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "永久直至能量发散, 之后1轮/等级",
+        "duration_zh": "永久直到触发, 之后1轮/等级",
         "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
@@ -44291,7 +44291,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 240"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散",
+        "duration_zh": "1小时/等级 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -44315,7 +44315,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 327"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散",
+        "duration_zh": "1小时/等级 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)",
@@ -44399,7 +44399,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 240"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "duration_zh": "10分钟/等级 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
@@ -44432,7 +44432,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 327"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "duration_zh": "10分钟/等级 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
@@ -45127,7 +45127,7 @@ export const spellsIndex = [
         },
         "source": ["Healer's Handbook pg. 9"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "立即 和 1小时 或 直到消散",
+        "duration_zh": "立即 和 1小时 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -45282,7 +45282,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 241"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级 或 直至能量发散",
+        "duration_zh": "1分钟/等级 或 直到能量发散",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
@@ -46378,7 +46378,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 331"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "永久, 直至能量发散",
+        "duration_zh": "永久, 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -47741,7 +47741,7 @@ export const spellsIndex = [
         },
         "source": ["Occult Origins pg. 29"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1天/等级 或 直到消散, 以及永久",
+        "duration_zh": "1天/等级 或 直到能量发散, 以及永久, 见文本",
         "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (物体) 与 意志, 通过则无效; 见文本"
@@ -47761,7 +47761,7 @@ export const spellsIndex = [
         },
         "source": ["Classic Treasures Revisited pg. 27"],
         "castingTime_zh": "整轮动作",
-        "duration_zh": "永久, 直至能量发散",
+        "duration_zh": "永久, 直到能量发散",
         "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -48063,7 +48063,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 243"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散",
+        "duration_zh": "1轮/等级 或 直到能量发散",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
@@ -48311,7 +48311,7 @@ export const spellsIndex = [
         },
         "source": ["Divine Anthology pg. 13"],
         "castingTime_zh": "1小时",
-        "duration_zh": "24小时, 或 直至能量发散",
+        "duration_zh": "24小时, 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -48330,7 +48330,7 @@ export const spellsIndex = [
         },
         "source": ["Divine Anthology pg. 13"],
         "castingTime_zh": "1小时",
-        "duration_zh": "24小时, 或 直至能量发散",
+        "duration_zh": "24小时, 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -48389,7 +48389,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 191"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级 (可解消) 或 直至能量发散; 见文本",
+        "duration_zh": "1分钟/等级 (可解消) 或 直到能量发散; 见文本",
         "range_zh": "0尺",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -48740,7 +48740,7 @@ export const spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 61"],
         "castingTime_zh": "1分钟",
-        "duration_zh": "1天 或 直至被启动 (见描述)",
+        "duration_zh": "1天 或 直到被启动 (见描述)",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志 (无害)"
@@ -48757,7 +48757,7 @@ export const spellsIndex = [
         },
         "source": ["Dwarves of Golarion pg. 25"],
         "castingTime_zh": "1小时",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "否 (物体) 和 可; 见文本",
         "savingThrow_zh": "反射, 通过则减半"
@@ -49955,7 +49955,7 @@ export const spellsIndex = [
         },
         "source": ["Inner Sea Intrigue pg. 61"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散",
+        "duration_zh": "1小时/等级 或 直到能量发散",
         "range_zh": "无限",
         "spellResistance_zh": "否 (无害)",
         "savingThrow_zh": "无 (无害)"
@@ -50101,7 +50101,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 338"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "60天 或 直至消散",
+        "duration_zh": "60天 或 直到能量发散",
         "range_zh": "见文本",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -50123,7 +50123,7 @@ export const spellsIndex = [
             "Heroes of the Streets pg. 31"
         ],
         "castingTime_zh": "10分钟",
-        "duration_zh": "60天 或 直至消散",
+        "duration_zh": "60天 或 直到能量发散",
         "range_zh": "见文本",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -50215,7 +50215,7 @@ export const spellsIndex = [
         },
         "source": ["Black Markets pg. 31"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "60天 或 直至消散",
+        "duration_zh": "60天 或 直到能量发散",
         "range_zh": "见文本",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -50301,7 +50301,7 @@ export const spellsIndex = [
         },
         "source": ["Divine Anthology pg. 13"],
         "castingTime_zh": "1小时",
-        "duration_zh": "24小时, 或 直至能量发散",
+        "duration_zh": "24小时, 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -50828,7 +50828,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 339"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久 或 直至能量发散; 直至被释放 或 1d4日+每等级1日; 见文本",
+        "duration_zh": "永久 或 直到能量发散; 直到能量发散 或 1d4日+每等级1日; 见文本",
         "range_zh": "接触",
         "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效"
@@ -50849,7 +50849,7 @@ export const spellsIndex = [
         },
         "source": ["Pathfinder Society Field Guide pg. 58"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久 直至能量发散; 见文本",
+        "duration_zh": "永久 直到能量发散; 见文本",
         "range_zh": "个人"
     },
         {
@@ -51264,7 +51264,7 @@ export const spellsIndex = [
         },
         "source": ["Agents of Evil pg. 31"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级直到生效, 随后1分钟/等级, 见说明",
+        "duration_zh": "1小时/等级直到能量发散, 随后1分钟/等级, 见文本",
         "range_zh": "个人",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "意志, 通过则不相信 (如果产生互动) ; 可变; 见描述"
@@ -53788,7 +53788,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 344"],
         "castingTime_zh": "3轮",
-        "duration_zh": "直至触发 或 损毁",
+        "duration_zh": "直到触发 或 损毁",
         "range_zh": "接触",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -53991,7 +53991,7 @@ export const spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 60"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至吟游表演结束 或 被变更; 见文本",
+        "duration_zh": "1轮/等级 或 直到吟游表演结束 或 被变更; 见文本",
         "range_zh": "近距 (25尺+每2等级5尺)"
     },
         {
@@ -54058,7 +54058,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 193"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散; 见文本",
+        "duration_zh": "1轮/等级 或 直到能量发散; 见文本",
         "range_zh": "15尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半; 见文本"
@@ -54946,7 +54946,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 347"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "直至耗尽 或 10分钟/等级",
+        "duration_zh": "直到耗尽 或 10分钟/等级",
         "range_zh": "个人"
     },
         {
@@ -54961,7 +54961,7 @@ export const spellsIndex = [
         "source": ["Pathfinder #29: Mother of Flies pg. 68"],
         "race": "Asmodeus",
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -54979,7 +54979,7 @@ export const spellsIndex = [
         "source": ["Pathfinder #29: Mother of Flies pg. 67"],
         "race": "Asmodeus",
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -54996,7 +54996,7 @@ export const spellsIndex = [
         "source": ["Pathfinder #29: Mother of Flies pg. 68"],
         "race": "Asmodeus",
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -55116,7 +55116,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 347"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
@@ -55398,7 +55398,7 @@ export const spellsIndex = [
         },
         "source": ["Divine Anthology pg. 13"],
         "castingTime_zh": "1小时",
-        "duration_zh": "24小时, 或 直至能量发散",
+        "duration_zh": "24小时, 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -55560,7 +55560,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 246"],
         "castingTime_zh": "1轮",
-        "duration_zh": "1小时/等级 (可解消) 或 直至能量发散",
+        "duration_zh": "1小时/等级 (可解消) 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -56422,7 +56422,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 245"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "duration_zh": "10分钟/等级 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -56452,7 +56452,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 350"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "duration_zh": "10分钟/等级 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)",
@@ -56495,7 +56495,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 350"],
         "castingTime_zh": "1轮",
-        "duration_zh": "专注 (至多10轮)  (可解消)",
+        "duration_zh": "专注 (至多10轮) (可解消)",
         "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "见文本",
@@ -56752,7 +56752,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 195"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散",
+        "duration_zh": "1轮/等级 或 直到能量发散",
         "range_zh": "个人",
         "spellResistance_zh": "否 和 可; 见文本",
         "savingThrow_zh": "无 和 意志, 通过则无效; 见文本"
@@ -56775,7 +56775,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 194"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散",
+        "duration_zh": "1轮/等级 或 直到能量发散",
         "range_zh": "个人",
         "spellResistance_zh": "否 和 可; 见文本",
         "savingThrow_zh": "无 和 意志, 通过则无效; 见文本"
@@ -56967,7 +56967,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 350"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至完成",
+        "duration_zh": "1小时/等级 或 直到完成",
         "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
@@ -56997,7 +56997,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 350"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至完成",
+        "duration_zh": "1小时/等级 或 直到完成",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效",
@@ -58334,7 +58334,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 354"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至所有射线耗尽",
+        "duration_zh": "1轮/等级 或 直到所有射线耗尽",
         "range_zh": "60尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效 和 反射, 通过则减半; 见文本",
@@ -58375,7 +58375,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 195"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级 (可解消) 或 直至能量发散",
+        "duration_zh": "1分钟/等级 (可解消) 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可 (无害) 和 见文本",
         "savingThrow_zh": "意志, 通过则无效 (无害) 和 见文本"
@@ -58420,7 +58420,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 195"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散",
+        "duration_zh": "1小时/等级 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效; 见文本"
@@ -58507,7 +58507,7 @@ export const spellsIndex = [
         "source": ["Inner Sea Races pg. 223"],
         "race": "Azlanti",
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直到消散 (可解消)",
+        "duration_zh": "10分钟/等级 或 直到能量发散 (可解消)",
         "range_zh": "个人"
     },
         {
@@ -58661,7 +58661,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 226"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至能量发散",
+        "duration_zh": "1小时/等级 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -59761,7 +59761,7 @@ export const spellsIndex = [
         "levels": {"occultist": 3},
         "source": ["Occult Adventures pg. 188"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "1小时/等级 (可解消) 或 直至能量发散",
+        "duration_zh": "1小时/等级 (可解消) 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -60379,7 +60379,7 @@ export const spellsIndex = [
         },
         "source": ["Legacy of the First World pg. 31"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量发散",
+        "duration_zh": "1轮/等级 或 直到能量发散",
         "range_zh": "个人 和 近距 (25尺+每2等级5尺); 见文本",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -60692,7 +60692,7 @@ export const spellsIndex = [
         },
         "source": ["Conquest of Bloodsworn Vale pg. 29"],
         "castingTime_zh": "3轮",
-        "duration_zh": "直至触发 或 损毁",
+        "duration_zh": "直到触发 或 损毁",
         "range_zh": "接触",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -62344,7 +62344,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 362"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1小时/等级 或 直至离开树木; 见文本",
+        "duration_zh": "1小时/等级 或 直到离开树木; 见文本",
         "range_zh": "个人"
     },
         {
@@ -62416,7 +62416,7 @@ export const spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 227"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "永久 直至 触发, 之后 1分钟/等级",
+        "duration_zh": "永久 直到 触发, 之后 1分钟/等级",
         "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信"
@@ -62444,7 +62444,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Guide pg. 197"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1日/等级 或 直至能量发散",
+        "duration_zh": "1日/等级 或 直到能量发散",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
@@ -63087,7 +63087,7 @@ export const spellsIndex = [
             "Pathfinder #5: Sins of the Saviors pg. 61"
         ],
         "castingTime_zh": "10分钟",
-        "duration_zh": "1周/等级 或 直到消解 (可解消)",
+        "duration_zh": "1周/等级 或 直到能量发散 (可解消)",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
@@ -63426,7 +63426,7 @@ export const spellsIndex = [
         },
         "source": ["Disciple's Doctrine pg. 19"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "10分钟/等级 或 直到释放; 见文本",
+        "duration_zh": "10分钟/等级 或 直到能量发散; 见文本",
         "range_zh": "个人",
         "savingThrow_zh": "见文本"
     },
@@ -63578,7 +63578,7 @@ export const spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 245"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级, 立即, 或 直至能量发散; 见文本",
+        "duration_zh": "1分钟/等级, 立即, 或 直到能量发散; 见文本",
         "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效 或 无; 见文本"
@@ -63965,7 +63965,7 @@ export const spellsIndex = [
         },
         "source": ["Pathfinder #140: Eulogy for Roslar's Coffer pg. 73"],
         "castingTime_zh": "1分钟",
-        "duration_zh": "24小时, 或 直至能量发散",
+        "duration_zh": "24小时, 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -64353,7 +64353,7 @@ export const spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 62"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1轮/等级 或 直至能量完全发散; 见文本",
+        "duration_zh": "1轮/等级 或 直到能量完全发散; 见文本",
         "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
@@ -64675,7 +64675,7 @@ export const spellsIndex = [
         },
         "source": ["Inner Sea Gods pg. 245"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟/等级 或 直至能量发散",
+        "duration_zh": "1分钟/等级 或 直到能量发散",
         "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
@@ -64747,7 +64747,7 @@ export const spellsIndex = [
         },
         "source": ["Orcs of Golarion pg. 28"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1分钟 或 直至能量发散",
+        "duration_zh": "1分钟 或 直到能量发散",
         "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -64869,7 +64869,7 @@ export const spellsIndex = [
         },
         "source": ["Inner Sea Intrigue pg. 63"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "1天 或 直到被释放",
+        "duration_zh": "1天 或 直到能量发散",
         "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
@@ -65103,7 +65103,7 @@ export const spellsIndex = [
         },
         "source": ["Divine Anthology pg. 13"],
         "castingTime_zh": "1小时",
-        "duration_zh": "24小时, 或 直至能量发散",
+        "duration_zh": "24小时, 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -65121,7 +65121,7 @@ export const spellsIndex = [
         },
         "source": ["Divine Anthology pg. 14"],
         "castingTime_zh": "1小时",
-        "duration_zh": "24小时, 或 直至能量发散",
+        "duration_zh": "24小时, 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -66313,7 +66313,7 @@ export const spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 199"],
         "castingTime_zh": "直觉动作",
-        "duration_zh": "1轮 或 直至能量发散",
+        "duration_zh": "1轮 或 直到能量发散",
         "range_zh": "个人"
     },
         {
@@ -66776,7 +66776,7 @@ export const spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 369"],
         "castingTime_zh": "标准动作",
-        "duration_zh": "不超过1小时/等级 或 者直至能量发散 (持续时间结束)",
+        "duration_zh": "不超过1小时/等级 或 者直到能量发散 (持续时间结束)",
         "range_zh": "每等级1里",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
@@ -67293,7 +67293,7 @@ export const spellsIndex = [
         },
         "source": ["Wilderness Origins pg. 13"],
         "castingTime_zh": "10分钟",
-        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "duration_zh": "永久, 直到能量发散 (可解消)",
         "range_zh": "0尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"

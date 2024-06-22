@@ -14,6 +14,6 @@
     "name_zh": "神圣武器技法",
     "text_zh": "你学习了某一神祇所用的偏好武器的格斗技巧。",
     "prerequisites_zh": "与所选神祇阵营相同。",
-    "benefit_zh": "选择一个神祇，你可以按照你已经达到的先决条件获得使用该神祇的<a href=\"/pathfinder/pages/divine_weapon_technique.html\">武器技法<\/a>的好处，如同以下列出的神圣武器技法所示。",
+    "benefit_zh": "选择一个神祇，你可以按照你已经达到的先决条件获得使用该神祇的<a href=\"pages/divine_weapon_technique.html\">武器技法<\/a>的好处，如同以下列出的神圣武器技法所示。",
     "normal_zh": "你可以多次选择本专长，每次选择本专长时，它必须属于一个新的神祇的神圣武器技法。"
 }
