@@ -22,12 +22,12 @@
     "target": "you",
     "duration": "1 minute/level or until discharged; see text",
     "text": "While this spell is active, you may reroll one attack roll, combat maneuver check, or skill check before the result of the roll or check is known. You must take the result of the reroll, even if it’s worse than the original roll. Once the reroll is used, the spell ends. You can have no more than one <i>fallback strategy <\/i>active on you at the same time.",
-    "name_zh": "转进战略",
+    "name_zh": "转进战术",
     "race_zh": "托拉格",
     "castingTime_zh": "标准动作",
-    "components_zh": "语言、姿势、法器",
+    "components_zh": "语言，姿势，法器",
     "range_zh": "个人",
-    "target_zh": "自己",
-    "duration_zh": "10分钟/等级 或 直到释放; 见文本",
-    "text_zh": "<p>你可以重投一个你刚刚进行而GM还没宣布该次投骰结果是成功或失败的一次投骰。你必须接受重投的结果，就算它比原先的更糟。本法术只能用在你有计划(就算只是一瞬间)并且决定依计行事的行动上，因为其他人的行动所做出的反应行动(reactive actions)不算。<\/p><p>你在任何时间只能拥有此法术一次在身上。<\/p>"
+    "target_zh": "你",
+    "duration_zh": "1分钟/等级 或 直到能量发散; 见文本",
+    "text_zh": "<p>当这个法术被激活时，你可以重投一个攻击检定，战技攻击检定或技能检定。重投的检定必须在检定结果得出之前作出，你必须选择第二次投骰的结果，即使它的结果更糟。一旦你使用这次重投机会，这个法术的效果就消解了。你无法同时启动多于一个转进战术的效果。<\/p>"
 }
