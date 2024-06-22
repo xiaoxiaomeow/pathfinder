@@ -1,0 +1,29 @@
+<svg id='Plus_24' width='24' height='24' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <rect width='24' height='24' stroke='none' fill='#000000' opacity='0' />
+    <g transform="matrix(0.5 0 0 0.5 12 12)">
+        <g style="">
+            <g transform="matrix(1 0 0 1 0 0)">
+                <path
+                    style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(152,204,253); fill-rule: nonzero; opacity: 1;"
+                    transform=" translate(-20, -20)"
+                    d="M 20 38.5 C 9.799 38.5 1.5 30.201 1.5 20 C 1.5 9.799 9.799 1.5 20 1.5 C 30.201 1.5 38.5 9.799 38.5 20 C 38.5 30.201 30.201 38.5 20 38.5 z"
+                    stroke-linecap="round" />
+            </g>
+            <g transform="matrix(1 0 0 1 0 0)">
+                <path
+                    style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(71,136,199); fill-rule: nonzero; opacity: 1;"
+                    transform=" translate(-20, -20)"
+                    d="M 20 2 C 29.925 2 38 10.075 38 20 C 38 29.925 29.925 38 20 38 C 10.075 38 2 29.925 2 20 C 2 10.075 10.075 2 20 2 M 20 1 C 9.507 1 1 9.507 1 20 C 1 30.493000000000002 9.507 39 20 39 C 30.493000000000002 39 39 30.493000000000002 39 20 C 39 9.506999999999998 30.493 1 20 1 L 20 1 z"
+                    stroke-linecap="round" />
+            </g>
+            <g transform="matrix(1 0 0 1 0 0)">
+                <path
+                    style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"
+                    transform=" translate(-20, -20)"
+                    d="M 30 18 L 22 18 L 22 10 L 18 10 L 18 18 L 10 18 L 10 22 L 18 22 L 18 30 L 22 30 L 22 22 L 30 22 z"
+                    stroke-linecap="round" />
+            </g>
+        </g>
+    </g>
+</svg>
