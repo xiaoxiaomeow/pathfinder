@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpathfinder=self.webpackChunkpathfinder||[]).push([[401],{6365:(e,n,t)=>{t.d(n,{A:()=>p});t(6540);var s=t(3028),a=t(4741),c=t(4848);const p={...s.A,table:function(e){return(0,c.jsx)(a.A,{icon:"",...e,type:"note"})}}}}]);
