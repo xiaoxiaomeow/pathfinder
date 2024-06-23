@@ -1,7 +1,8 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import D6 from '@site/static/img/d6.svg';
 import Plus from '@site/static/img/plus.svg';
 import Minus from '@site/static/img/minus.svg';
+import Refresh from '@site/static/img/refresh.svg';
 import Admonition from '@theme/Admonition';
 
 function d(n) {
@@ -53,7 +54,7 @@ export default function Roll({ method, title, initial }) {
 						sum += dices[j];
 					}
 					abilities[i] = sum;
-					texts += "2d6+6 = {" + dices + "} = " + sum + "\n";
+					texts += "2d6+6 = {" + dices + "}+6 = " + sum + "\n";
 				}
 			}
 			abilities.sort((a, b) => (b - a));
@@ -67,41 +68,103 @@ export default function Roll({ method, title, initial }) {
 			</React.Fragment>
 		))}</Admonition>);
 	} else if (method == "dice_pool") {
-		let [content, setContent] = useState(initial);
 		let abilities = ['力量', '敏捷', '体质', '智力', '感知', '魅力'];
 		let abilityLines = [];
-		let counts = []
+		let counts = [];
+		let results = [];
+		let setResults = [];
 		let [totalCount, setTotalCount] = useState(18);
-		let calculate = (offset) => {
-			let sum = 0;
-			for (let i in counts) {
-				sum += counts[i];
+		let handleClick = () => {
+			for (let i in results) {
+				let dices = [];
+				let sortedDices = [];
+				for (let j = 0; j < counts[i]; j++) {
+					dices[j] = d(6);
+					sortedDices[j] = dices[j];
+				}
+				sortedDices.sort((a, b) => (b - a));
+				let sum = 0;
+				for (let j = 0; j < 3; j++) {
+					sum += sortedDices[j];
+				}
+				setResults[i]("k3 = {" + dices + "}k3 = " + sum);
 			}
-			setTotalCount(sum + offset);
-		}
+		};
 		for (let i in abilities) {
 			let [count, setCount] = useState(3);
+			let [result, setResult] = useState("");
 			counts[i] = count;
+			results[i] = result;
+			setResults[i] = setResult;
 			let increase = () => {
-				if (totalCount < 24) {
+				if (totalCount < 28) {
 					setCount(count + 1);
-					calculate(1);
 				}
 			}
 			let decrease = () => {
 				if (count > 3) {
 					setCount(count - 1);
-					calculate(-1);
 				}
 			}
-			abilityLines[i] = <div>
+			useEffect(() => {
+				let sum = 0;
+				for (let i in counts) {
+					sum += counts[i];
+				}
+				setTotalCount(sum);
+				for (let i in results) {
+					setResults[i]("");
+				}
+			}, [count]);
+			abilityLines[i] = <div key={i}>
 				{abilities[i]}：
 				<Minus onClick={decrease} style={{ verticalAlign: 'middle', paddingBottom: 2 }} />
 				{count}d6
 				<Plus onClick={increase} style={{ verticalAlign: 'middle', paddingBottom: 2 }} />
+				{result}
 			</div>
 		}
-		let handleClick = () => { };
-		return (<Admonition icon={<D6 onClick={handleClick} />} type="info" title={title}><div>骰池：{totalCount}d6/24d6</div>{abilityLines}</Admonition>);
+		return (<Admonition icon={<D6 onClick={handleClick} />} type="info" title={title}><div>骰池：{totalCount}/24(28)</div>{abilityLines}</Admonition>);
+	} else if (method == "purchase") {
+		let abilities = ['力量', '敏捷', '体质', '智力', '感知', '魅力'];
+		let abilityLines = [];
+		let counts = [];
+		let setCounts = [];
+		let [totalCount, setTotalCount] = useState(0);
+		let costs = { '7': -4, '8': -2, '9': -1, '10': 0, '11': 1, '12': 2, '13': 3, '14': 5, '15': 7, '16': 10, '17': 13, '18': 17 };
+		let handleClick = () => {
+			for (let i in abilities) {
+				setCounts[i](10);
+			}
+		};
+		for (let i in abilities) {
+			let [count, setCount] = useState(10);
+			counts[i] = count;
+			setCounts[i] = setCount;
+			let increase = () => {
+				if (count < 18) {
+					setCount(count + 1);
+				}
+			}
+			let decrease = () => {
+				if (count > 7) {
+					setCount(count - 1);
+				}
+			}
+			useEffect(() => {
+				let sum = 0;
+				for (let i in counts) {
+					sum += costs[counts[i]];
+				}
+				setTotalCount(sum);
+			}, [count]);
+			abilityLines[i] = <div key={i}>
+				{abilities[i]}：
+				<Minus onClick={decrease} style={{ verticalAlign: 'middle', paddingBottom: 2 }} />
+				<span style={{ width: 'calc(2ch)', display: 'inline-block', textAlign: 'right' }}>{count}</span>
+				<Plus onClick={increase} style={{ verticalAlign: 'middle', paddingBottom: 2 }} />
+			</div>
+		}
+		return (<Admonition icon={<Refresh onClick={handleClick} />} type="info" title={title}><div>已花费点数：{totalCount}</div>{abilityLines}</Admonition>);
 	}
 }
