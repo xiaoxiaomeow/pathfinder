@@ -204,7 +204,7 @@ function getLevels(sp) {
 	return levelsString.substring(0, levelsString.length - 1);
 }
 function addBoxes(dict, element, array, nonempty = false, check = true, sort = true, other = false) {
-	element.innerHTML = "";
+	if (element.loaded) return;
 
 	let boxAll = document.createElement("div");
 	boxAll.style = "display: flex; ";
@@ -278,6 +278,7 @@ function addBoxes(dict, element, array, nonempty = false, check = true, sort = t
 		element.appendChild(boxOther);
 	}
 
+	element.loaded = true;
 }
 var schoolBoxes = [];
 var subSchoolsBoxes = [];

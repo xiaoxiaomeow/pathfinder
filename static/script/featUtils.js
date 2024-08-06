@@ -192,7 +192,7 @@ function loadUrlFeat() {
     });
 }
 function addBoxes(dict, element, array, nonempty = false, check = true, sort = true, extra = null) {
-	element.innerHTML = "";
+	if (element.loaded) return;
 	
     let boxAll = document.createElement("div");
     boxAll.style = "display: flex; ";
@@ -271,6 +271,7 @@ function addBoxes(dict, element, array, nonempty = false, check = true, sort = t
         element.appendChild(box);
     }
 
+	element.loaded = true;
 }
 var descriptorsBoxes = [];
 var sourceBoxes = [];
