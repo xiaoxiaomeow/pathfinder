@@ -68,7 +68,7 @@ const config = {
 				routeBasePath: 'core_rulebook',
 				sidebarPath: require.resolve('./sidebars/sidebar_core_rulebook.js'),
 				admonitions: {
-					keywords: ['note', 'tip', 'info', 'warning', 'danger', 'table', 'origin'],
+					keywords: ['note', 'tip', 'info', 'warning', 'danger', 'table', 'origin', 'progress'],
 					extendDefaults: true
 				}
 			},
