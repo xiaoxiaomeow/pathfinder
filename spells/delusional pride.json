@@ -28,7 +28,7 @@
     "duration": "1 minute",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "The target becomes so distracted by an overblown sense of its worth that it takes a –2 penalty on attacks and skill checks. However, this feeling also gives the target a +2 morale bonus on saves against charm and compulsion effects.",
+    "text": "The target becomes so distracted by an overblown sense of its worth that it takes a -2 penalty on attacks and skill checks. However, this feeling also gives the target a +2 morale bonus on saves against charm and compulsion effects.",
     "name_zh": "妄尊自大",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",

@@ -17,7 +17,7 @@
     "range": "personal",
     "target": "you",
     "duration": "1 round/level (D)",
-    "text": "You mimic tugging at the Green Mother’s legendary Tangled Knot to subtly alter your fate. The next single attack made against you takes a –10 penalty. If that attack is a critical hit, it is instead treated as a normal hit.",
+    "text": "You mimic tugging at the Green Mother’s legendary Tangled Knot to subtly alter your fate. The next single attack made against you takes a -10 penalty. If that attack is a critical hit, it is instead treated as a normal hit.",
     "name_zh": "纠缠之结",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势，材料/法器（一个小小的绳结）",

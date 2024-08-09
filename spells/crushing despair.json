@@ -29,7 +29,7 @@
     "duration": "1 min./level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "An invisible cone of despair causes great sadness in the subjects. Each affected creature takes a –2 penalty on attack rolls, saving throws, ability checks, skill checks, and weapon damage rolls.<br><br><i>Crushing despair<\/i> counters and dispels <i>good hope<\/i>.",
+    "text": "An invisible cone of despair causes great sadness in the subjects. Each affected creature takes a -2 penalty on attack rolls, saving throws, ability checks, skill checks, and weapon damage rolls.<br><br><i>Crushing despair<\/i> counters and dispels <i>good hope<\/i>.",
     "name_zh": "极度绝望",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料",

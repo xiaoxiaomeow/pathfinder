@@ -19,7 +19,7 @@
     "range": "personal",
     "target": "you",
     "duration": "1 minute/level",
-    "text": "You automatically detect and locate conscious creatures within 60 feet, as if you possessed the blindsight ability. <i>Nondetection<\/i>, <i>mind blank<\/i>, and similar effects can block this effect. <i>Thoughtsense<\/i> can distinguish between sentient (Intelligence 3 or greater) and non-sentient (Intelligence 1–2) creatures, but otherwise provides no information about the creatures it detects.",
+    "text": "You automatically detect and locate conscious creatures within 60 feet, as if you possessed the blindsight ability. <i>Nondetection<\/i>, <i>mind blank<\/i>, and similar effects can block this effect. <i>Thoughtsense<\/i> can distinguish between sentient (Intelligence 3 or greater) and non-sentient (Intelligence 1-2) creatures, but otherwise provides no information about the creatures it detects.",
     "name_zh": "感知思维",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，材料（少量干瘪的脑组织）",

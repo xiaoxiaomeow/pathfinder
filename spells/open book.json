@@ -24,7 +24,7 @@
     "duration": "permanent",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "You lay bare not only the mind of a target, but the target’s history as well. The target takes a –2 penalty on saving throws against divinations, and Diplomacy checks to gather information about the target gain a bonus equal to half your caster level (maximum +10).",
+    "text": "You lay bare not only the mind of a target, but the target’s history as well. The target takes a -2 penalty on saving throws against divinations, and Diplomacy checks to gather information about the target gain a bonus equal to half your caster level (maximum +10).",
     "name_zh": "私密全无",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（从书上扯下的1张书页）",

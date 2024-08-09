@@ -9,7 +9,7 @@
     "source": ["Dragonslayer's Handbook pg. 25"],
     "text": "Your critical hits weaken your opponents’ defenses.",
     "prerequisites": "Critical Focus, base attack bonus +11.",
-    "benefit": "Whenever you score a critical hit, your opponent takes a –1 penalty to its natural armor bonus for the duration of the encounter. This penalty is cumulative, but cannot reduce an opponent’s natural armor bonus below 0.",
+    "benefit": "Whenever you score a critical hit, your opponent takes a -1 penalty to its natural armor bonus for the duration of the encounter. This penalty is cumulative, but cannot reduce an opponent’s natural armor bonus below 0.",
     "prerequisiteKeys": ["critical focus"],
     "name_zh": "剥皮重击",
     "prerequisites_zh": "重击专攻，BAB+11。",

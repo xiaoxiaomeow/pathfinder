@@ -17,7 +17,7 @@
     "duration": "1 round/level",
     "savingThrow": "Fortitude partial",
     "spellResistance": "yes",
-    "text": "<i>Retribution <\/i>blasts those who have the temerity to assault your person. You may target anyone who has just struck you with an attack within the previous round, whether with a melee, ranged, or natural weapon, or a spell that requires an attack roll. The target is wracked with shooting pains that impose a –4 penalty on attack rolls, skills checks, and ability checks. On a successful Fortitude save, the penalty only lasts for 1 round. A target who worships the same god as you takes a –2 penalty on its saving throw.",
+    "text": "<i>Retribution <\/i>blasts those who have the temerity to assault your person. You may target anyone who has just struck you with an attack within the previous round, whether with a melee, ranged, or natural weapon, or a spell that requires an attack roll. The target is wracked with shooting pains that impose a -4 penalty on attack rolls, skills checks, and ability checks. On a successful Fortitude save, the penalty only lasts for 1 round. A target who worships the same god as you takes a -2 penalty on its saving throw.",
     "name_zh": "惩戒",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",

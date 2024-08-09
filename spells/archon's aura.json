@@ -22,7 +22,7 @@
     "duration": "1 minute/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "You gain a powerful aura, similar to an archon’s aura of menace. Any hostile creature within a 20-foot radius of you must make a Will save to resist the effects of this aura. If the creature fails, it takes a –2 penalty on attack rolls and saving throws and to Armor Class for the duration of this spell, or until it successfully hits you with an attack. A creature that has resisted or broken the effect cannot be affected again by this particular casting of <i>archon’s aura<\/i>.",
+    "text": "You gain a powerful aura, similar to an archon’s aura of menace. Any hostile creature within a 20-foot radius of you must make a Will save to resist the effects of this aura. If the creature fails, it takes a -2 penalty on attack rolls and saving throws and to Armor Class for the duration of this spell, or until it successfully hits you with an attack. A creature that has resisted or broken the effect cannot be affected again by this particular casting of <i>archon’s aura<\/i>.",
     "name_zh": "亚空灵气",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",

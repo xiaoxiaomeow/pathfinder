@@ -5,7 +5,7 @@
     "source": ["Blood of Fiends pg. 25"],
     "text": "Your fiendish visage has made you a truly terrifying spectacle to behold, and you can force others to betray their feelings with a single look.",
     "prerequisites": "Cha 13, Monstrous Mask, tiefling.",
-    "benefit": "Anytime you can make a Sense Motive check to get a hunch or detect whether someone is trustworthy or not, you can choose to instead make an Intimidate check at a –2 penalty. This ability only works on creatures of the humanoid type.",
+    "benefit": "Anytime you can make a Sense Motive check to get a hunch or detect whether someone is trustworthy or not, you can choose to instead make an Intimidate check at a -2 penalty. This ability only works on creatures of the humanoid type.",
     "prerequisiteKeys": ["monstrous mask"],
     "name_zh": "骇人面容",
     "text_zh": "你的炼狱面容使你成为了真正可怖的景象，仅仅四目相交就能迫使他人泄露自己的本心。",

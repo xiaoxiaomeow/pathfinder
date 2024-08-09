@@ -9,7 +9,7 @@
     "normal": "A character without this feat can make only one attack of opportunity per round and can't make attacks of opportunity while flat-footed.",
     "special": "The Combat Reflexes feat does not allow a rogue to use her opportunist ability more than once per round.",
     "staminaSource": "Pathfinder Unchained pg. 115",
-    "staminaText": "When you miss with an attack of opportunity, you can spend 5 stamina points to make a second attack for the same provoking action. That second attack of opportunity takes a –5 penalty on the attack roll and costs one of your attacks of opportunity for the round.",
+    "staminaText": "When you miss with an attack of opportunity, you can spend 5 stamina points to make a second attack for the same provoking action. That second attack of opportunity takes a -5 penalty on the attack roll and costs one of your attacks of opportunity for the round.",
     "mythicSource": "Mythic Adventures pg. 61",
     "mythicText": "You strike viciously whenever your foe gives you an opening.",
     "mythicPrerequisites": "Combat Reflexes.",

@@ -29,7 +29,7 @@
     "duration": "1 round/level",
     "savingThrow": "Will partial, see text",
     "spellResistance": "yes",
-    "text": "You telepathically wrack the target’s mind and body with agonizing pain that imposes a –4 penalty on attack rolls, skill checks, and ability checks. A successful Will save reduces the duration to 1 round.",
+    "text": "You telepathically wrack the target’s mind and body with agonizing pain that imposes a -4 penalty on attack rolls, skill checks, and ability checks. A successful Will save reduces the duration to 1 round.",
     "name_zh": "苦痛刑罚",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",

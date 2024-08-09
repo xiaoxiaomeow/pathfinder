@@ -28,7 +28,7 @@
     "duration": "1 minute/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "You badger and nitpick the subject of your spell until its mood sours. The target’s attitude shifts one category toward hostile regarding you and everyone within 30 feet of the target at the time the spell is cast. The target also takes a –2 penalty on attack rolls, on saving throws, and on ability and skill checks that rely on Intelligence, Wisdom, or Charisma.",
+    "text": "You badger and nitpick the subject of your spell until its mood sours. The target’s attitude shifts one category toward hostile regarding you and everyone within 30 feet of the target at the time the spell is cast. The target also takes a -2 penalty on attack rolls, on saving throws, and on ability and skill checks that rely on Intelligence, Wisdom, or Charisma.",
     "name_zh": "诘问术",
     "castingTime_zh": "标准动作",
     "components_zh": "言语，姿势，材料（一颗番茄）",

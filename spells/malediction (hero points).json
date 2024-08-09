@@ -22,7 +22,7 @@
     "duration": "instantaneous/1 minute per HD of the target; see text",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "You utter a dire curse over the body of a dying creature, allowing you to consume its waning life force. Upon casting this spell, you touch a living creature that has –1 or fewer hit points. If the target fails its saving throw, it dies and you gain 1 hero point for every 5 Hit Dice possessed by the target (minimum 1, maximum 3). These hero points last for a number of minutes equal to the target’s Hit Dice. Any hero points remaining when this spell ends are lost.",
+    "text": "You utter a dire curse over the body of a dying creature, allowing you to consume its waning life force. Upon casting this spell, you touch a living creature that has -1 or fewer hit points. If the target fails its saving throw, it dies and you gain 1 hero point for every 5 Hit Dice possessed by the target (minimum 1, maximum 3). These hero points last for a number of minutes equal to the target’s Hit Dice. Any hero points remaining when this spell ends are lost.",
     "name_zh": "恶意中伤",
     "castingTime_zh": "标准动作",
     "range_zh": "接触",

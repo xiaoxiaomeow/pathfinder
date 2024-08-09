@@ -31,7 +31,7 @@
     "duration": "1 minute/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "A sense of euphoria suffuses the target, amplifying all sensations, good or bad. The target creature gains a +2 competence bonus on Diplomacy, Handle Animal, Perform, and Sense Motive checks. In addition, the DC for any spells or effects with the emotion or pain descriptors cast or caused by the target increases by 1 while the target is under the effects of the spell. However, increased sensitivity causes the target to take a –2 penalty on saving throws against spells and effects with the emotion or pain descriptor.",
+    "text": "A sense of euphoria suffuses the target, amplifying all sensations, good or bad. The target creature gains a +2 competence bonus on Diplomacy, Handle Animal, Perform, and Sense Motive checks. In addition, the DC for any spells or effects with the emotion or pain descriptors cast or caused by the target increases by 1 while the target is under the effects of the spell. However, increased sensitivity causes the target to take a -2 penalty on saving throws against spells and effects with the emotion or pain descriptor.",
     "name_zh": "强化精神",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",

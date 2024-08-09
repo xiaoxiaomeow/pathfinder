@@ -26,7 +26,7 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates (see text)",
     "spellResistance": "yes",
-    "text": "You cause a single opponent to become profoundly stricken with intense grief. He can take no actions, takes a –2 penalty to Armor Class, and loses his Dexterity bonus (if any). He can attempt a new save each round to break the spell’s effect.",
+    "text": "You cause a single opponent to become profoundly stricken with intense grief. He can take no actions, takes a -2 penalty to Armor Class, and loses his Dexterity bonus (if any). He can attempt a new save each round to break the spell’s effect.",
     "name_zh": "无尽悲痛",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",

@@ -19,7 +19,7 @@
     "duration": "2 hours/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "This spell sanctifies an area with heavenly power. The DC to resist spells or spell-like abilities with the good descriptor or channeled energy that damages evil outsiders (as when using Alignment Channel) increases by +2. In addition, evil outsiders take a –1 penalty on attack rolls, damage rolls, and saving throws, and they cannot be called or summoned into a <i>sacred space<\/i>. If the <i>sacred space <\/i>contains an altar, shrine, or other permanent fixture dedicated to your deity, pantheon, or good-aligned higher power, the modifiers given above are doubled. You cannot cast <i>sacred space <\/i>in an area with a permanent fixture dedicated to a deity other than yours.",
+    "text": "This spell sanctifies an area with heavenly power. The DC to resist spells or spell-like abilities with the good descriptor or channeled energy that damages evil outsiders (as when using Alignment Channel) increases by +2. In addition, evil outsiders take a -1 penalty on attack rolls, damage rolls, and saving throws, and they cannot be called or summoned into a <i>sacred space<\/i>. If the <i>sacred space <\/i>contains an altar, shrine, or other permanent fixture dedicated to your deity, pantheon, or good-aligned higher power, the modifiers given above are doubled. You cannot cast <i>sacred space <\/i>in an area with a permanent fixture dedicated to a deity other than yours.",
     "name_zh": "神圣空间",
     "race_zh": "神裔",
     "castingTime_zh": "标准动作",

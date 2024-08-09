@@ -14,7 +14,7 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "You implant a minor suggestion within the target creature’s psyche that makes it less inclined to resist mental intrusion. The target creature takes a –2 penalty on Will saves against all mind-affecting spells and effects for the duration of the spell.",
+    "text": "You implant a minor suggestion within the target creature’s psyche that makes it less inclined to resist mental intrusion. The target creature takes a -2 penalty on Will saves against all mind-affecting spells and effects for the duration of the spell.",
     "name_zh": "精神蛀虫 I",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势",

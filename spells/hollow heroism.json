@@ -32,7 +32,7 @@
     "duration": "10 minutes/level (D)",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "This spell functions as <i>heroism<\/i>, except that you can reverse the spell by issuing a special command as a standard action if you are within medium range (100 feet + 10 feet per caster level) of the target. The target loses the bonuses and instead takes a –2 penalty on attack rolls, saving throws, and skill checks until the spell’s duration ends (no save).<br><br> Attempts to identify <i>hollow heroism<\/i> with a skill check incorrectly identify it as <i>heroism<\/i>.",
+    "text": "This spell functions as <i>heroism<\/i>, except that you can reverse the spell by issuing a special command as a standard action if you are within medium range (100 feet + 10 feet per caster level) of the target. The target loses the bonuses and instead takes a -2 penalty on attack rolls, saving throws, and skill checks until the spell’s duration ends (no save).<br><br> Attempts to identify <i>hollow heroism<\/i> with a skill check incorrectly identify it as <i>heroism<\/i>.",
     "name_zh": "虚伪气度",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",

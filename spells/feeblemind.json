@@ -23,7 +23,7 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "Target creature's Intelligence and Charisma scores each drop to 1. The affected creature is unable to use Intelligence- or Charisma-based skills, cast spells, understand language, or communicate coherently. Still, it knows who its friends are and can follow them and even protect them. The subject remains in this state until a <i>heal<\/i>, <i>limited wish<\/i>, <i>miracle<\/i>, or <i>wish<\/i> spell is used to cancel the effect of the <i>feeblemind<\/i>. A creature that can cast arcane spells, such as a sorcerer or a wizard, takes a –4 penalty on its saving throw.",
+    "text": "Target creature's Intelligence and Charisma scores each drop to 1. The affected creature is unable to use Intelligence- or Charisma-based skills, cast spells, understand language, or communicate coherently. Still, it knows who its friends are and can follow them and even protect them. The subject remains in this state until a <i>heal<\/i>, <i>limited wish<\/i>, <i>miracle<\/i>, or <i>wish<\/i> spell is used to cancel the effect of the <i>feeblemind<\/i>. A creature that can cast arcane spells, such as a sorcerer or a wizard, takes a -4 penalty on its saving throw.",
     "name_zh": "弱智术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一把粘土、水晶或玻璃球)",

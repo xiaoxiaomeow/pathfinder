@@ -23,7 +23,7 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "The target immediately becomes addicted to the drug used as the material component during the casting of the spell. If the target was ever addicted to the drug at any point in the past, it takes a –4 penalty on its saving throw.",
+    "text": "The target immediately becomes addicted to the drug used as the material component during the casting of the spell. If the target was ever addicted to the drug at any point in the past, it takes a -4 penalty on its saving throw.",
     "name_zh": "瘾入骨髓",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料 (一剂量的成瘾毒品或物质)",

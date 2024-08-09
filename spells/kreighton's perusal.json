@@ -22,7 +22,7 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (harmless, object)",
     "spellResistance": "yes (harmless, object)",
-    "text": "You gain a brief but incomplete understanding of one book’s contents, equivalent to having skimmed its pages for 1 hour. This insight is not sufficient to translate unknown languages, decipher codes, or memorize text, but it does allow the caster to learn what topics the book discusses— invaluable to a Pathfinder who must make a snap decision when performing research or deciding whether or not to abscond with a volume. In addition, you instantly benefit from any bonuses or effects the book would normally grant to anyone who reads it for 1 hour (such as the bonuses gained from reading volumes of the <i>Pathfinder Chronicles<\/i>; see pages 26–27).",
+    "text": "You gain a brief but incomplete understanding of one book’s contents, equivalent to having skimmed its pages for 1 hour. This insight is not sufficient to translate unknown languages, decipher codes, or memorize text, but it does allow the caster to learn what topics the book discusses— invaluable to a Pathfinder who must make a snap decision when performing research or deciding whether or not to abscond with a volume. In addition, you instantly benefit from any bonuses or effects the book would normally grant to anyone who reads it for 1 hour (such as the bonuses gained from reading volumes of the <i>Pathfinder Chronicles<\/i>; see pages 26-27).",
     "name_zh": "奎通精读术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",

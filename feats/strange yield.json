@@ -5,7 +5,7 @@
     "source": ["Legacy of the First World pg. 8"],
     "text": "Your vines produce fruit with helpful properties.",
     "prerequisites": "Craft (alchemy) 5 ranks, gathlain, racial fly speed.",
-    "benefit": "Your vines produce fruit with helpful properties. Once per day as a full-round action, you can withdraw a small fruit from your symbiotic vines. Roll d% to determine a Common Potion or Oil on Table 7–17: 1st-Level Potions and Oils on page 371 of <i>Pathfinder RPG Ultimate Equipment<\/i>; the fruit functions as the result of that roll. After 24 hours, the fruit loses its magic.",
+    "benefit": "Your vines produce fruit with helpful properties. Once per day as a full-round action, you can withdraw a small fruit from your symbiotic vines. Roll d% to determine a Common Potion or Oil on Table 7-17: 1st-Level Potions and Oils on page 371 of <i>Pathfinder RPG Ultimate Equipment<\/i>; the fruit functions as the result of that roll. After 24 hours, the fruit loses its magic.",
     "name_zh": "奇妙收益",
     "text_zh": "你的藤蔓可以产出拥有有益功效的水果。",
     "prerequisites_zh": "工艺（炼金）5级，伽瑟兰，种族飞行速度。",

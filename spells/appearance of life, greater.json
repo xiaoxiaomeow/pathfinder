@@ -25,7 +25,7 @@
     "duration": "1 hour/level",
     "savingThrow": "Will disbelief or Will negates (see text)",
     "spellResistance": "no",
-    "text": "This spell functions as <i>appearance of life<\/i> (<i>Pathfinder RPG Horror Adventures<\/i> 108), except that you can disguise a single undead creature regardless of its number of Hit Dice, and the illusion also creates relevant smells, sounds, textures, and temperatures to match the appearance. If you disguise the target as a living version of itself, creatures that interact with the target take a –5 penalty on their Will saving throws to disbelieve the illusion, though if the target attacks a creature, the attacked creature no longer takes this penalty.",
+    "text": "This spell functions as <i>appearance of life<\/i> (<i>Pathfinder RPG Horror Adventures<\/i> 108), except that you can disguise a single undead creature regardless of its number of Hit Dice, and the illusion also creates relevant smells, sounds, textures, and temperatures to match the appearance. If you disguise the target as a living version of itself, creatures that interact with the target take a -5 penalty on their Will saving throws to disbelieve the illusion, though if the target attacks a creature, the attacked creature no longer takes this penalty.",
     "name_zh": "高等鲜活外观",
     "castingTime_zh": "1轮",
     "range_zh": "接触",

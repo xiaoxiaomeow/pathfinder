@@ -26,7 +26,7 @@
     "duration": "1 hour/level (D)",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "You curse the target with a distracting, unbearable itch. Unless the target scratches as a move action, it takes a –1 penalty on attack rolls, saving throws, skill checks, and ability checks.",
+    "text": "You curse the target with a distracting, unbearable itch. Unless the target scratches as a move action, it takes a -1 penalty on attack rolls, saving throws, skill checks, and ability checks.",
     "name_zh": "痕痒诅咒",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",

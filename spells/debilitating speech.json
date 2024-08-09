@@ -20,7 +20,7 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "By speaking eloquently on the subject of your opponents’ ineptitude in combat, past failures, personal hygiene, or other faults, you sap their will to fight.<br><br> This spell can be cast as a standard action or as a full-round action. If cast as a standard action, it takes effect in 1d4 rounds following the spell’s casting. If cast as a full-round action, it takes effect 1 round after its casting. Enemies with 4 Hit Dice or fewer are panicked, enemies with 5–8 Hit Dice are cowering, and enemies with more than 8 Hit Dice are shaken.",
+    "text": "By speaking eloquently on the subject of your opponents’ ineptitude in combat, past failures, personal hygiene, or other faults, you sap their will to fight.<br><br> This spell can be cast as a standard action or as a full-round action. If cast as a standard action, it takes effect in 1d4 rounds following the spell’s casting. If cast as a full-round action, it takes effect 1 round after its casting. Enemies with 4 Hit Dice or fewer are panicked, enemies with 5-8 Hit Dice are cowering, and enemies with more than 8 Hit Dice are shaken.",
     "name_zh": "衰弱之言",
     "castingTime_zh": "见文本",
     "components_zh": "言语，姿势",

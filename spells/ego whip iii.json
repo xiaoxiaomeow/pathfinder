@@ -18,7 +18,7 @@
     "duration": "1 round/level",
     "savingThrow": "Will partial",
     "spellResistance": "yes",
-    "text": "This functions as <i>ego whip I<\/i>, but the target takes a –6 penalty to the chosen ability score and is staggered for 1d6 rounds on a failed Will save. This spell can be undercast.",
+    "text": "This functions as <i>ego whip I<\/i>, but the target takes a -6 penalty to the chosen ability score and is staggered for 1d6 rounds on a failed Will save. This spell can be undercast.",
     "name_zh": "自性鞭笞 III",
     "castingTime_zh": "标准动作",
     "range_zh": "近距 (25尺+每2等级5尺)",

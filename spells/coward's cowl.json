@@ -28,7 +28,7 @@
     "duration": "1 minute/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "no",
-    "text": "You imbue the target with a compulsion to avoid threats, enhancing its defensive instincts. So long as the affected creature does not move closer to enemies during its turn, or moves at least 5 feet away from adjacent enemies, it gains a +1 morale bonus to its AC, and a +1 morale bonus on saves and on attack rolls made as readied actions and attacks of opportunity. Alternatively, if the affected creature does not close with its enemies, it can increase the DC of all spells it casts as part of a readied action by 1. If the subject of the spell willingly moves toward a threatening creature, the spell immediately ends.<br><br> While affected by <i>coward’s cowl<\/i>, a creature takes a –2 penalty on all saving throws against fear effects.",
+    "text": "You imbue the target with a compulsion to avoid threats, enhancing its defensive instincts. So long as the affected creature does not move closer to enemies during its turn, or moves at least 5 feet away from adjacent enemies, it gains a +1 morale bonus to its AC, and a +1 morale bonus on saves and on attack rolls made as readied actions and attacks of opportunity. Alternatively, if the affected creature does not close with its enemies, it can increase the DC of all spells it casts as part of a readied action by 1. If the subject of the spell willingly moves toward a threatening creature, the spell immediately ends.<br><br> While affected by <i>coward’s cowl<\/i>, a creature takes a -2 penalty on all saving throws against fear effects.",
     "name_zh": "懦夫的蒙头斗篷",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",

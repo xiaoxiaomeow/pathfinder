@@ -19,7 +19,7 @@
     "duration": "1 round/level",
     "savingThrow": "Will partial",
     "spellResistance": "yes",
-    "text": "This spell functions as <i>confusion<\/i>, except that it affects only constructs. When you are rolling for a confused construct’s behavior, a result of 26–50 indicates the construct twitches spasmodically. On a successful Will save, the construct is confused for only 1 round.",
+    "text": "This spell functions as <i>confusion<\/i>, except that it affects only constructs. When you are rolling for a confused construct’s behavior, a result of 26-50 indicates the construct twitches spasmodically. On a successful Will save, the construct is confused for only 1 round.",
     "name_zh": "困惑构装体",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",

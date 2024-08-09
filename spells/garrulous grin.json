@@ -27,7 +27,7 @@
     "duration": "1 hour/level (D)",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "This Nidalese spell plants a seed of supernatural fear deep in a subject’s mind, causing self-doubt, stuttering, and evasiveness. Affected creatures have difficulty meeting anyone’s gaze and seem dishonest or guilty. The target takes a –4 penalty on Bluff and Diplomacy checks to convince another of the truth of her words, and on Diplomacy or Intimidate checks to influence another creature’s attitude.",
+    "text": "This Nidalese spell plants a seed of supernatural fear deep in a subject’s mind, causing self-doubt, stuttering, and evasiveness. Affected creatures have difficulty meeting anyone’s gaze and seem dishonest or guilty. The target takes a -4 penalty on Bluff and Diplomacy checks to convince another of the truth of her words, and on Diplomacy or Intimidate checks to influence another creature’s attitude.",
     "name_zh": "饶舌嬉笑",
     "castingTime_zh": "1轮",
     "components_zh": "姿势",

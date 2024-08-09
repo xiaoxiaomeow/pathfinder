@@ -18,7 +18,7 @@
     "duration": "instantaneous",
     "savingThrow": "see text",
     "spellResistance": "yes",
-    "text": "All living creatures within the area of effect, including yourself, must immediately attempt a saving throw with a –2 penalty against any and all diseases they have contracted, even if the onset time has not yet elapsed. On a failed saving throw, the affliction has its usual effect. A successful save does not count toward curing the affliction.",
+    "text": "All living creatures within the area of effect, including yourself, must immediately attempt a saving throw with a -2 penalty against any and all diseases they have contracted, even if the onset time has not yet elapsed. On a failed saving throw, the affliction has its usual effect. A successful save does not count toward curing the affliction.",
     "name_zh": "病毒爆发",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",

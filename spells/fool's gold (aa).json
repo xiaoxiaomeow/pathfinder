@@ -26,7 +26,7 @@
     "duration": "10 minutes/level",
     "savingThrow": "Fortitude negates (object, see text)",
     "spellResistance": "yes",
-    "text": "You cast this spell on one or more gold pieces, which make those who have them more vulnerable to your magics. A creature with one or more of these gold pieces in its possession must attempt a Will save (at this spell’s save DC) the first time the creature is forced to attempt a saving throw against a spell, spell-like ability, or supernatural ability you create. If the creature fails, it takes a –2 penalty on all saving throws against your magic effects as long as the gold piece is in its possession. Additionally, if it fails a saving throw against a magic ability of yours that is not harmless and has a duration, the duration is doubled for that creature.",
+    "text": "You cast this spell on one or more gold pieces, which make those who have them more vulnerable to your magics. A creature with one or more of these gold pieces in its possession must attempt a Will save (at this spell’s save DC) the first time the creature is forced to attempt a saving throw against a spell, spell-like ability, or supernatural ability you create. If the creature fails, it takes a -2 penalty on all saving throws against your magic effects as long as the gold piece is in its possession. Additionally, if it fails a saving throw against a magic ability of yours that is not harmless and has a duration, the duration is doubled for that creature.",
     "name_zh": "愚人之金",
     "castingTime_zh": "标准动作",
     "components_zh": "言语，姿势，器材（一块价值5gp的金子）",

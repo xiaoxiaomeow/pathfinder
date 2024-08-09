@@ -14,7 +14,7 @@
     "duration": "1 round/level",
     "savingThrow": "Will partial (see text)",
     "spellResistance": "yes",
-    "text": "This functions as per <i>thought worm III<\/i>, except that the penalty on Will saves is –6 and a target that succeeds at its Will save still takes a –3 penalty on Will saves against your mind-affecting spells and effects for the same duration. This spell can be undercast.",
+    "text": "This functions as per <i>thought worm III<\/i>, except that the penalty on Will saves is -6 and a target that succeeds at its Will save still takes a -3 penalty on Will saves against your mind-affecting spells and effects for the same duration. This spell can be undercast.",
     "name_zh": "精神蛀虫 IV",
     "castingTime_zh": "标准动作",
     "range_zh": "近距 (25尺+每2等级5尺)",
