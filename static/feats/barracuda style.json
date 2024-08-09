@@ -10,7 +10,7 @@
     "text": "You study a combat style consisting of fluid, circular motions suited for moving and fighting underwater.",
     "prerequisites": "Wis 13, Improved Unarmed Strike, Acrobatics 3 ranks, Swim 3 ranks.",
     "benefit": "Your unarmed strikes deal normal damage underwater, and you don’t take penalties on attack rolls with unarmed strikes made underwater. You add your Wisdom modifier in addition to your Strength modifier on Swim checks.",
-    "normal": "Attacks with bludgeoning weapons (such as unarmed strikes) deal half damage and take a –2 penalty on attack rolls underwater.",
+    "normal": "Attacks with bludgeoning weapons (such as unarmed strikes) deal half damage and take a -2 penalty on attack rolls underwater.",
     "prerequisiteKeys": ["improved unarmed strike"],
     "name_zh": "梭鱼流",
     "text_zh": "你学会了一种由流畅与循环的动作构成的战斗架势，它擅于在水下移动和战斗。",

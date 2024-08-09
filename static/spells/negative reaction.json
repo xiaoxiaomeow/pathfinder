@@ -24,7 +24,7 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "The target’s actions and words fail to impress. The target of this spell takes a –10 penalty on any Bluff, Diplomacy, and Intimidate checks as well as any performance combat checks it attempts.",
+    "text": "The target’s actions and words fail to impress. The target of this spell takes a -10 penalty on any Bluff, Diplomacy, and Intimidate checks as well as any performance combat checks it attempts.",
     "name_zh": "忽视存在",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势",

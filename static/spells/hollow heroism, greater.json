@@ -26,7 +26,7 @@
     "duration": "1 minute/level (D)",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "This spell functions as <i>greater heroism<\/i>, except that you can reverse the spell by issuing a special command as a standard action if you are within medium range (100 feet + 10 feet per caster level) of the target. The target loses the bonuses and instead takes a –4 penalty on attack rolls, saving throws, and skill checks until the spell’s duration ends (no save), increasing to a –8 penalty against fear effects. Additionally, she takes damage equal to your caster level when you reverse the spell.<br><br> Attempts to identify <i>greater hollow heroism<\/i> with a skill check incorrectly identify it as <i>greater heroism<\/i>.",
+    "text": "This spell functions as <i>greater heroism<\/i>, except that you can reverse the spell by issuing a special command as a standard action if you are within medium range (100 feet + 10 feet per caster level) of the target. The target loses the bonuses and instead takes a -4 penalty on attack rolls, saving throws, and skill checks until the spell’s duration ends (no save), increasing to a -8 penalty against fear effects. Additionally, she takes damage equal to your caster level when you reverse the spell.<br><br> Attempts to identify <i>greater hollow heroism<\/i> with a skill check incorrectly identify it as <i>greater heroism<\/i>.",
     "name_zh": "高等虚伪气度",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",

@@ -22,7 +22,7 @@
     "duration": "1 hour/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "You subtly enhance or diminish the effects of natural winds within the spell’s area, which is an immobile emanation around a point touched by you as the spell is cast. Within the area, natural (but not magical) wind effects are either increased or decreased by one step in intensity (Core Rulebook 439). The maximum wind force you can affect with this spell is based on your caster level, as shown on the table below. Alter winds has no effect on magical wind effects.<br><br> <table class=\"inner\"><tr><td><b>Caster Level<\/b><\/td><td> <b>Wind Force<\/b><\/td><\/tr> <tr><td>1st–3rd<\/td><td> Light<\/td><\/tr> <tr><td>4th–9th<\/td><td> Moderate<\/td><\/tr> <tr><td>10th–15th<\/td><td> Strong<\/td><\/tr> <tr><td>16th or higher<\/td><td> Severe<\/td><\/tr><\/table>",
+    "text": "You subtly enhance or diminish the effects of natural winds within the spell’s area, which is an immobile emanation around a point touched by you as the spell is cast. Within the area, natural (but not magical) wind effects are either increased or decreased by one step in intensity (Core Rulebook 439). The maximum wind force you can affect with this spell is based on your caster level, as shown on the table below. Alter winds has no effect on magical wind effects.<br><br> <table class=\"inner\"><tr><td><b>Caster Level<\/b><\/td><td> <b>Wind Force<\/b><\/td><\/tr> <tr><td>1st-3rd<\/td><td> Light<\/td><\/tr> <tr><td>4th-9th<\/td><td> Moderate<\/td><\/tr> <tr><td>10th-15th<\/td><td> Strong<\/td><\/tr> <tr><td>16th or higher<\/td><td> Severe<\/td><\/tr><\/table>",
     "name_zh": "风力变化",
     "castingTime_zh": "1分钟",
     "components_zh": "语言, 姿势",

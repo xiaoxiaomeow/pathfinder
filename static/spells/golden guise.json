@@ -19,7 +19,7 @@
     "duration": "1 minute/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes",
-    "text": "You cause an object to briefly transform into gold. Affected items gain the properties of gold (<i>Pathfinder RPG Ultimate Equipment<\/i> 53) until the spell expires. Weapons reduce their hardness by half and gain the fragile quality, while piercing and slashing weapons take a –2 penalty on damage rolls (minimum 1 damage). This spell increases the affected item’s armor check penalty by 2 and decreases its armor or shield bonus by 2. Gold armor has hardness 5.",
+    "text": "You cause an object to briefly transform into gold. Affected items gain the properties of gold (<i>Pathfinder RPG Ultimate Equipment<\/i> 53) until the spell expires. Weapons reduce their hardness by half and gain the fragile quality, while piercing and slashing weapons take a -2 penalty on damage rolls (minimum 1 damage). This spell increases the affected item’s armor check penalty by 2 and decreases its armor or shield bonus by 2. Gold armor has hardness 5.",
     "name_zh": "黄金假象",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料（10金币）",

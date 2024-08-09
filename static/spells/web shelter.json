@@ -23,7 +23,7 @@
     "castingTime": "1 minute",
     "components": "V, S, DF",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "effect": "5 ft.–10 ft. diameter web sphere or 5 ft.–20 ft. hemisphere",
+    "effect": "5 ft.-10 ft. diameter web sphere or 5 ft.-20 ft. hemisphere",
     "duration": "1 hour/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",

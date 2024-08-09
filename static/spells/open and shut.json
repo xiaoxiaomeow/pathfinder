@@ -21,7 +21,7 @@
     "duration": "1 round/level (D)",
     "savingThrow": "Will disbelief",
     "spellResistance": "no",
-    "text": "You alter the appearance of a door and disguise whether it is open or closed. You can cause the touched door to appear closed regardless of whether it is open or closed, to appear open regardless of whether it is open or closed, or to appear to open or close. After you cast the spell, you can change between these options as a move action. Creatures using a move action to open or shut the door can attempt a Will save to disbelieve the illusion.<br><br> Regardless of how you alter the appearance of the door, creatures that believe the illusion take a –5 penalty on Perception checks regarding the door itself or creatures on the other side of the door.<br><br> This spell affects windows, gates, and similar openings in the same way it affects doors.",
+    "text": "You alter the appearance of a door and disguise whether it is open or closed. You can cause the touched door to appear closed regardless of whether it is open or closed, to appear open regardless of whether it is open or closed, or to appear to open or close. After you cast the spell, you can change between these options as a move action. Creatures using a move action to open or shut the door can attempt a Will save to disbelieve the illusion.<br><br> Regardless of how you alter the appearance of the door, creatures that believe the illusion take a -5 penalty on Perception checks regarding the door itself or creatures on the other side of the door.<br><br> This spell affects windows, gates, and similar openings in the same way it affects doors.",
     "name_zh": "门户错觉",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言，姿势，器材（门钉、门把手或合页）",

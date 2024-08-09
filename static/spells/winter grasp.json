@@ -26,7 +26,7 @@
     "duration": "1 round/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "Ice encrusts the ground, radiating supernatural cold and making it hard for creatures to maintain their balance. This icy ground is treated as normal ice, forcing creatures to spend 2 squares of movement to enter an icy square and increasing the DC of Acrobatics checks in the area by 5. A creature that begins its turn in the affected area takes 1d6 points of cold damage and takes a –2 penalty on saving throws against spells with the cold descriptor for 1 round.",
+    "text": "Ice encrusts the ground, radiating supernatural cold and making it hard for creatures to maintain their balance. This icy ground is treated as normal ice, forcing creatures to spend 2 squares of movement to enter an icy square and increasing the DC of Acrobatics checks in the area by 5. A creature that begins its turn in the affected area takes 1d6 points of cold damage and takes a -2 penalty on saving throws against spells with the cold descriptor for 1 round.",
     "name_zh": "凛冬之握",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料/法器（磨砂玻璃）",

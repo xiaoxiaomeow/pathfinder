@@ -23,7 +23,7 @@
     "duration": "5 minute/level (maximum 1 hour)",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "This spell induces a hallucinogenic reality in the mind of your target. Surfaces seem to swim, and movement constantly distracts the eye. The target takes a –2 penalty on Will saving throws, caster level checks, Intelligence-based skill checks, and Wisdom-based skill checks.",
+    "text": "This spell induces a hallucinogenic reality in the mind of your target. Surfaces seem to swim, and movement constantly distracts the eye. The target takes a -2 penalty on Will saving throws, caster level checks, Intelligence-based skill checks, and Wisdom-based skill checks.",
     "name_zh": "疯狂幻象",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",

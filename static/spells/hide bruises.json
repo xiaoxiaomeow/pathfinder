@@ -25,7 +25,7 @@
     "duration": "10 minutes/level (D)",
     "savingThrow": "none and Will disbelief (see text)",
     "spellResistance": "yes (harmless)",
-    "text": "The target’s wounds to seem to disappear. A creature attempting a Heal check to tell the severity of the target’s injuries takes a –10 penalty on that check. A creature that physically touches the glamered areas can attempt a Will save to recognize it as an illusion.",
+    "text": "The target’s wounds to seem to disappear. A creature attempting a Heal check to tell the severity of the target’s injuries takes a -10 penalty on that check. A creature that physically touches the glamered areas can attempt a Will save to recognize it as an illusion.",
     "name_zh": "隐藏伤痕",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料 (流下的血)",

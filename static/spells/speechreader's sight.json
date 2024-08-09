@@ -28,7 +28,7 @@
     "range": "personal",
     "target": "you",
     "duration": "1 hour/level (D)",
-    "text": "If a creature within 100 feet that you can see is speaking a language you understand, you can read its lips with perfect accuracy. Reading lips in this manner gives the exact wording of conversation and does not assist in deciphering any obfuscated ideas such as secret messages or slang. Reading lips requires moderate concentration, and you take a –4 penalty on other Perception checks while doing so.<br><br> <i>Speechreader’s sight<\/i> can be made permanent with a <i>permanency<\/i> spell cast by a caster of 9th level or higher, at a cost of 2,500 gp.",
+    "text": "If a creature within 100 feet that you can see is speaking a language you understand, you can read its lips with perfect accuracy. Reading lips in this manner gives the exact wording of conversation and does not assist in deciphering any obfuscated ideas such as secret messages or slang. Reading lips requires moderate concentration, and you take a -4 penalty on other Perception checks while doing so.<br><br> <i>Speechreader’s sight<\/i> can be made permanent with a <i>permanency<\/i> spell cast by a caster of 9th level or higher, at a cost of 2,500 gp.",
     "name_zh": "读唇者视力",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",

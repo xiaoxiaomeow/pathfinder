@@ -27,7 +27,7 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "Upon casting this spell, you target a living creature that has –1 or fewer hit points. That creature is automatically stabilized and does not lose any further hit points. If the creature later takes damage, it continues dying normally.",
+    "text": "Upon casting this spell, you target a living creature that has -1 or fewer hit points. That creature is automatically stabilized and does not lose any further hit points. If the creature later takes damage, it continues dying normally.",
     "name_zh": "稳定伤势",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",

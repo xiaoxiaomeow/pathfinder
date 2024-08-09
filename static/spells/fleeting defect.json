@@ -20,7 +20,7 @@
     "duration": "1 minute/level (D)",
     "savingThrow": "Fortitude negates (harmless, object), see text",
     "spellResistance": "no",
-    "text": "You cause a single object to temporarily gain the broken condition. The target must be a single solid object, regardless of its composition, weighing up to 10 pounds per caster level. Attended objects are allowed a Fortitude save. When this spell ends, the object reverts to its original quality. An item destroyed while under the effects of this spell remains destroyed when this spell ends.<br><br> This spell can be cast on a single construct to disrupt its animating force. A construct that fails its saving throw takes a –2 circumstance penalty on attack rolls, saving throws, skill checks, and ability checks for the duration of the spell.",
+    "text": "You cause a single object to temporarily gain the broken condition. The target must be a single solid object, regardless of its composition, weighing up to 10 pounds per caster level. Attended objects are allowed a Fortitude save. When this spell ends, the object reverts to its original quality. An item destroyed while under the effects of this spell remains destroyed when this spell ends.<br><br> This spell can be cast on a single construct to disrupt its animating force. A construct that fails its saving throw takes a -2 circumstance penalty on attack rolls, saving throws, skill checks, and ability checks for the duration of the spell.",
     "name_zh": "蚁穴溃堤",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",

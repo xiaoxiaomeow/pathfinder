@@ -21,7 +21,7 @@
     "range": "personal",
     "target": "you",
     "duration": "1 round/level",
-    "text": "When you are struck by an opponent’s natural attacks, the damage is resolved as if the attack came from a creature one size smaller per 5 caster levels (maximum of four size categories smaller at CL 20th). Refer to Table 3–1 in the <i>Pathfinder RPG Bestiary<\/i> to determine an attack’s altered base damage. If the creature’s natural attack deals nonstandard damage, refer instead to the Improved Natural Attack feat on page 315 of the <i>Bestiary<\/i>. It is not possible to reduce the base damage of a creature’s natural attack below 1d2 with this spell.",
+    "text": "When you are struck by an opponent’s natural attacks, the damage is resolved as if the attack came from a creature one size smaller per 5 caster levels (maximum of four size categories smaller at CL 20th). Refer to Table 3-1 in the <i>Pathfinder RPG Bestiary<\/i> to determine an attack’s altered base damage. If the creature’s natural attack deals nonstandard damage, refer instead to the Improved Natural Attack feat on page 315 of the <i>Bestiary<\/i>. It is not possible to reduce the base damage of a creature’s natural attack below 1d2 with this spell.",
     "name_zh": "龙龟之壳",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一块龟壳）",

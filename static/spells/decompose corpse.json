@@ -26,7 +26,7 @@
     "duration": "instantaneous or 1 minute; see text",
     "savingThrow": "Fortitude negates (object)",
     "spellResistance": "yes (object)",
-    "text": "Using this spell, the caster rapidly decomposes the flesh from a single corpse of size Huge or smaller, leaving behind a perfectly cleaned skeleton. If it is cast on a non-skeletal corporeal undead, the creature takes a –2 penalty on all rolls and to its Armor Class and CMD for 1 minute.",
+    "text": "Using this spell, the caster rapidly decomposes the flesh from a single corpse of size Huge or smaller, leaving behind a perfectly cleaned skeleton. If it is cast on a non-skeletal corporeal undead, the creature takes a -2 penalty on all rolls and to its Armor Class and CMD for 1 minute.",
     "name_zh": "分解尸体",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一块风干的毒菌)",

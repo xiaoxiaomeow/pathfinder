@@ -18,7 +18,7 @@
     "duration": "1 round/level",
     "savingThrow": "Will partial",
     "spellResistance": "yes",
-    "text": "You can use your psychic power to overwhelm the target’s ego, leaving the target feeling hopeless and unsure of itself. Choose Intelligence, Wisdom, or Charisma. The target takes a –2 penalty to that ability score, and is also staggered for the first round it’s affected. A successful Will save negates the staggered effect and reduces the duration of the penalty to 1 round.",
+    "text": "You can use your psychic power to overwhelm the target’s ego, leaving the target feeling hopeless and unsure of itself. Choose Intelligence, Wisdom, or Charisma. The target takes a -2 penalty to that ability score, and is also staggered for the first round it’s affected. A successful Will save negates the staggered effect and reduces the duration of the penalty to 1 round.",
     "name_zh": "自性鞭笞 I",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势",

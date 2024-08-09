@@ -27,7 +27,7 @@
     "duration": "permanent",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "You invest a target with cursed elemental energy, causing nearby bodies of water to roil when the target draw nears and tendrils of water to drag it deeper under the waves. The target takes a –10 penalty on Swim checks and automatically sinks 15 feet per round when in any body of liquid. The creature does not sink if standing upon a solid surface capable of supporting its weight, even if it is submerged.",
+    "text": "You invest a target with cursed elemental energy, causing nearby bodies of water to roil when the target draw nears and tendrils of water to drag it deeper under the waves. The target takes a -10 penalty on Swim checks and automatically sinks 15 feet per round when in any body of liquid. The creature does not sink if standing upon a solid surface capable of supporting its weight, even if it is submerged.",
     "name_zh": "深渊丧钟",
     "castingTime_zh": "1轮",
     "components_zh": "语言、姿势",

@@ -29,7 +29,7 @@
     "duration": "permanent",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "You place a curse on the subject. Choose one of the following.<ul><li>–6 decrease to an ability score (minimum 1).<\/li><li>–4 penalty on attack rolls, saves, ability checks, and skill checks.<\/li><li>Each turn, the target has a 50% chance to act normally; otherwise, it takes no action.<\/li><\/ul>You may also invent your own curse, but it should be no more powerful than those described above.<br><br>The curse bestowed by this spell cannot be dispelled, but it can be removed with a <i>break enchantment<\/i>, <i>limited wish<\/i>, <i>miracle<\/i>, <i>remove curse<\/i>, or <i>wish<\/i> spell.<br><br><i>Bestow curse<\/i> counters <i>remove curse<\/i>.",
+    "text": "You place a curse on the subject. Choose one of the following.<ul><li>-6 decrease to an ability score (minimum 1).<\/li><li>-4 penalty on attack rolls, saves, ability checks, and skill checks.<\/li><li>Each turn, the target has a 50% chance to act normally; otherwise, it takes no action.<\/li><\/ul>You may also invent your own curse, but it should be no more powerful than those described above.<br><br>The curse bestowed by this spell cannot be dispelled, but it can be removed with a <i>break enchantment<\/i>, <i>limited wish<\/i>, <i>miracle<\/i>, <i>remove curse<\/i>, or <i>wish<\/i> spell.<br><br><i>Bestow curse<\/i> counters <i>remove curse<\/i>.",
     "name_zh": "降咒",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",

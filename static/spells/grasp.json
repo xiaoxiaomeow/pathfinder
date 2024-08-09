@@ -26,7 +26,7 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "You can cast this spell as an immediate action when you fail a Climb check and would fall. You can immediately attempt another Climb check as a free action at a –2 penalty. Each successive use of this spell in a particular situation increases the penalty by 2. If successful, you don’t fall, but you don’t progress at climbing.",
+    "text": "You can cast this spell as an immediate action when you fail a Climb check and would fall. You can immediately attempt another Climb check as a free action at a -2 penalty. Each successive use of this spell in a particular situation increases the penalty by 2. If successful, you don’t fall, but you don’t progress at climbing.",
     "name_zh": "绝处逢生",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言",

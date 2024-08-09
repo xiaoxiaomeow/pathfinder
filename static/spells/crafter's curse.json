@@ -19,7 +19,7 @@
     "duration": "1 day/level (D)",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "The target of <i>crafter’s curse <\/i>takes a –5 penalty on all Craft skill checks while the spell lasts.",
+    "text": "The target of <i>crafter’s curse <\/i>takes a -5 penalty on all Craft skill checks while the spell lasts.",
     "name_zh": "匠人诅咒",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一把坏掉的工具)",

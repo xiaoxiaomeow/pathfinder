@@ -23,7 +23,7 @@
     "duration": "instantaneous",
     "savingThrow": "Reflex negates",
     "spellResistance": "yes",
-    "text": "A spiraling twister of tornado-force wind surges forth from your palm, unbalancing those it rushes over. Creatures on the ground within the area are knocked prone. A flying creature within the spell’s area must instead succeed at a DC 25 Fly check or plummet to the ground, taking the appropriate amount of falling damage. Creatures that are Huge or larger in size gain a +2 bonus on their Reflex saves, while creatures that are Medium or smaller in size take a –2 penalty.<br><br> Additionally, the area is subjected to tornado-force winds, extinguishing all nonmagical flames, dispersing clouds, and scattering unattended objects.",
+    "text": "A spiraling twister of tornado-force wind surges forth from your palm, unbalancing those it rushes over. Creatures on the ground within the area are knocked prone. A flying creature within the spell’s area must instead succeed at a DC 25 Fly check or plummet to the ground, taking the appropriate amount of falling damage. Creatures that are Huge or larger in size gain a +2 bonus on their Reflex saves, while creatures that are Medium or smaller in size take a -2 penalty.<br><br> Additionally, the area is subjected to tornado-force winds, extinguishing all nonmagical flames, dispersing clouds, and scattering unattended objects.",
     "name_zh": "细龙卷",
     "castingTime_zh": "标准动作",
     "components_zh": "言语，姿势，材料（一根线）",

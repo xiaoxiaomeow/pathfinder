@@ -5,7 +5,7 @@
     "source": ["Faiths and Philosophies pg. 11"],
     "text": "Your respect for nature is so great that you can form a deep and lasting friendship with an animal.",
     "prerequisites": "Nature Soul, character level 4th, must not have an animal companion or mount that advances as an animal companion.",
-    "benefit": "You gain an animal companion as if you were a druid of your character level –3 from the following list: badger, bird, camel, cat (small), dire rat, dog, horse, pony, snake (viper), or wolf. If you later gain an animal companion through another source (such as the Animal domain, divine bond, hunter’s bond, mount, or nature bond class features), the effective druid level granted by this feat stacks with that granted by other sources.",
+    "benefit": "You gain an animal companion as if you were a druid of your character level -3 from the following list: badger, bird, camel, cat (small), dire rat, dog, horse, pony, snake (viper), or wolf. If you later gain an animal companion through another source (such as the Animal domain, divine bond, hunter’s bond, mount, or nature bond class features), the effective druid level granted by this feat stacks with that granted by other sources.",
     "prerequisiteKeys": ["nature soul"],
     "name_zh": "动物盟友",
     "text_zh": "你是如此尊敬自然因此你可以与一只动物缔结更加深层和长久的友谊。",

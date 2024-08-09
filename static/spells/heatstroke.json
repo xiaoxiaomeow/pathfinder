@@ -19,7 +19,7 @@
     "duration": "1 minute/level",
     "savingThrow": "Fortitude partial, see text",
     "spellResistance": "yes",
-    "text": "A wavering red ray projects from your finger. You must succeed on a ranged touch attack with the ray to hit your target.<br><br>The ray inflicts 1d4 points of nonlethal damage, causing the target to suffer from heatstroke as its body temperature dramatically increases. Except as noted above, this spell otherwise functions as <i>ray of exhaustion<\/i>.<br><br>Characters wearing heavy clothing or armor of any sort take a –4 penalty on their saves.",
+    "text": "A wavering red ray projects from your finger. You must succeed on a ranged touch attack with the ray to hit your target.<br><br>The ray inflicts 1d4 points of nonlethal damage, causing the target to suffer from heatstroke as its body temperature dramatically increases. Except as noted above, this spell otherwise functions as <i>ray of exhaustion<\/i>.<br><br>Characters wearing heavy clothing or armor of any sort take a -4 penalty on their saves.",
     "name_zh": "酷暑射线",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一滴汗水）",

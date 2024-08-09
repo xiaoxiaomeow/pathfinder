@@ -7,7 +7,7 @@
     "text": "Your quick ranged attacks make you difficult to locate.",
     "prerequisites": "Stealth 3 ranks.",
     "benefit": "You reduce the penalty on your Stealth checks to stay hidden while sniping by 10.",
-    "normal": "You take a –20 penalty on Stealth checks to stay hidden while sniping.",
+    "normal": "You take a -20 penalty on Stealth checks to stay hidden while sniping.",
     "name_zh": "老练狙击",
     "text_zh": "你深通打一枪换一个地方的真髓。",
     "prerequisites_zh": "潜行技能3级。",

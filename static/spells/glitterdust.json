@@ -26,7 +26,7 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates (blinding only)",
     "spellResistance": "no",
-    "text": "A cloud of golden particles covers everyone and everything in the area, causing creatures to become blinded and visibly outlining invisible things for the duration of the spell. All within the area are covered by the dust, which cannot be removed and continues to sparkle until it fades. Each round at the end of their turn blinded creatures may attempt new saving throws to end the blindness effect.<br><br>Any creature covered by the dust takes a –40 penalty on Stealth checks.",
+    "text": "A cloud of golden particles covers everyone and everything in the area, causing creatures to become blinded and visibly outlining invisible things for the duration of the spell. All within the area are covered by the dust, which cannot be removed and continues to sparkle until it fades. Each round at the end of their turn blinded creatures may attempt new saving throws to end the blindness effect.<br><br>Any creature covered by the dust takes a -40 penalty on Stealth checks.",
     "name_zh": "闪光尘",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (云母粉)",

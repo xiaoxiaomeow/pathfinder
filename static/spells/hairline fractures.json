@@ -25,7 +25,7 @@
     "duration": "1 round/level",
     "savingThrow": "Fortitude negates (object)",
     "spellResistance": "yes (object)",
-    "text": "With a single touch, you create temporary hairline fractures in a piece of stone or a creature with the earth subtype. If you cast this spell on a section of stone, you reduce its hardness to 5 and its hit points to 10/inch of thickness. If you cast this spell on a creature with the earth subtype, that creature takes a –2 penalty to AC for the spell’s duration. <i>Make whole <\/i>reverses this spell’s effect.",
+    "text": "With a single touch, you create temporary hairline fractures in a piece of stone or a creature with the earth subtype. If you cast this spell on a section of stone, you reduce its hardness to 5 and its hit points to 10/inch of thickness. If you cast this spell on a creature with the earth subtype, that creature takes a -2 penalty to AC for the spell’s duration. <i>Make whole <\/i>reverses this spell’s effect.",
     "name_zh": "溃堤之穴",
     "race_zh": "托拉格",
     "castingTime_zh": "标准动作",

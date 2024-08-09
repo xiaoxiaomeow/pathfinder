@@ -5,7 +5,7 @@
     "source": ["Advanced Class Guide pg. 148"],
     "text": "You can absorb the magic in your force spells to give you a concentrated burst of speed.",
     "prerequisites": "Base attack bonus +4, ability to cast 2nd-level arcane spells, ability to cast at least one arcane force spell.",
-    "benefit": "As a swift action, you can sacrifice a prepared arcane force spell (or if you are a spontaneous caster, a spell slot of the same level as an arcane force spell you know) to give yourself an enhancement bonus to speed. The bonus gained is equal to 10 feet × the level of the spell sacrificed. The bonus applies to all forms of movement, and it lasts 1 round. If you charge while this bonus is in effect, you do not take the normal –2 penalty to AC until the start of your next turn.",
+    "benefit": "As a swift action, you can sacrifice a prepared arcane force spell (or if you are a spontaneous caster, a spell slot of the same level as an arcane force spell you know) to give yourself an enhancement bonus to speed. The bonus gained is equal to 10 feet × the level of the spell sacrificed. The bonus applies to all forms of movement, and it lasts 1 round. If you charge while this bonus is in effect, you do not take the normal -2 penalty to AC until the start of your next turn.",
     "name_zh": "力能加速",
     "text_zh": "你吸收力场法术的能量，将自己的移动导入更强的推进力。",
     "prerequisites_zh": "BAB+4，可以施放2环奥术，可以施放至少一个力场类奥术法术。",

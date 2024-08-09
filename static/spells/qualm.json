@@ -25,7 +25,7 @@
     "duration": "1 minute/level or until discharged",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "The target is suddenly beset with unexplainable doubts about the effectiveness of its actions and the righteousness of its cause. The creature takes a –10 penalty on its ability checks, skill checks, and concentration checks, until the duration ends, or until it spends its entire turn doing absolutely nothing (it spends a full-round action gaining focus). Spending an entire turn doing nothing discharges the spell.",
+    "text": "The target is suddenly beset with unexplainable doubts about the effectiveness of its actions and the righteousness of its cause. The creature takes a -10 penalty on its ability checks, skill checks, and concentration checks, until the duration ends, or until it spends its entire turn doing absolutely nothing (it spends a full-round action gaining focus). Spending an entire turn doing nothing discharges the spell.",
     "name_zh": "顾虑重重",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",

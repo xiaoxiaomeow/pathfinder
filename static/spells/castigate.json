@@ -23,7 +23,7 @@
     "duration": "1 round/level or 1 round; see text",
     "savingThrow": "Will partial",
     "spellResistance": "yes",
-    "text": "You compel the target to beg for forgiveness. On a failed save, the target cowers with fear. On a successful save, it is shaken for 1 round. Each round on its turn, a cowering subject may attempt a new save to end the effect. A creature who worships the same god as you takes a –2 penalty on its saving throw.",
+    "text": "You compel the target to beg for forgiveness. On a failed save, the target cowers with fear. On a successful save, it is shaken for 1 round. Each round on its turn, a cowering subject may attempt a new save to end the effect. A creature who worships the same god as you takes a -2 penalty on its saving throw.",
     "name_zh": "严加斥责",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",

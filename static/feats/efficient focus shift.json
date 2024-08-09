@@ -6,7 +6,7 @@
     "text": "You are more adept than most at shifting mental focus between your implements.",
     "prerequisites": "Occultist level 7th.",
     "benefit": "Twice per day when you shift mental focus from one implement to another, you can add the same number of points to the latter implement that you removed from the former.",
-    "normal": "By removing points of mental focus from one implement, you can add the same amount – 1 to another.",
+    "normal": "By removing points of mental focus from one implement, you can add the same amount - 1 to another.",
     "special": "You can take this feat multiple times. Its effects stack.",
     "name_zh": "等效心智转移",
     "text_zh": "你比大多数人擅长转移灵器中的心智点。",
